@@ -1,0 +1,1 @@
+This is my first solo AI project I will be documenting all of my progress in github
