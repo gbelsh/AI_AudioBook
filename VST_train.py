@@ -20,8 +20,10 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
     save_interval = 10
     validation_interval = 1
 
-    discriminator_losses = []
-    generator_losses = []
+    train_discriminator_losses = []
+    train_generator_losses = []
+    val_discriminator_losses = []
+    val_generator_losses = []
 
     for epoch in tqdm(range(num_epochs)):
         discriminator.train()
@@ -66,8 +68,8 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
             D_G_z2 = output.mean().item()
             optimizerG.step()
 
-            discriminator_losses.append(errD.item())
-            generator_losses.append(errG.item())
+            train_discriminator_losses.append(errD.item())
+            train_generator_losses.append(errG.item())
 
             if i % 50 == 0:
                 print(f'[{epoch}/{num_epochs}][{i}/{len(train_dataloader)}] '
@@ -107,7 +109,8 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
 
                 val_loss_d /= len(val_dataloader)
                 val_loss_g /= len(val_dataloader)
-
+            val_discriminator_losses.append(val_loss_d)
+            val_generator_losses.append(val_loss_g)
             print(f'Validation Loss_D: {val_loss_d:.4f} Validation Loss_G: {val_loss_g:.4f}')
             writer.add_scalar('Validation Loss/Discriminator', val_loss_d, epoch)
             writer.add_scalar('Validation Loss/Generator', val_loss_g, epoch)
@@ -122,16 +125,16 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
     torch.save(generator.state_dict(), save_path)
     
     # Create and save the loss plot
-    plt.figure(figsize=(10, 5))
-    plt.plot(range(len(discriminator_losses)), discriminator_losses, label='Discriminator Loss', alpha=0.7)
-    plt.plot(range(len(generator_losses)), generator_losses, label='Generator Loss', alpha=0.7)
-    plt.xlabel('Iterations')
+    plt.figure(figsize=(12, 6))
+    plt.plot(range(len(train_discriminator_losses)), train_discriminator_losses, label='Train Discriminator Loss', alpha=0.7)
+    plt.plot(range(len(train_generator_losses)), train_generator_losses, label='Train Generator Loss', alpha=0.7)
+    plt.plot(range(0, num_epochs, validation_interval), val_discriminator_losses, label='Validation Discriminator Loss', alpha=0.7)
+    plt.plot(range(0, num_epochs, validation_interval), val_generator_losses, label='Validation Generator Loss', alpha=0.7)
+    plt.xlabel('Epochs')
     plt.ylabel('Loss')
     plt.legend()
     plt.title('GAN Losses Over Training')
     plt.savefig('gan_losses.png')
-
-    # Optionally, display the loss plot
     plt.show()
 
     print('Training finished.')
@@ -146,7 +149,7 @@ if __name__ == '__main__':
     parser.add_argument('-s', '--save', type=str, default='yoda.pth', help='Name to save the model under')
     args = parser.parse_args()
 
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     num_epoch = args.epochs
     batch = args.batch_size
@@ -155,7 +158,7 @@ if __name__ == '__main__':
 
     # Data loading and transformations
     transform = transforms.Compose([
-        transforms.RandomResizedCrop(224),
+        transforms.Resize((224, 224)),  # Resize all images to 224x224
         transforms.RandomHorizontalFlip(),
         transforms.ToTensor(),
         transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
@@ -163,17 +166,17 @@ if __name__ == '__main__':
 
     # Initialize tokenizer (BERT tokenizer in this example)
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    text_processor = TextProcessor()
+    text_processor = TextProcessor(device='cuda:0')
 
     # Create datasets
-    train_dataset = VSTDataset('Datasets/train', tokenizer)
-    val_dataset = VSTDataset('Datasets/validation', tokenizer)
-    test_dataset = VSTDataset('Datasets/test', tokenizer)
+    train_dataset = VSTDataset('Datasets/train', tokenizer, transform=transform)
+    val_dataset = VSTDataset('Datasets/validation', tokenizer, transform=transform)
+    test_dataset = VSTDataset('Datasets/test', tokenizer, transform=transform)
 
     # Create DataLoaders
-    train_loader = DataLoader(train_dataset, batch_size=batch, shuffle=True)
-    val_loader = DataLoader(val_dataset, batch_size=batch, shuffle=True)
-    test_loader = DataLoader(test_dataset, batch_size=batch, shuffle=False)
+    train_loader = DataLoader(train_dataset, batch_size=batch, shuffle=True, num_workers=3)
+    val_loader = DataLoader(val_dataset, batch_size=batch, shuffle=True, num_workers=3)
+    test_loader = DataLoader(test_dataset, batch_size=batch, shuffle=False, num_workers=3)
 
     # Create the generator and discriminator
     netG = Generator().to(device)
