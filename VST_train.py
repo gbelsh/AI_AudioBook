@@ -14,11 +14,11 @@ from pytorch_fid import fid_score
 import matplotlib.pyplot as plt
 from VST_textProcessor import TextProcessor
 
-def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train_dataloader, val_dataloader, device, num_epochs, save_path, batch_size, text_processor):
+def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train_dataloader, val_dataloader, device, num_epochs, save_path, text_processor):
     
     writer = SummaryWriter('vst_gan_logs')
     save_interval = 10
-    validation_interval = 1
+    validation_interval = 2
 
     train_discriminator_losses = []
     train_generator_losses = []
@@ -72,7 +72,7 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
             train_generator_losses.append(errG.item())
 
             if i % 50 == 0:
-                print(f'[{epoch}/{num_epochs}][{i}/{len(train_dataloader)}] '
+                print(f' '
                       f'Loss_D: {errD.item():.4f} Loss_G: {errG.item():.4f} '
                       f'D(x): {D_x:.4f} D(G(z)): {D_G_z1:.4f}/{D_G_z2:.4f}')
                 writer.add_scalar('Loss/Discriminator', errD.item(), len(train_dataloader)*epoch + i)
@@ -182,11 +182,13 @@ if __name__ == '__main__':
     netG = Generator().to(device)
     netD = Discriminator().to(device)
 
-    # Setup Adam optimizers for both G and D
-    optimizerD = optim.Adam(netD.parameters(), lr=learning_rate, betas=(0.5, 0.999))
-    optimizerG = optim.Adam(netG.parameters(), lr=learning_rate, betas=(0.5, 0.999))
+    # Modified code with different learning rates
+    discriminator_lr = 0.00005  # Reduced learning rate for the discriminator
+    generator_lr = 0.0002  # Slightly increased learning rate for the generator
+    optimizerD = optim.Adam(netD.parameters(), lr=discriminator_lr, betas=(0.5, 0.999))
+    optimizerG = optim.Adam(netG.parameters(), lr=generator_lr, betas=(0.5, 0.999))
 
     # Loss function
     criterion = nn.BCELoss()
 
-    train_vst(netG, netD, optimizerD, optimizerG, criterion, train_loader, val_loader,device, num_epoch, model_loc, batch, text_processor)
+    train_vst(netG, netD, optimizerD, optimizerG, criterion, train_loader, val_loader,device, num_epoch, model_loc, text_processor)
