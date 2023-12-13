@@ -1,0 +1,8 @@
+Soravit Changpinyo, Piyush Sharma, Nan Ding, Radu Soricut. Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts. CVPR 2021.
+
+@inproceedings{changpinyo2021cc12m,
+  title = {{Conceptual 12M}: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts},
+  author = {Changpinyo, Soravit and Sharma, Piyush and Ding, Nan and Soricut, Radu},
+  booktitle = {CVPR},
+  year = {2021},
+}

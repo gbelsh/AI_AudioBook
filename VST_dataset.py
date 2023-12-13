@@ -2,39 +2,43 @@ import os
 import random
 import shutil
 
-def split_dataset(source_directory, destination_directory, train_ratio=0.7, validation_ratio=0.15, test_ratio=0.15):
-    # List all files in the source directory
-    all_files = [f for f in os.listdir(source_directory) if f.endswith('.txt')]
-    
-    # Shuffle the files to ensure random distribution
+def split_dataset(source_directory, output_directory, train_ratio=0.7, validation_ratio=0.15, test_ratio=0.15):
+    assert train_ratio + validation_ratio + test_ratio == 1
+
+    # Create the output directory if it does not exist
+    os.makedirs(output_directory, exist_ok=True)
+
+    # Create subdirectories for train, validation, and test sets
+    train_dir = os.path.join(output_directory, 'train')
+    validation_dir = os.path.join(output_directory, 'validation')
+    test_dir = os.path.join(output_directory, 'test')
+    os.makedirs(train_dir, exist_ok=True)
+    os.makedirs(validation_dir, exist_ok=True)
+    os.makedirs(test_dir, exist_ok=True)
+
+    all_files = [f for f in os.listdir(source_directory) if f.endswith('.jpg')]
     random.shuffle(all_files)
 
-    # Calculate the number of files for each set
     total_files = len(all_files)
     train_size = int(total_files * train_ratio)
     validation_size = int(total_files * validation_ratio)
-    
-    # Split files into training, validation, and testing
-    train_files = all_files[:train_size]
-    validation_files = all_files[train_size:train_size + validation_size]
-    test_files = all_files[train_size + validation_size:]
 
-    # Function to copy files to a target directory
-    def copy_files(files, target_dir):
-        if not os.path.exists(target_dir):
-            os.makedirs(target_dir)
-        for f in files:
-            shutil.copy2(os.path.join(source_directory, f), os.path.join(target_dir, f))
+    for i, file in enumerate(all_files):
+        if i < train_size:
+            target_dir = train_dir
+        elif i < train_size + validation_size:
+            target_dir = validation_dir
+        else:
+            target_dir = test_dir
 
-    # Copy files to respective directories
-    copy_files(train_files, os.path.join(destination_directory, 'train'))
-    copy_files(validation_files, os.path.join(destination_directory, 'validation'))
-    copy_files(test_files, os.path.join(destination_directory, 'test'))
+        shutil.copy2(os.path.join(source_directory, file), os.path.join(target_dir, file))
+        txt_file = file.replace('.jpg', '.txt')
+        shutil.copy2(os.path.join(source_directory, txt_file), os.path.join(target_dir, txt_file))
 
     print("Dataset split into training, validation, and test sets.")
 
-# Example usage
-source_directory = 'Project_Gutenberg_Data'  # Directory where the downloaded books are stored
-destination_directory = 'Datasets'     # Directory where the dataset will be organized
+if __name__ == '__main__':
+    source_directory = 'CC12M'  # Replace with your CC12M folder path
+    output_directory = 'Datasets'  # The main directory where the datasets will be stored
 
-split_dataset(source_directory, destination_directory)
+    split_dataset(source_directory, output_directory)
