@@ -18,7 +18,7 @@ def train_vst(generator, discriminator, optimizerD, optimizerG, criterion, train
     
     writer = SummaryWriter('vst_gan_logs')
     save_interval = 10
-    validation_interval = 2
+    validation_interval = 1
 
     train_discriminator_losses = []
     train_generator_losses = []

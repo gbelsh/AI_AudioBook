@@ -1,1 +1,1 @@
-python VST_train.py -e 20 -b 32 -l 0.0001 -tl Training_Validation.png -s vstTrain.pth
+python VST_train.py -e 20 -b 16 -l 0.0001 -tl Training_Validation.png -s vstTrain.pth
