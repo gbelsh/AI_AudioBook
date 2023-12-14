@@ -1,6 +1,0 @@
-<br />
-<b>Warning</b>:  file_get_contents(http://thumbs4.ebaystatic.com/d/l400/pict/272801846656.jpg): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
- in <b>/home/zeppy/thumb.zeppy.io/fetch_image.php</b> on line <b>482</b><br />
-<br />
-<b>Warning</b>:  imagecreatefromstring(): Empty string or invalid image in <b>/home/zeppy/thumb.zeppy.io/fetch_image.php</b> on line <b>491</b><br />
-Unable to create image.

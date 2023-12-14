@@ -2,32 +2,31 @@ import os
 import re
 
 def delete_files_from_warnings(warning_text, base_dir):
-    """
-    Deletes image files and their corresponding text files based on warning messages.
-
-    :param warning_text: String containing the warning messages.
-    :param base_dir: Base directory where the files are located.
-    """
-    # Regular expression to find file paths in the warning messages
     pattern = re.compile(r"'(.*?\.jpg)'")
-
-    # Find all matches in the warning text
     matches = pattern.findall(warning_text)
 
     for match in matches:
+        # Extract only the filename from the match
+        filename = os.path.basename(match)
+
         # Construct full paths for the image and text file
-        image_path = os.path.join(base_dir, match)
+        image_path = os.path.join(base_dir, filename)
         text_path = os.path.splitext(image_path)[0] + '.txt'
 
-        # Delete the image file
-        if os.path.exists(image_path):
-            os.remove(image_path)
-            print(f"Deleted {image_path}")
+        try:
+            if os.path.exists(image_path):
+                print(f"Attempting to delete image: {image_path}")
+                os.remove(image_path)
+                print(f"Deleted {image_path}")
 
-        # Delete the corresponding text file
-        if os.path.exists(text_path):
-            os.remove(text_path)
-            print(f"Deleted {text_path}")
+            if os.path.exists(text_path):
+                print(f"Attempting to delete text file: {text_path}")
+                os.remove(text_path)
+                print(f"Deleted {text_path}")
+        except Exception as e:
+            print(f"Error deleting file {image_path} or {text_path}: {e}")
+
+
 if __name__ == '__main__':
     # Example usage
     warning_text = """warning: in the working copy of 'CC12M/image_27.jpg', LF will be replaced by CRLF the next time Git touches it
