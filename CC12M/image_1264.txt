@@ -1,0 +1,1 @@
+A weather map showing surface-pressure systems, air masses, fronts, and isobars (in millibars) as solid gray lines.

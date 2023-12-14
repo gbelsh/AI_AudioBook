@@ -48,4 +48,4 @@ if __name__ == '__main__':
     tsv_file = 'C:/Users/zerod/Downloads/cc12m.tsv'  # Path to your CC12M tsv file
     output_directory = 'CC12M'  # Directory where images and descriptions will be saved
 
-    load_cc12m_dataset(tsv_file, output_directory, max_items=1000)  # Set max_items as needed
+    load_cc12m_dataset(tsv_file, output_directory, max_items=10000)  # Set max_items as needed

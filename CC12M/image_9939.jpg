@@ -1,0 +1,285 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui" />
+	<title>500 Server Error - OurAuckland</title>
+	<meta name="description" content="">
+	<meta name="author" content="OurAuckland" />
+	<link rel="apple-touch-icon" href="/images/favicons/apple-icon-180x180.png" />
+	<link rel="icon" type="image/png" href="/images/favicons/apple-icon-180x180.png" sizes="180x180" />
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="/images/favicons/favicon-16x16.png" sizes="16x16" />
+	<link href="/bundles/styles?v=R5lNGhf0L0dbg6TkVwj0tsAkOyUiMJdWBJBcnbuoZGs1" rel="stylesheet" />
+	<link rel="preload" href="/fonts/bliss-bold.woff" type="font/woff" as="font" crossorigin>
+	<link rel="preload" href="/fonts/bliss-bold.woff2" type="font/woff2" as="font" crossorigin>
+	<link rel="preload" href="/fonts/bliss-light.woff" type="font/woff" as="font" crossorigin>
+	<link rel="preload" href="/fonts/bliss-light.woff2" type="font/woff2" as="font" crossorigin>
+</head>
+
+<body class="page-genericContent">
+	<!-- Website by Born Digital www.borndigital.co.nz -->
+	<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<symbol id="icon-arrow-down" viewBox="0 0 33 32"><path d="M14.7 4v18.9l-4.8-4.8L8 20l8 8 8-8-1.9-1.9-4.8 4.8V4h-2.6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-arrow-left" viewBox="0 0 33 32"><path d="M28 14.7H9.1l4.8-4.8L12 8l-8 8 8 8 1.9-1.9-4.8-4.8H28v-2.6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-arrow-right" viewBox="0 0 33 32"><path d="M4 17.3h18.9l-4.8 4.8L20 24l8-8-8-8-1.9 1.9 4.8 4.8H4v2.6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-arrow-up" viewBox="0 0 33 32"><path d="M17.3 28V9.1l4.8 4.8L24 12l-8-8-8 8 1.9 1.9 4.8-4.8V28h2.6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-calendar" viewBox="0 0 18 20"><path d="M16 2h-1V0h-2v2H5V0H3v2H2C.9 2 0 2.9 0 4v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 16H2V7h14v11zM4 9h5v5H4V9z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-chevron-down" viewBox="0 0 20 20"><path d="M6.5 6.7l3.8 3.8 3.8-3.8 1.2 1.2-5 5-5-5 1.2-1.2z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-chevron-left" viewBox="0 0 20 20"><path d="M13.4 5.9L9.6 9.7l3.8 3.9-1.2 1.2-5-5 5-5 1.2 1.1z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-chevron-right" viewBox="0 0 20 20"><path d="M7.2 13.6L11 9.7 7.2 5.9l1.2-1.2 5 5-5 5-1.2-1.1z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-chevron-up" viewBox="0 0 20 20"><path d="M14.1 12.8L10.3 9l-3.8 3.8-1.2-1.1 5-5 5 5-1.2 1.1z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-close" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M19 6.4L17.6 5 12 10.6 6.4 5 5 6.4l5.6 5.6L5 17.6 6.4 19l5.6-5.6 5.6 5.6 1.4-1.4-5.6-5.6z" /></symbol>
+		<symbol id="icon-download" viewBox="0 0 24 24"><path d="M12 16l4-4h-3V3h-2v9H8l4 4zm9-13h-6v2h6v14H3V5h6V3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-pin" viewBox="0 0 20 20"><path d="M10 1.7c-3.2 0-5.8 2.6-5.8 5.8 0 4.4 5.8 10.8 5.8 10.8s5.8-6.5 5.8-10.8c0-3.2-2.6-5.8-5.8-5.8zm0 7.9c-1.1 0-2.1-.9-2.1-2.1s.9-2.1 2.1-2.1 2.1.9 2.1 2.1-.9 2.1-2.1 2.1z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-plus" viewBox="0 0 20 20"><path d="M11 5H9v4H5v2h4v4h2v-4h4V9h-4V5zm-1-5C4.5 0 0 4.5 0 10s4.5 10 10 10 10-4.5 10-10S15.5 0 10 0zm0 18c-4.4 0-8-3.6-8-8s3.6-8 8-8 8 3.6 8 8-3.6 8-8 8z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-question" viewBox="0 0 22 22"><path d="M11 .2C16.9.2 21.8 5 21.8 11S16.9 21.8 11 21.8.2 16.9.2 11 5.1.2 11 .2zm0 1.6c-5.1 0-9.3 4.1-9.3 9.3s4.1 9.3 9.3 9.3 9.3-4.1 9.3-9.3-4.2-9.3-9.3-9.3z" /><path d="M8 9.4C8.3 7.9 9.4 7 11.3 7s3.1 1.1 3.1 2.8c0 2-1.5 2.5-2.7 2.5v.9H10v-2h.7c1.1 0 1.6-.3 1.6-1.3 0-.8-.5-1.2-1.2-1.2-.9 0-1.2.5-1.3 1.4L8 9.4zm2.9 4.4c.7 0 1.3.5 1.3 1.2s-.5 1.2-1.3 1.2c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2z" /></symbol>
+		<symbol id="icon-search" viewBox="0 0 32 32"><path d="M21 19h-1l-.4-.4c1.3-1.5 2.1-3.5 2.1-5.6 0-4.8-3.9-8.7-8.7-8.7-4.8 0-8.7 3.9-8.7 8.7 0 4.8 3.9 8.7 8.7 8.7 2.1 0 4.1-.8 5.6-2.1l.4.4v1l6.7 6.7 2-2L21 19zm-8 0c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-share" viewBox="0 0 24 24"><path d="M18 16.1c-.8 0-1.4.3-2 .8l-7.1-4.2c.1-.2.1-.5.1-.7s0-.5-.1-.7L16 7.2c.5.5 1.2.8 2 .8 1.7 0 3-1.3 3-3s-1.3-3-3-3-3 1.3-3 3c0 .2 0 .5.1.7L8 9.8C7.5 9.3 6.8 9 6 9c-1.7 0-3 1.3-3 3s1.3 3 3 3c.8 0 1.5-.3 2-.8l7.1 4.2c-.1.2-.1.4-.1.6 0 1.6 1.3 2.9 2.9 2.9s2.9-1.3 2.9-2.9-1.2-2.9-2.8-2.9z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-email" viewBox="0 0 64 64"><path d="M54.2 11c1.3 0 2.5.5 3.4 1.4.9.9 1.4 2.1 1.4 3.4v32.5c0 1.3-.5 2.4-1.4 3.4-.9.9-2.1 1.4-3.4 1.4H9.8c-1.3 0-2.5-.5-3.4-1.4-.9-1-1.4-2.2-1.4-3.5V15.8c0-1.3.5-2.4 1.4-3.4 1-.9 2.1-1.4 3.4-1.4h44.4zm.8 14.4c-.6.7-1.3 1.4-2.1 1.9-5.4 4.1-9.6 7.4-12.8 10-1 .8-1.8 1.5-2.5 2-.6.5-1.5.9-2.6 1.4-1 .5-2 .7-3 .7s-2-.2-3.1-.7c-1.1-.5-2-1-2.6-1.4-.6-.5-1.5-1.1-2.5-2-3.2-2.6-7.4-5.9-12.8-10-.7-.6-1.4-1.2-2.1-1.9v22.7c0 .3.1.5.3.7.3.1.5.2.8.2h44c.3 0 .5-.1.7-.3.2-.2.3-.4.3-.7V25.4zM54 15H10c-.3 0-.5.1-.7.3-.2.2-.3.4-.3.6 0 3.3 1.5 6.1 4.4 8.4 3.9 3 7.9 6.1 12 9.4l.1.1.2.1c.2.1.4.4.7.6.6.5 1 .9 1.4 1.1.3.3.8.6 1.3.9.5.4 1.1.6 1.5.8.5.2.9.3 1.3.3h.1c.4 0 .8-.1 1.3-.3.5-.2 1-.4 1.5-.8s1-.7 1.3-.9c.3-.3.8-.6 1.4-1.1.6-.5.9-.8 1-.9 4.2-3.2 8.2-6.4 12-9.4 1.1-.8 2.1-2 3-3.4.9-1.4 1.4-2.7 1.4-3.9v-1.1c0-.3 0-.4-.1-.4 0 0-.1-.1-.2-.3-.1-.2-.1-.3-.3-.2 0 .2-.1.2-.3.1z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-facebook" viewBox="0 0 24 24"><path d="M17.6 1.5h-2.8c-3.1 0-5.2 2-5.2 5.2v2.4H6.8c-.2 0-.4.2-.4.4V13c0 .2.2.4.4.4h2.8v8.7c0 .2.2.4.4.4h3.7c.2 0 .4-.2.4-.4v-8.7h3.3c.2 0 .4-.2.4-.4V9.5c0-.1 0-.2-.1-.3s-.2-.1-.3-.1h-3.3V7c0-1 .2-1.5 1.5-1.5h1.9c.2 0 .4-.2.4-.4V1.9c.1-.2-.1-.4-.3-.4z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-instagram" viewBox="0 0 24 24"><path d="M20.7 3.3c-.5-.5-1-.7-1.7-.7H5c-.7 0-1.2.2-1.7.7S2.6 4.4 2.6 5v14c0 .7.2 1.2.7 1.7s1 .7 1.7.7h14c.7 0 1.2-.2 1.7-.7s.7-1 .7-1.7V5c0-.6-.3-1.2-.7-1.7zM9.4 9.7c.7-.7 1.6-1 2.6-1s1.9.3 2.7 1c.7.7 1.1 1.5 1.1 2.5s-.4 1.8-1.1 2.5c-.7.7-1.6 1-2.7 1-1 0-1.9-.3-2.6-1-.7-.7-1.1-1.5-1.1-2.5s.3-1.8 1.1-2.5zm9.7 8.7c0 .2-.1.4-.2.5-.1.1-.3.2-.5.2H5.6c-.2 0-.4-.1-.5-.2-.1-.1-.2-.3-.2-.5v-7.9h1.7c-.2.5-.2 1-.2 1.6 0 1.6.6 2.9 1.7 4s2.5 1.6 4 1.6c1 0 2-.3 2.9-.8.9-.5 1.6-1.2 2.1-2.1.5-.9.8-1.8.8-2.8 0-.6-.1-1.1-.2-1.6h1.6v8zm.4-10.6c0 .2-.1.4-.3.6-.2.2-.4.2-.6.2h-2.3c-.3 0-.5-.1-.6-.2-.2-.2-.3-.4-.3-.6v-2c0-.2.1-.4.3-.6.1-.2.3-.3.6-.3h2.3c.3 0 .5.1.6.3.2.2.3.4.3.6v2z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-linkedin" viewBox="0 0 21 20"><path d="M20.1 12.2v7.6h-4.3v-7.1c0-1.8-.6-3-2.2-3-1.2 0-1.9.8-2.2 1.6-.1.3-.1.7-.1 1.1v7.4H7s.1-12 0-13.2h4.3v1.9c.6-.9 1.6-2.2 3.9-2.2 2.8 0 4.9 1.8 4.9 5.9zM2.7.3C1.2.3.2 1.3.2 2.5c0 1.2.9 2.3 2.4 2.3s2.5-1 2.5-2.3C5.1 1.2 4.2.3 2.7.3zM.6 19.8h4.1V6.6H.6v13.2z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-neighbourly" viewBox="0 0 20 22"><path d="M19.5 7.7l-3.9-2.2c-.4-.2-.9-.1-1.2.3l-5.1 7.4c-.1.1-.2.3-.2.5v5.8L2 15.2V8.7l4.4-6.5 5.7 3.3c.4.2 1 .1 1.2-.3.2-.4.1-1-.3-1.2L6.6.2C6.2 0 5.7.1 5.4.5l-5 7.4c-.1.2-.1.3-.1.5v7.3c0 .3.2.6.4.8l8.9 5.2c.1.1.3.1.5.1s.3 0 .4-.1c.3-.2.5-.5.5-.8v-7.1l4.5-6.5 2.7 1.6v5.2L14.3 12c-.4-.2-1-.1-1.2.3-.2.4-.1 1 .3 1.2l5.1 2.9c.3.2.6.2.9 0 .3-.2.4-.5.4-.8V8.4c.1-.3-.1-.6-.3-.7z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-twitter" viewBox="0 0 24 24"><path d="M22.5 5.4c-.8.4-1.6.6-2.5.7.9-.5 1.6-1.4 1.9-2.4-.8.5-1.8.9-2.7 1.1-.8-.8-1.9-1.4-3.1-1.4-2.4 0-4.3 1.9-4.3 4.4 0 .3 0 .7.1 1-3.6-.3-6.8-2-8.9-4.6-.4.6-.6 1.4-.6 2.2 0 1.5.8 2.8 1.9 3.6-.7 0-1.4-.2-2-.5v.1c0 2.1 1.5 3.9 3.5 4.3-.4.1-.7.2-1.1.2-.3 0-.5 0-.8-.1.5 1.7 2.1 3 4 3-1.5 1.2-3.3 1.9-5.3 1.9-.3 0-.7 0-1-.1 1.9 1.2 4.2 2 6.6 2 7.9 0 12.3-6.6 12.3-12.4v-.6c.7-.7 1.4-1.5 2-2.4z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-social-youtube" viewBox="0 0 22 16"><path d="M20.7 1.8C19.9.9 18.5.5 15.9.5H6.1C3.4.5 2 .9 1.2 1.9.5 2.8.5 4.2.5 6.2v3.7c0 3.8.9 5.7 5.6 5.7h9.7c2.3 0 3.6-.3 4.4-1.1.9-.8 1.2-2.2 1.2-4.5V6.3c.1-2.2 0-3.6-.7-4.5zM14 8.6l-4.3 2.3c-.1.1-.2.1-.3.1-.1 0-.2 0-.3-.1-.2-.1-.3-.3-.3-.6V5.7c0-.2.1-.5.3-.6.2-.1.4-.1.6 0L14 7.4c.2.1.4.4.4.6 0 .2-.2.5-.4.6z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+		<symbol id="icon-trash" viewBox="0 0 12 16"><path d="M1 13.8c0 .9.7 1.7 1.7 1.7h6.7c.9 0 1.7-.8 1.7-1.7v-10h-10c-.1 0-.1 10-.1 10zM11.9 1.3H9L8.1.5H4l-.9.8H.2V3h11.7V1.3z" fill-rule="evenodd" clip-rule="evenodd" /></symbol>
+	</svg>
+	<header class="header">
+		<div class="header__primary">
+			<div class="column-wrapper">
+				<div class="column-1of1">
+					<div class="header__primary-wrapper">
+						<a href="/" class="header__logo">
+							<img src="/images/logo-our-auckland-colour.svg" alt="Our Auckland" width="280" height="52">
+						</a>
+						<div class="header-search tablet-hide" role="search">
+							<a href="/search" class="header-search__button">
+								<svg class="icon icon-search" role="presentation">
+									<use xlink:href="#icon-search"></use>
+								</svg>
+								<span class="screen-reader-text">Toggle Search</span>
+							</a>
+						</div>
+						<a href="https://www.aucklandcouncil.govt.nz/" target="_blank" class="header__logo-council">
+							<img src="/images/logo-auckland-council-icon.svg" alt="Auckland Council" width="46" height="55px">
+						</a>
+						<button class="menu-button js-trigger-mobile-nav">
+							<span class="screen-reader-text">Menu</span>
+							<span class="burger-icon"></span>
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header__secondary">
+			<div class="column-wrapper">
+				<div class="column-1of1">
+					<nav class="main-nav">
+						<ul class="main-nav__list">
+							<li class="main-nav__list-item main-nav__list-item--theme-home ">
+								<a href="/" class="main-nav__link ">
+									Home
+								</a>
+							</li>
+							<li class="main-nav__list-item main-nav__list-item--theme-news ">
+								<a href="/news/" class="main-nav__link">
+									News
+								</a>
+							</li>
+							<li class="main-nav__list-item main-nav__list-item--theme-events ">
+								<a href="/events/" class="main-nav__link ">
+									Events
+								</a>
+							</li>
+							<li class="main-nav__list-item main-nav__list-item--theme-local ">
+								<a href="/local/" class="main-nav__link ">
+									Local
+								</a>
+							</li>
+							<li class="main-nav__list-item main-nav__list-item--theme-search tablet-show">
+								<a href="/search/" class="main-nav__link">
+									<svg class="icon icon-search" role="presentation">
+										<use xlink:href="#icon-search"></use>
+									</svg>
+									Search
+								</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+		</div>
+	</header>
+	<div class="header-sentinal"></div>
+	<main class="main-content">
+		<div class="article-detail">
+			<div class="article-detail__wrapper">
+				<div class="column-wrapper">
+					<div class="column-1of2 column-start-4 article-detail-header">
+						<h1 class="article-detail-header__title">Oops something went wrong (500)</h1>
+					</div>
+				</div>
+				<div class="column-wrapper">
+					<div class="column-1of2 column-start-4 article-detail-content-wrapper">
+						<div class="article-detail-content">
+							<article>
+								<div class="column-wrapper">
+									<div class="column-1of1">
+										<article class="article-content">
+											<p>Looks like something went wrong on the page you were trying to go to.</p>
+											<p>Return to the <a href="/">home page</a> or <a href="/contact">contact us</a>.</p>
+										</article>
+									</div>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+	<footer class="footer">
+		<section class="footer-newsletter">
+			<div class="column-wrapper">
+				<div class="column-1of1">
+					<a href="/e-news-sign-up/" class="footer-newsletter__link fade-in">
+						Sign up for our news and events e-newsletter
+						<svg class="icon" role="presentation">
+							<use xlink:href="#icon-arrow-right"></use>
+						</svg>
+					</a>
+				</div>
+			</div>
+		</section>
+		<div class="column-wrapper">
+			<div class="column-1of4 footer-main-logo-wrapper">
+				<a href="/" class="footer__logo">
+					<img src="/images/logo-our-auckland-white.svg" alt="Our Auckland" width="188" height="35">
+				</a>
+				<div class="footer__council-logo">
+					<a href="https://www.aucklandcouncil.govt.nz/" class="tablet-show" target="_blank">
+						<img src="/images/logo-auckland-council-icon-white.svg" alt="Auckland Council" width="32" height="32">
+					</a>
+				</div>
+				<ul class="footer-social">
+					<li class="footer-social__item">
+						<a href="https://www.facebook.com/aklcouncil" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-facebook"></use>
+							</svg>
+							<span class="screen-reader-text">Facebook</span>
+						</a>
+					</li>
+					<li class="footer-social__item">
+						<a href="https://www.instagram.com/aklcouncil/" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-instagram"></use>
+							</svg>
+							<span class="screen-reader-text">Instagram</span>
+						</a>
+					</li>
+					<li class="footer-social__item">
+						<a href="https://twitter.com/aklcouncil" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-twitter"></use>
+							</svg>
+							<span class="screen-reader-text">Twitter</span>
+						</a>
+					</li>
+					<li class="footer-social__item">
+						<a href="https://www.youtube.com/aklcouncil" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-youtube"></use>
+							</svg>
+							<span class="screen-reader-text">Youtube</span>
+						</a>
+					</li>
+					<li class="footer-social__item">
+						<a href="https://www.linkedin.com/company/auckland-council/" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-linkedin"></use>
+							</svg>
+							<span class="screen-reader-text">LinkedIn</span>
+						</a>
+					</li>
+					<li class="footer-social__item">
+						<a href="https://www.neighbourly.co.nz/organisation/auckland-council" target="_blank" class="footer-social__link" rel="noopener">
+							<svg class="icon" role="presentation">
+								<use xlink:href="#icon-social-neighbourly"></use>
+							</svg>
+							<span class="screen-reader-text">Neighbourly</span>
+						</a>
+					</li>
+				</ul>
+				<img alt="shielded" id="shielded-logo" src="/images/shielded-logo.png" height="60" width="60" style="cursor: pointer;">
+			</div>
+			<div class="column-1of2 footer-links-wrapper">
+				<ul class="footer-navigation">
+					<li class="footer-navigation__item">
+						<a href="/" class="footer-navigation__link">Home</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/news/" class="footer-navigation__link">News</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/events/" class="footer-navigation__link">Events</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/events/listing-an-event/" class="footer-navigation__link">Listing an event</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/contact/" class="footer-navigation__link">Contact</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/about-ourauckland/" class="footer-navigation__link">About OurAuckland</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/media-centre-contacts/" class="footer-navigation__link">Media Centre (Contacts)</a>
+					</li>
+					<li class="footer-navigation__item">
+						<a href="/ourauckland-magazine/" class="footer-navigation__link">OurAuckland magazine</a>
+					</li>
+				</ul>
+			</div>
+			<div class="column-1of4">
+				<div class="footer__council-logo">
+					<a href="https://www.aucklandcouncil.govt.nz/" class="tablet-hide" target="_blank">
+						<img src="/images/logo-auckland-council-white.svg" alt="Auckland Council" width="200" height="70">
+					</a>
+				</div>
+			</div>
+		</div>
+		<div class="column-wrapper">
+			<div class="column-1of1">
+				<div class="footer__copyright">
+					<p>&copy; Auckland Council 2021 All rights reserved</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<script src="/bundles/scripts?v=10m-vGgUZcAXtMxq-iNP5auaN0F6Rkt8YbBQBa9xtiM1"></script>
+	<!-- shielded.co.nz -->
+	<script src="https://staticcdn.co.nz/embed/embed.js"></script>
+	<script>
+	(function() {
+		window.onload = function() {
+			var frameName = new ds07o6pcmkorn({
+				openElementId: "#shielded-logo",
+				modalID: "modal"
+			});
+			frameName.init();
+
+			var frameName2 = new ds07o6pcmkorn({
+				openElementId: "#shielded-logo2",
+				modalID: "modal"
+			});
+			frameName2.init();
+		}
+	})();
+	</script>
+	<!-- Website by Born Digital www.borndigital.co.nz -->
+</body>
+
+</html>

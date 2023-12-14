@@ -1,0 +1,1370 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://to-tee.com/xmlrpc.php" />
+
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<script>window._wca = window._wca || [];</script>
+<meta name="viewport" content="width=device-width, initial-scale=1" /><!-- Start of Judge.me Core -->
+<script data-cfasync='false' class='jdgm-settings-script'>window.jdgmSettings={"pagination":5,"disable_web_reviews":false,"badge_no_review_text":"No reviews","badge_n_reviews_text":"{{ n }} review/reviews","hide_badge_preview_if_no_reviews":true,"badge_hide_text":false,"enforce_center_preview_badge":false,"widget_title":"Customer Reviews","widget_open_form_text":"Write a review","widget_close_form_text":"Cancel review","widget_refresh_page_text":"Refresh page","widget_summary_text":"Based on {{ number_of_reviews }} review/reviews","widget_no_review_text":"Be the first to write a review","widget_name_field_text":"Name","widget_verified_name_field_text":"Verified Name (public)","widget_name_placeholder_text":"Enter your name (public)","widget_required_field_error_text":"This field is required.","widget_email_field_text":"Email","widget_verified_email_field_text":"Verified Email (private, can not be edited)","widget_email_placeholder_text":"Enter your email (private)","widget_email_field_error_text":"Please enter a valid email address.","widget_rating_field_text":"Rating","widget_review_title_field_text":"Review Title","widget_review_title_placeholder_text":"Give your review a title","widget_review_body_field_text":"Review","widget_review_body_placeholder_text":"Write your comments here","widget_pictures_field_text":"Picture/Video (optional)","widget_submit_review_text":"Submit Review","widget_submit_verified_review_text":"Submit Verified Review","widget_submit_success_msg_with_auto_publish":"Thank you! Please refresh the page in a few moments to see your review. ","widget_submit_success_msg_no_auto_publish":"Thank you! Your review will be published as soon as it is approved by the shop admin. ","widget_show_default_reviews_out_of_total_text":"Showing {{ n_reviews_shown }} out of {{ n_reviews }} reviews.","widget_show_all_link_text":"Show all","widget_show_less_link_text":"Show less","widget_author_said_text":"{{ reviewer_name }} said:","widget_days_text":"{{ n }} days ago","widget_weeks_text":"{{ n }} week/weeks ago","widget_months_text":"{{ n }} month/months ago","widget_years_text":"{{ n }} year/years ago","widget_yesterday_text":"Yesterday","widget_today_text":"Today","widget_replied_text":"\u003e\u003e {{ shop_name }} replied:","widget_read_more_text":"Read more","widget_rating_filter_see_all_text":"See all reviews","widget_sorting_most_recent_text":"Most Recent","widget_sorting_highest_rating_text":"Highest Rating","widget_sorting_lowest_rating_text":"Lowest Rating","widget_sorting_with_pictures_text":"Only Pictures","widget_sorting_most_helpful_text":"Most Helpful","widget_open_question_form_text":"Ask a question","widget_reviews_subtab_text":"Reviews","widget_questions_subtab_text":"Questions","widget_question_label_text":"Question","widget_answer_label_text":"Answer","widget_question_placeholder_text":"Write your question here","widget_submit_question_text":"Submit Question","widget_question_submit_success_text":"Thank you for your question! We will notify you once it gets answered.","verified_badge_text":"Verified","verified_badge_placement":"left-of-reviewer-name","widget_hide_border":false,"widget_social_share":false,"widget_thumb":false,"widget_review_location_show":false,"widget_location_format":"country_iso_code","all_reviews_include_out_of_store_products":true,"all_reviews_out_of_store_text":"(out of store)","all_reviews_product_name_prefix_text":"about","enable_review_pictures":true,"enable_question_anwser":false,"widget_product_reviews_subtab_text":"Product Reviews","widget_shop_reviews_subtab_text":"Shop Reviews","widget_sorting_pictures_first_text":"Pictures First","floating_tab_button_name":"★ Judge.me Reviews","floating_tab_title":"Let customers speak for us","floating_tab_url":"https://to-tee.com/pages/reviews","all_reviews_text_badge_text":"Customers rate us {{ shop.metafields.judgeme.all_reviews_rating | round: 1 }}/5 based on {{ shop.metafields.judgeme.all_reviews_count }} reviews.","all_reviews_text_badge_text_branded_style":"{{ shop.metafields.judgeme.all_reviews_rating | round: 1 }} out of 5 stars based on {{ shop.metafields.judgeme.all_reviews_count }} reviews","all_reviews_text_badge_url":"","featured_carousel_title":"Let customers speak for us","featured_carousel_count_text":"from {{ n }} reviews","featured_carousel_url":"","verified_count_badge_url":"","picture_reminder_submit_button":"Upload Pictures","widget_sorting_videos_first_text":"Videos First","widget_review_pending_text":"Pending","remove_microdata_snippet":false,"preview_badge_no_question_text":"No questions","preview_badge_n_question_text":"{{ number_of_questions }} question/questions","widget_search_bar_placeholder":"Search reviews","widget_sorting_verified_only_text":"Verified only","featured_carousel_theme":"compact","featured_carousel_show_date":false,"featured_carousel_show_product":false,"featured_carousel_verified_badge_enable":true,"all_reviews_page_load_more_text":"Load More Reviews","widget_advanced_speed_features":5,"widget_public_name_text":"displayed publicly like","default_reviewer_name_has_non_latin":true,"widget_reviewer_anonymous":"Anonymous","medals_widget_title":"Judge.me Review Medals","show_reviewer_avatar":false,"widget_invalid_yt_video_url_error_text":"Not a YouTube video URL","widget_max_length_field_error_text":"Please enter no more than {0} characters.","widget_show_country_flag":true,"widget_load_with_code_splitting":true,"widget_ugc_title":"Made by us, Shared by you","widget_ugc_subtitle":"Tag us to see your picture featured in our page","widget_ugc_primary_button_text":"Buy Now","widget_ugc_secondary_button_text":"Load More","widget_ugc_reviews_button_text":"View Reviews","widget_primary_color":"#eb1f7b","widget_summary_average_rating_text":"{{ average_rating }} out of 5","widget_media_grid_title":"Customer photos \u0026 videos","widget_media_grid_see_more_text":"See more","widget_show_product_medals":false,"widget_verified_by_judgeme_text":"Verified by Judge.me","widget_verified_by_judgeme_text_in_store_medals":"Verified by Judge.me","widget_media_field_exceed_quantity_message":"Sorry, we can only accept {{ max_media }} for one review.","widget_media_field_exceed_limit_message":"{{ file_name }} is too large, please select a {{ media_type }} less than {{ size_limit }}MB.","widget_review_submitted_text":"Review Submitted!","widget_question_submitted_text":"Question Submitted!","widget_close_form_text_question":"Cancel","widget_write_your_answer_here_text":"Write your answer here","widget_show_collected_by_judgeme":true,"widget_collected_by_judgeme_text":"collected by Judge.me","widget_pagination_type":"load_more","widget_load_more_text":"Load More","widget_full_review_text":"Full Review","widget_read_more_reviews_text":"Read More Reviews","widget_read_questions_text":"Read Questions","widget_questions_and_answers_text":"Questions \u0026 Answers","widget_verified_by_text":"Verified by","widget_number_of_reviews_text":"{{ number_of_reviews }} reviews","widget_back_button_text":"Back","widget_next_button_text":"Next","widget_custom_forms_filter_button":"Filters","how_reviews_are_collected":"How reviews are collected?","platform":"woocommerce","branding_url":"https://judge.me/reviews","branding_text":"Powered by Judge.me","locale":"en","reply_name":"ToTee Clothing","widget_version":"3.0","footer":true,"autopublish":true,"review_dates":false,"enable_custom_form":false,"can_be_branded":false};</script> <style class='jdgm-settings-style'>.jdgm-xx{left:0}:root{--jdgm-primary-color:#eb1f7b;--jdgm-secondary-color:rgba(235,31,123,0.1);--jdgm-star-color:#eb1f7b;--jdgm-paginate-color:#eb1f7b;--jdgm-border-radius:0}.jdgm-histogram__bar-content{background-color:#eb1f7b}.jdgm-rev[data-verified-buyer=true] .jdgm-rev__icon.jdgm-rev__icon:after,.jdgm-rev__buyer-badge.jdgm-rev__buyer-badge{color:white;background-color:#eb1f7b}.jdgm-review-widget--small .jdgm-gallery.jdgm-gallery .jdgm-gallery__thumbnail-link:nth-child(8) .jdgm-gallery__thumbnail-wrapper.jdgm-gallery__thumbnail-wrapper:before{content:"See more"}@media only screen and (min-width: 768px){.jdgm-gallery.jdgm-gallery .jdgm-gallery__thumbnail-link:nth-child(8) .jdgm-gallery__thumbnail-wrapper.jdgm-gallery__thumbnail-wrapper:before{content:"See more"}}.jdgm-prev-badge[data-average-rating='0.00']{display:none !important}.jdgm-rev .jdgm-rev__timestamp,.jdgm-quest .jdgm-rev__timestamp,.jdgm-carousel-item__timestamp{display:none !important}.jdgm-author-all-initials{display:none !important}.jdgm-author-last-initial{display:none !important}.jdgm-rev-widg__title{visibility:hidden}.jdgm-rev-widg__summary-text{visibility:hidden}.jdgm-prev-badge__text{visibility:hidden}.jdgm-rev__replier:before{content:'to-tee.com'}.jdgm-rev__prod-link-prefix:before{content:'about'}.jdgm-rev__out-of-store-text:before{content:'(out of store)'}@media only screen and (min-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}@media only screen and (max-width: 768px){.jdgm-rev__pics .jdgm-rev_all-rev-page-picture-separator,.jdgm-rev__pics .jdgm-rev__product-picture{display:none}}
+</style><style class='jdgm-miracle-styles'>
+  @-webkit-keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@keyframes jdgm-spin{0%{-webkit-transform:rotate(0deg);-ms-transform:rotate(0deg);transform:rotate(0deg)}100%{-webkit-transform:rotate(359deg);-ms-transform:rotate(359deg);transform:rotate(359deg)}}@font-face{font-family:'JudgemeStar';src:url("data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAScAA0AAAAABrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABGRlRNAAAEgAAAABoAAAAcbyQ+3kdERUYAAARgAAAAHgAAACAAMwAGT1MvMgAAAZgAAABGAAAAVi+vS9xjbWFwAAAB8AAAAEAAAAFKwBMjvmdhc3AAAARYAAAACAAAAAj//wADZ2x5ZgAAAkAAAAEJAAABdH33LXtoZWFkAAABMAAAAC0AAAA2BroQKWhoZWEAAAFgAAAAHAAAACQD5QHQaG10eAAAAeAAAAAPAAAAFAYAAABsb2NhAAACMAAAAA4AAAAOAO4AeG1heHAAAAF8AAAAHAAAACAASgAvbmFtZQAAA0wAAADeAAABkorWfVZwb3N0AAAELAAAACkAAABEp3ubLXgBY2BkYADhPPP4OfH8Nl8ZuJkYQODS2fRrCPr/aSYGxq1ALgcDWBoAO60LkwAAAHgBY2BkYGDc+v80gx4TAwgASaAICmABAFB+Arl4AWNgZGBgYGPQYWBiAAIwyQgWc2AAAwAHVQB6eAFjYGRiYJzAwMrAwejDmMbAwOAOpb8ySDK0MDAwMbByMsCBAAMCBKS5pjA4PGB4wMR44P8BBj3GrQymQGFGkBwAjtgK/gAAeAFjYoAAEA1jAwAAZAAHAHgB3crBCcAwDEPRZydkih567CDdf4ZskmLwFBV8xBfCaC4BXkOUmx4sU0h2ngNb9V0vQCxaRKIAevT7fGWuBrEAAAAAAAAAAAA0AHgAugAAeAF9z79Kw1AUx/FzTm7un6QmJtwmQ5Bg1abgEGr/BAqlU6Gju+Cgg1MkQ/sA7Vj7BOnmO/gUvo2Lo14NqIO6/IazfD8HEODtmQCfoANwNsyp2/GJt3WKQrd1NLiYYWx2PBqOsmJMEOznPOTzfSCrhAtbbLdmeFLJV9eKd63WLrZcIcuaEVdssWCKM6pLCfTVOYbz/0pNSMSZKLIZpvh78sAUH6PlMrreTCabP9r+Z/puPZ2ur/RqpQHgh+MIegCnXeM4MRAPjYN//5tj4ZtTjkFqEdmeMShlEJ7tVAly2TAkx6R68Fl4E/aVvn8JqHFQ4JS1434gXKcuL31dDhzs3YbsEOAd/IU88gAAAHgBfY4xTgMxEEVfkk0AgRCioKFxQYd2ZRtpixxgRU2RfhU5q5VWseQ4JdfgAJyBlmNwAM7ABRhZQ0ORwp7nr+eZAa54YwYg9zm3ynPOeFRe8MCrciXOh/KSS76UV5L/iDmrLiS5AeU519wrL3jmSbkS5115yR2fyivJv9kx0ZMZ2RLZw27q87iNQi8EBo5FSPIMw3HqBboi5lKTGAGDp8FKXWP+t9TU01Lj5His1Ba6uM9dTEMwvrFmbf5GC/q2drW3ruXUhhsCiQOjznFlCzYhHUZp4xp76vsvQh89CQAAeAFjYGJABowM6IANLMrEyMTIzMjCXpyRWJBqZshWXJJYBKOMAFHFBucAAAAAAAAB//8AAngBY2BkYGDgA2IJBhBgAvKZGViBJAuYxwAABJsAOgAAeAFjYGBgZACCk535hiD60tn0azAaAEqpB6wAAA==") format("woff");font-weight:normal;font-style:normal}.jdgm-star{font-family:'JudgemeStar';display:inline !important;text-decoration:none !important;padding:0 4px 0 0 !important;margin:0 !important;font-weight:bold;opacity:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.jdgm-star:hover{opacity:1}.jdgm-star:last-of-type{padding:0 !important}.jdgm-star.jdgm--on:before{content:"\e000"}.jdgm-star.jdgm--off:before{content:"\e001"}.jdgm-star.jdgm--half:before{content:"\e002"}.jdgm-widget *{margin:0;line-height:1.4;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-overflow-scrolling:touch}.jdgm-hidden{display:none !important;visibility:hidden !important}.jdgm-temp-hidden{display:none}.jdgm-spinner{width:40px;height:40px;margin:auto;border-radius:50%;border-top:2px solid #eee;border-right:2px solid #eee;border-bottom:2px solid #eee;border-left:2px solid #ccc;-webkit-animation:jdgm-spin 0.8s infinite linear;animation:jdgm-spin 0.8s infinite linear}.jdgm-prev-badge{display:block !important}
+
+</style>
+
+<script data-cfasync='false' class='jdgm-script'>
+!function(e){window.jdgm=window.jdgm||{},jdgm.CDN_HOST="https://cdn.judge.me/",
+jdgm.docReady=function(d){(e.attachEvent?"complete"===e.readyState:"loading"!==e.readyState)?
+setTimeout(d,0):e.addEventListener("DOMContentLoaded",d)},jdgm.loadCSS=function(d,t,o,a){
+!o&&jdgm.loadCSS.requestedUrls.indexOf(d)>=0||(jdgm.loadCSS.requestedUrls.push(d),
+(a=e.createElement("link")).rel="stylesheet",a.class="jdgm-stylesheet",a.media="nope!",
+a.href=d,a.onload=function(){this.media="all",t&&setTimeout(t)},e.body.appendChild(a))},
+jdgm.loadCSS.requestedUrls=[],jdgm.docReady(function(){(window.jdgmLoadCSS||e.querySelectorAll(
+".jdgm-widget, .jdgm-all-reviews-page").length>0)&&(jdgmSettings.widget_load_with_code_splitting?
+parseFloat(jdgmSettings.widget_version)>=3?jdgm.loadCSS(jdgm.CDN_HOST+"widget_v3/base.css"):
+jdgm.loadCSS(jdgm.CDN_HOST+"widget/base.css"):jdgm.loadCSS(jdgm.CDN_HOST+"shopify_v2.css"))})}(document);
+</script>
+<script async data-cfasync="false" type="text/javascript" src="https://cdn.judge.me/loader.js"></script>
+<noscript><link rel="stylesheet" type="text/css" media="all" href="https://cdn.judge.me/shopify_v2.css"></noscript>
+<!-- End of Judge.me Core -->
+
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts</title>
+<meta name="description" content="Upgrade your wardrobe with To-Tee&#039;s custom t-shirts. High-quality fabric, unique designs. Stand out with confidence. Shop now!"/>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://to-tee.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts" />
+<meta property="og:description" content="Upgrade your wardrobe with To-Tee&#039;s custom t-shirts. High-quality fabric, unique designs. Stand out with confidence. Shop now!" />
+<meta property="og:url" content="https://to-tee.com/" />
+<meta property="og:site_name" content="ToTee Clothing" />
+<meta property="og:updated_time" content="2023-09-26T20:47:18-07:00" />
+<meta property="article:published_time" content="2022-08-22T01:52:24-07:00" />
+<meta property="article:modified_time" content="2023-09-26T20:47:18-07:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts" />
+<meta name="twitter:description" content="Upgrade your wardrobe with To-Tee&#039;s custom t-shirts. High-quality fabric, unique designs. Stand out with confidence. Shop now!" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="administrator" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="2 minutes" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://to-tee.com/#place","address":{"@type":"PostalAddress","streetAddress":"1900 Military Rd","addressLocality":"Niagara Falls","addressRegion":"NY","postalCode":"14304","addressCountry":"United States"}},{"@type":"Organization","@id":"https://to-tee.com/#organization","name":"To-Tee Clothing","url":"https://to-tee.com","address":{"@type":"PostalAddress","streetAddress":"1900 Military Rd","addressLocality":"Niagara Falls","addressRegion":"NY","postalCode":"14304","addressCountry":"United States"},"logo":{"@type":"ImageObject","@id":"https://to-tee.com/#logo","url":"https://to-tee.com/wp-content/uploads/2023/02/logo-totee.png","contentUrl":"https://to-tee.com/wp-content/uploads/2023/02/logo-totee.png","caption":"ToTee Clothing","inLanguage":"en-US","width":"188","height":"70"},"location":{"@id":"https://to-tee.com/#place"}},{"@type":"WebSite","@id":"https://to-tee.com/#website","url":"https://to-tee.com","name":"ToTee Clothing","alternateName":"TOTEE","publisher":{"@id":"https://to-tee.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://to-tee.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://to-tee.com/#webpage","url":"https://to-tee.com/","name":"To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts","datePublished":"2022-08-22T01:52:24-07:00","dateModified":"2023-09-26T20:47:18-07:00","about":{"@id":"https://to-tee.com/#organization"},"isPartOf":{"@id":"https://to-tee.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://to-tee.com/author/administrator/","name":"administrator","url":"https://to-tee.com/author/administrator/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/534b4d0216a735f3ea304c1fc2cbb6f3?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/534b4d0216a735f3ea304c1fc2cbb6f3?s=96&amp;d=mm&amp;r=g","caption":"administrator","inLanguage":"en-US"},"sameAs":["https://to-tee.com"],"worksFor":{"@id":"https://to-tee.com/#organization"}},{"@type":"Article","headline":"To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts","datePublished":"2022-08-22T01:52:24-07:00","dateModified":"2023-09-26T20:47:18-07:00","author":{"@id":"https://to-tee.com/author/administrator/","name":"administrator"},"publisher":{"@id":"https://to-tee.com/#organization"},"description":"Upgrade your wardrobe with To-Tee&#039;s custom t-shirts. High-quality fabric, unique designs. Stand out with confidence. Shop now!","name":"To-Tee: Passionate Prints for Proud Wear - Print on Demand T-shirts","@id":"https://to-tee.com/#richSnippet","isPartOf":{"@id":"https://to-tee.com/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://to-tee.com/#webpage"}}]}</script>
+<meta name="yandex-verification" content="5190af0b03ca005a" />
+<meta name="p:domain_verify" content="c74bb8729bde2d785842a04d172ad5dc" />
+<meta name="norton-safeweb-site-verification" content="-mrupz3tvd0aimgu5thzfsvhflw2094t34510exc7vhq9ctcgawce28czsxmvu3eaqqf1l12xgluxbnetboa21f4fzf4j44rsc2qushkpx5a0lkl1-cwp14ocx9i-z1c" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='prefetch' href='https://to-tee.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=89ac940c4841291ea8d6' />
+<link rel='prefetch' href='https://to-tee.com/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.17.6' />
+<link rel='prefetch' href='https://to-tee.com/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.17.6' />
+<link rel='prefetch' href='https://to-tee.com/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.17.6' />
+<link rel='prefetch' href='https://to-tee.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=1a392523165907adee6a' />
+<link rel="alternate" type="application/rss+xml" title="To-Tee Clothing &raquo; Feed" href="https://to-tee.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="To-Tee Clothing &raquo; Comments Feed" href="https://to-tee.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/to-tee.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{clip:auto!important;background-color:#ddd;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='wcpa-datetime-css' href='https://to-tee.com/wp-content/plugins/woo-custom-product-addons-pro/assets/plugins/datetimepicker/jquery.datetimepicker.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wcpa-colorpicker-css' href='https://to-tee.com/wp-content/plugins/woo-custom-product-addons-pro/assets/plugins/spectrum/spectrum.min.css?ver=3.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wcpa-frontend-css' href='https://to-tee.com/wp-content/plugins/woo-custom-product-addons-pro/assets/css/frontend.min.css?ver=3.9.2' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='flatsome-main-css' href='https://to-tee.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.17.6' type='text/css' media='all' />
+<style id='flatsome-main-inline-css' type='text/css'>
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.17.6);
+				src:
+					url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.17.6) format("embedded-opentype"),
+					url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.17.6) format("woff2"),
+					url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.17.6) format("truetype"),
+					url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.17.6) format("woff"),
+					url(https://to-tee.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.17.6#fl-icons) format("svg");
+			}
+</style>
+<link rel='stylesheet' id='flatsome-shop-css' href='https://to-tee.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.17.6' type='text/css' media='all' />
+<link rel='stylesheet' id='flatsome-style-css' href='https://to-tee.com/wp-content/themes/flatsome-child/style.css?ver=3.0' type='text/css' media='all' />
+<script type="text/javascript" src="https://to-tee.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://to-tee.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.8.3.1" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.8.3.1" id="js-cookie-js" data-wp-strategy="defer"></script>
+<script defer type="text/javascript" src="https://stats.wp.com/s-202350.js" id="woocommerce-analytics-js"></script>
+<link rel="https://api.w.org/" href="https://to-tee.com/wp-json/" /><link rel="alternate" type="application/json" href="https://to-tee.com/wp-json/wp/v2/pages/3182258" /><meta name="generator" content="WordPress 6.4.2" />
+<link rel='shortlink' href='https://to-tee.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://to-tee.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fto-tee.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://to-tee.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fto-tee.com%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<meta name="referrer" content="no-referrer" /><link rel="preload" href="https://bromostore.com?paypal_checkout=1" as="document"><meta name="google-site-verification" content="m5xvp2gMCqpOu85ycp6iByJLcJbBp2uKmPQ38FJ1dMM" />
+<meta name='impact-site-verification' value='5b1a5242-a908-4363-aef3-0b81b8d266ab'>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<script type="text/javascript" id="google_gtagjs" src="https://www.googletagmanager.com/gtag/js?id=G-T3LJFQRK64" async="async"></script>
+<script type="text/javascript" id="google_gtagjs-inline">
+/* <![CDATA[ */
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-T3LJFQRK64', {} );
+/* ]]> */
+</script>
+<link rel="icon" href="https://to-tee.com/wp-content/uploads/2023/02/favicon-totee.png" sizes="32x32" />
+<link rel="icon" href="https://to-tee.com/wp-content/uploads/2023/02/favicon-totee.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://to-tee.com/wp-content/uploads/2023/02/favicon-totee.png" />
+<meta name="msapplication-TileImage" content="https://to-tee.com/wp-content/uploads/2023/02/favicon-totee.png" />
+<style id="custom-css" type="text/css">:root {--primary-color: #ea89b4;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1336px}.row.row-collapse{max-width: 1306px}.row.row-small{max-width: 1328.5px}.row.row-large{max-width: 1366px}.header-main{height: 88px}#logo img{max-height: 88px}#logo{width:219px;}.header-bottom{min-height: 10px}.header-top{min-height: 20px}.transparent .header-main{height: 265px}.transparent #logo img{max-height: 265px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 315px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 51%;}.header-bg-color {background-color: rgba(22,22,22,0.9)}.header-bottom {background-color: #000000}.top-bar-nav > li > a{line-height: 16px }.header-main .nav > li > a{line-height: 18px }.header-wrapper:not(.stuck) .header-main .header-nav{margin-top: 3px }.stuck .header-main .nav > li > a{line-height: 50px }.header-bottom-nav > li > a{line-height: 10px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.nav-dropdown-has-arrow.nav-dropdown-has-border li.has-dropdown:before{border-bottom-color: #FFFFFF;}.nav .nav-dropdown{border-color: #FFFFFF }.nav-dropdown{font-size:100%}.nav-dropdown-has-arrow li.has-dropdown:after{border-bottom-color: #FFFFFF;}.nav .nav-dropdown{background-color: #FFFFFF}.header-top{background-color:#eded00!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #ea89b4;}/* Color !important */[data-text-color="primary"]{color: #ea89b4!important;}/* Background Color */[data-text-bg="primary"]{background-color: #ea89b4;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #ea89b4;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #ea89b4}.nav-tabs > li.active > a{border-top-color: #ea89b4}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #ea89b4 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #ea89b4 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #ea89b4;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #ea89b4!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#26bf31; }[data-text-bg="secondary"]{background-color: #26bf31;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #26bf31}/* Color !important */[data-text-color="secondary"]{color: #26bf31!important;}/* Border */.secondary.is-outline:hover{border-color:#26bf31}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #26bf31!important; }.success.is-underline:hover,.success.is-outline:hover,.success{background-color: #26bf31}.success-color, .success.is-link, .success.is-outline{color: #26bf31;}.success-border{border-color: #26bf31!important;}/* Color !important */[data-text-color="success"]{color: #26bf31!important;}/* Background Color */[data-text-bg="success"]{background-color: #26bf31;}body{color: #414141}h1,h2,h3,h4,h5,h6,.heading-font{color: #394439;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Poppins, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Poppins, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Poppins, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 400;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Poppins, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 400;font-style: normal;}.alt-font{font-family: "Great Vibes", sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.breadcrumbs{text-transform: none;}button,.button{text-transform: none;}.nav > li > a, .links > li > a{text-transform: none;}.section-title span{text-transform: none;}h3.widget-title,span.widget-title{text-transform: none;}.header:not(.transparent) .header-bottom-nav.nav > li > a:hover,.header:not(.transparent) .header-bottom-nav.nav > li.active > a,.header:not(.transparent) .header-bottom-nav.nav > li.current > a,.header:not(.transparent) .header-bottom-nav.nav > li > a.active,.header:not(.transparent) .header-bottom-nav.nav > li > a.current{color: #dd9933;}.header-bottom-nav.nav-line-bottom > li > a:before,.header-bottom-nav.nav-line-grow > li > a:before,.header-bottom-nav.nav-line > li > a:before,.header-bottom-nav.nav-box > li > a:hover,.header-bottom-nav.nav-box > li.active > a,.header-bottom-nav.nav-pills > li > a:hover,.header-bottom-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #dd9933;}a{color: #414141;}a:hover{color: #ea89b4;}.tagcloud a:hover{border-color: #ea89b4;background-color: #ea89b4;}.current .breadcrumb-step, [data-icon-label]:after, .button#place_order,.button.checkout,.checkout-button,.single_add_to_cart_button.button{background-color: #ea89b4!important }.has-equal-box-heights .box-image {padding-top: 114%;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 500px!important;width: 500px!important;}}.footer-1{background-color: #ffffff}.footer-2{background-color: #1a1239}.absolute-footer, html{background-color: #1a1239}button[name='update_cart'] { display: none; }.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}/* Custom CSS */dl {text-transform: none !important;}dl.variation dd .wcpa_cart_val {margin: 0 0 0 0 !important;}dl.variation dd .wcpa_cart_val p {margin: 0 0 0 0 !important;}dl.variation .wcpa_cart_val.wcpa_cart_type_image-group {margin: 0 0 0 0 !important;padding-top: 0px !important;}dl.variation .wcpa_cart_val.wcpa_cart_type_color-group > p > span {display: none;}dl.variation dt {float: left;clear: both;}dl.variation dd {float: left;}.product-name-area .product-quantity {clear: both;}.wfacp_order_summary_item_name.wfacp_summary_img_true {float: left;padding-left: 10px !important;}.nav>li>a {font-size: 1em !important;}img.wp-post-image {width: 100%;}span.wcpa_helptext {display: none;}.wcpa_form_outer {background-color: transparent !important;border: none !important;}.available-product span.label_inside.disp_squircle.wcpa_clb_border.wcpa_clb_nowhite.wcpa_adjustwidth {min-width: 100px !important;}.info-secure{width:100%;position:relative;text-align:center;padding:15px 15px 15px;margin:30px 0 0;border:1px solid #ddd}.info-secure ul{display:flex;width:calc(100% + 15px);margin:10px 0 0 -15px;justify-content:space-between;}.info-secure li{width:100%;margin:0 0 0 15px;list-style:none}.info-secure .head{font-size:16px;position:absolute;top:-12px;left:0;width:100%;}.info-secure .head span{background:#fff;padding:0 10px;font-size:15px;color:#797979;text-transform:capitalize;}div.wrap-features {padding: 30px 0;background: #f7f7f8;}.store_benefits {padding: 20px 25px!important;margin: 20px 0 0;}.store_benefits {padding: 20px 25px!important;margin: 20px 0 0;}.store_benefits .img-feat {margin: 5px 15px 0 0;}.features {display: flex;flex-wrap: wrap;justify-content: space-between;}.features .img-feat img {max-width: 40px;}div.store_benefits .text-feat .features-main-text {font-size: 14px;line-height: 1.4;text-transform: uppercase;font-weight: 700;margin: 0 0 5px;}div.features .text-feat p {margin: 0 0 0;font-size: 14px;}.store_benefits .features>div {margin: 10px 0;width: 100%;display:flex;}.info-secure {width: 100%;position: relative;text-align: center;padding: 13px 13px 13px;margin: 10px 0;border: 1px solid #ddd;}.info-secure .head {font-size: 16px;position: absolute;top: -12px;left: 0;width: 100%;}.info-secure ul {display: flex;width: calc(100% + 15px);margin: 10px 0 0 -15px;justify-content: space-between;}.info-secure li {width: 100%;margin: 0 0 0 15px;list-style: none;}.info-secure img[src*=".svg"] {width: 100%;max-width: 100%;height: auto;}.info-secure ul li:before {font-family: auto;content:none;}.info-secure .head span {background: #fff;padding: 0 10px;font-size: 15px;color: #797979;text-transform: capitalize;}.info-secure ul li {margin-bottom: 0px;margin-left: 10px;}.below-content {border-top: 1px solid #eee;background-color: #f6f6f6;}.below-content .widget {position: relative;width: 0;margin: 0;padding: 0 20px;flex: 1;}.below-content .col-full, footer .col-full {display: flex;}.product-label {top: 0;left: 0;border-radius: 0;display: inline;float: left;min-width: auto;min-height: auto;font-size: 14px;font-weight: 400;max-width: inherit;padding: 0 8px 0 3px;height: 23px;line-height: 23px;margin-left: 10px;position: relative;/* top: 4px; */border-top-right-radius: 2px;border-bottom-right-radius: 2px;background-color: #f2ba36;color: white;}.product-label:before {width: 0;height: 0;border-top: 13px solid transparent;border-bottom: 10px solid transparent;content: "";border-right: 10px solid #f2ba36;display: inline-block;position: absolute;left: -10px;}.single_add_to_cart_button{width: 100%;}.woocommerce-Price-currencySymbol {font-size: inherit !important;vertical-align: unset !important;}.wcpa_price_summary .wcpa_price {color: #29c747 !important;}.wcpa_price .woocommerce-Price-currencySymbol {font-size: inherit;}button.single_add_to_cart_button.button{width: calc(100% - 110px); margin-bottom: 16px !important;font-size: 22px;}.wcpa_price_summary li.wcpa_total {margin-left: 0px;}.wcpa_form_item { margin: 0 0 0.2em 0; }.wcpa_image label {font-weight: normal !important;text-align:center;font-size: 12px;}.wcpa_color label {font-weight: normal !important;text-align:center;/* font-size: 12px; *//* padding: 10px; */}.gender-select .wcpa_color input[type="radio"]:checked,{background-color: white !important;}.gender-select .wcpa_color input[type="radio"]:checked+labelspan {background-color: #19b1ff !important;border-color: #19b1ff !important;color: white !important;font-weight: bold !important;}.gender-select.wcpa_color span{border: 1px solid #d9d9d9;border-radius: 4px;color: #19b1ff !important;font-size: 15px;}.size-select .wcpa_color input[type="radio"]:checked,{background-color: white !important;}.size-select .wcpa_color input[type="radio"]:checked+labelspan {background-color: #19b1ff !important;border-color: #19b1ff !important;color: white !important;font-weight: bold !important;}.size-select .wcpa_color span{border: 1px solid #d9d9d9;border-radius: 4px;color: #19b1ff !important;}.wcpa_form_outer .wcpa_form_item .color-group.gender-selectinput:checked+label span.wcpa_clb_nowhite:after {border-color: white;}.wcpa_form_outer .wcpa_form_item .color-group.size-selectinput:checked+label span.wcpa_clb_nowhite:after {border-color: white;}.wcpa_form_outer .wcpa_form_item.color-group.gender-select.wcpa_color label span.label_inside {padding: 0px 30px;}.wcpa_price_summary li.wcpa_total {font-size: 38px;font-weight: bold;background-color: white;}.wcpa_price_summary li.wcpa_total > span:nth-child(1) {display: none;}.wcpa_price_summary li .wcpa_price_outer {float: inherit !important;}.wcpa_form_item > label {color: #444444;}.wcpa_form_outer .wcpa_form_item .wcpa_sel_type_tick .wcpa_image input:checked~label:after, .wcpa_form_outer .wcpa_form_item .wcpa_sel_type_tick-shadow .wcpa_image input:checked~label:after {border-color: #19b1ff !important;}.wcpa_form_outer .wcpa_form_item .wcpa_disp_type_square .wcpa_image input:checked+img {box-shadow: 0 0 5px 1px #19b1ff !important;}.tagged_as a, .terms a:visited, .tagged_as a:active { display: inline-block !important;background:#eee;border:1px solid #ccc;border-radius:5px;text-decoration:none;padding:5px;margin-bottom: 5px;margin-right: 3px;/* text-transform:uppercase; */color:#a8281a;} .tagged_as a:hover { background:#a8281a;color:#FFF;}p.stock.in-stock {color: #26bf31 !important;font-size: 15px;font-weight: 400;line-height: 25px;text-size-adjust: 100%;}p.stock.in-stock:before {color: #26bf31 !important;font-family: "Font Awesome 5 Free" !important;content: "f14a";margin-right: 5px;vertical-align: top;padding-top: 5px;}.mmolazi-tips {border: dashed 1px grey;padding: 7px;border-radius: 5px;background-color: #f7f7f8;margin-bottom: 10px;}/* nhan add*/.wcpa_form_outer{background-color: #F7F7F7;border: 1px solid #19B1FF;border-radius: 3px;width: 100%;position: relative;box-sizing: border-box;z-index: 4;padding: 7px;}/* nhan end*/button.single_add_to_cart_button.button.alt.wp-element-button {width: 100% !important;}div#wcpa-textarea-1661316089994 {display: none !important;}input#utm_campaign{border: none;padding: 0;font-size: 1.7em;line-height: 1.4;font-weight: 700;overflow: hidden;margin: 0px;}#wcpa-text-1660918018695 {display: none;}#wcpa-text-1660917968002 {display: flex;flex-direction: row;flex-wrap: nowrap;align-content: center;align-items: baseline;}div#wcpa-text-1679655268221 {height: auto;}div#wcpa-text-1679655268221 label {display: none;}.wcpa_cart_val.wcpa_cart_type_textarea {font-weight: 700;}dt.variation-Campaign {display: none !important;}div#wcpa-textarea-1678784290105 {display: none;}div#wcpa-textarea-1678784331178 {display: none;}/*css comment*/span.comment-title {font-size: 1.2em;font-weight: 600;}.price-wrapper {display: none;}/*tool tip add to cart*/.tooltip {display: none;position: absolute;background-color: black;color: white;padding: 5px 10px;border-radius: 4px;font-size: 12px;z-index: 1000;}.show-tooltip {display: block;}#end-campaign {background-color: transparent;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style><style id="kirki-inline-styles">/* devanagari */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbedHFHGPezSQ.woff) format('woff');
+  unicode-range: U+0900-097F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FF;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnedHFHGPezSQ.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfedHFHGPc.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* vietnamese */
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/great-vibes/RWmMoKWR9v4ksMfaWd_JN9XKiaIoDmlrMlY.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/great-vibes/RWmMoKWR9v4ksMfaWd_JN9XLiaIoDmlrMlY.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Great Vibes';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://to-tee.com/wp-content/fonts/great-vibes/RWmMoKWR9v4ksMfaWd_JN9XFiaIoDmlr.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body data-rsssl=1 class="home page-template page-template-page-blank page-template-page-blank-php page page-id-3182258 theme-flatsome woocommerce-no-js full-width nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const imageParam = urlParams.get('pimage');
+  const utmCampaign = urlParams.get('utm_campaign');
+  const utmSource = urlParams.get('utm_source');
+
+
+  if (imageParam || utmCampaign || utmSource) {
+    localStorage.setItem('hasValidData', 'true');
+  }
+
+
+  function isValidData() {
+    return localStorage.getItem('hasValidData') === 'true';
+  }
+
+
+const addToCartButtons = document.getElementsByName('add-to-cart');
+  if (addToCartButtons.length > 0) {
+    addToCartButtons[0].addEventListener('click', function(event) {
+      if (!isValidData()) {
+        event.preventDefault(); 
+        document.getElementById('popupInvalidAddtocart').click(); 
+      }
+    });
+  }
+
+
+  const imgElement = document.getElementById('dynamic-image');
+  if (imgElement) {
+    if (imageParam) {
+      const img = new Image();
+      img.onload = function() {
+        if (img.width >= 100) {
+          imgElement.src = imageParam;
+        } else {
+          imgElement.src = 'https://to-tee.com/wp-content/uploads/2023/03/logo-totee.jpg';
+        }
+      };
+      img.src = imageParam;
+    } else {
+      imgElement.src = 'https://to-tee.com/wp-content/uploads/2023/03/logo-totee.jpg';
+    }
+  } else {
+    console.error('Unable to find dynamic-image element in DOM');
+  }
+});
+</script>
+
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header has-sticky sticky-jump">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main show-logo-center hide-for-sticky nav-dark">
+      <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://to-tee.com/" title="To-Tee Clothing - Family Gift" rel="home">
+		<img width="188" height="70" src="https://to-tee.com/wp-content/uploads/2023/02/logo-totee-ligh.png" class="header_logo header-logo" alt="To-Tee Clothing"/><img  width="188" height="70" src="https://to-tee.com/wp-content/uploads/2023/02/logo-totee-ligh.png" class="header-logo-dark" alt="To-Tee Clothing"/></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  		<a href="#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu" ></i>
+		  <span class="menu-title uppercase hide-for-small">Menu</span>		</a>
+	</li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            ">
+            <ul class="header-nav header-nav-main nav nav-left  nav-spacing-medium nav-uppercase" >
+              <li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form role="search" method="get" class="searchform" action="https://to-tee.com/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+			<input type="search" id="woocommerce-product-search-field-0" class="search-field mb-0" placeholder="Search&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Search" class="ux-search-submit submit-button secondary button  icon mb-0" aria-label="Submit">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-spacing-medium nav-uppercase">
+              <li class="account-item has-icon
+    "
+>
+
+<a href="https://to-tee.com/my-account/"
+    class="nav-top-link nav-top-not-logged-in is-small"
+    data-open="#login-form-popup"  >
+    <span>
+    Login     / Register  </span>
+  
+</a>
+
+
+
+</li>
+<li class="cart-item has-icon">
+
+	<a href="https://to-tee.com/cart/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Cart" data-pos="right">
+
+
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span>
+  </a>
+
+
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide widget_shopping_cart">
+  <div class="cart-popup-inner inner-padding">
+      <div class="cart-popup-title text-center">
+          <h4 class="uppercase">Cart</h4>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget_shopping_cart_content">
+          
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+      </div>
+            <div class="cart-sidebar-content relative"></div>  </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="header-search header-search-lightbox has-icon">
+			<a href="#search-lightbox" aria-label="Search" data-open="#search-lightbox" data-focus="input.search-field"
+		class="is-small">
+		<i class="icon-search" style="font-size:16px;" ></i></a>
+		
+	<div id="search-lightbox" class="mfp-hide dark text-center">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-large"><form role="search" method="get" class="searchform" action="https://to-tee.com/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-1">Search for:</label>
+			<input type="search" id="woocommerce-product-search-field-1" class="search-field mb-0" placeholder="Search&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Search" class="ux-search-submit submit-button secondary button  icon mb-0" aria-label="Submit">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+<li class="cart-item has-icon">
+
+      <a href="https://to-tee.com/cart/" class="header-cart-link off-canvas-toggle nav-top-link is-small" data-open="#cart-popup" data-class="off-canvas-cart" title="Cart" data-pos="right">
+  
+    <span class="cart-icon image-icon">
+    <strong>0</strong>
+  </span>
+  </a>
+
+</li>
+            </ul>
+          </div>
+
+      </div>
+
+      </div>
+<div id="wide-nav" class="header-bottom wide-nav nav-dark flex-has-center hide-for-medium">
+    <div class="flex-row container">
+
+            
+                        <div class="flex-col hide-for-medium flex-center">
+                <ul class="nav header-nav header-bottom-nav nav-center  nav-divided nav-size-medium nav-spacing-medium">
+                    <li id="menu-item-3184304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184304 menu-item-design-default"><a href="https://to-tee.com/size-guide/" class="nav-top-link">Size Guide</a></li>
+<li id="menu-item-3184303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184303 menu-item-design-default"><a href="https://to-tee.com/order-tracking/" class="nav-top-link">Order Tracking</a></li>
+<li id="menu-item-3184302" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184302 menu-item-design-default"><a href="https://to-tee.com/faqs/" class="nav-top-link">FAQs</a></li>
+                </ul>
+            </div>
+            
+            
+            
+    </div>
+</div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			
+
+  <div class="banner has-hover" id="banner-2102375869">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill bg-loaded"></div>
+                                    
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-2073029749" class="text-box banner-layer x5 md-x0 lg-x0 y50 md-y50 lg-y50 res-text">
+              <div data-parallax="-1" data-parallax-fade="true">       <div data-animate="fadeInUp">           <div class="text-box-content text dark">
+              
+              <div class="text-inner text-left">
+                  
+
+	<div id="text-610637344" class="text">
+		
+
+<h3 class="alt-font">Best Quality Products</h3>
+<h1 class="elementor-heading-title elementor-size-default">We Print What You Want!</h1>
+<h2 class="uppercase"><span style="font-size: 150%;"><strong><span data-line-height="xs">&nbsp;</span></strong></span></h2>
+		
+<style>
+#text-610637344 {
+  font-size: 0.75rem;
+}
+</style>
+	</div>
+	
+
+              </div>
+           </div>
+       </div>       </div>              
+<style>
+#text-box-2073029749 {
+  width: 77%;
+}
+#text-box-2073029749 .text-box-content {
+  font-size: 100%;
+}
+@media (min-width:550px) {
+  #text-box-2073029749 {
+    width: 50%;
+  }
+}
+@media (min-width:850px) {
+  #text-box-2073029749 {
+    width: 34%;
+  }
+}
+</style>
+    </div>
+ 
+	<div class="img has-hover x100 md-x90 lg-x90 y100 md-y100 lg-y0" id="image_343072036">
+								<div class="img-inner dark" >
+			<img fetchpriority="high" decoding="async" width="538" height="614" src="https://to-tee.com/wp-content/uploads/2023/02/print-banner.png" class="attachment-original size-original" alt="print banner" srcset="https://to-tee.com/wp-content/uploads/2023/02/print-banner.png 538w, https://to-tee.com/wp-content/uploads/2023/02/print-banner-131x150.png 131w, https://to-tee.com/wp-content/uploads/2023/02/print-banner-500x571.png 500w" sizes="(max-width: 538px) 100vw, 538px" title="Home 1">						
+					</div>
+								
+<style>
+#image_343072036 {
+  width: 36%;
+}
+</style>
+	</div>
+	
+
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-2102375869 {
+  padding-top: 50%;
+  background-color: rgb(63, 63, 63);
+}
+@media (min-width:850px) {
+  #banner-2102375869 {
+    padding-top: 500px;
+  }
+}
+</style>
+  </div>
+
+
+<div class="row row-collapse row-full-width"  id="row-1695038672">
+
+
+	<div id="col-885246774" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+
+  <div class="banner has-hover is-full-height" id="banner-296001427">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-306772268" class="text-box banner-layer x5 md-x10 lg-x10 y95 md-y95 lg-y95 res-text">
+                                <div class="text-box-content text dark">
+              
+              <div class="text-inner text-center">
+                  
+
+	<div id="text-2354793992" class="text">
+		
+
+<h4 class="uppercase">Most Loved Designs</h4>
+<h2 class="uppercase"><strong>Customize Your T-Shirts</strong></h2>
+		
+<style>
+#text-2354793992 {
+  text-align: left;
+}
+</style>
+	</div>
+	
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-306772268 {
+  width: 75%;
+}
+#text-box-306772268 .text-box-content {
+  font-size: 100%;
+}
+</style>
+    </div>
+ 
+	<div class="img has-hover x50 md-x50 lg-x50 y5 md-y5 lg-y5" id="image_120499565">
+								<div class="img-inner dark" >
+			<img decoding="async" width="550" height="604" src="https://to-tee.com/wp-content/uploads/2023/02/Customize-Your-T-Shirts.jpg" class="attachment-large size-large" alt="Customize Your T Shirts" srcset="https://to-tee.com/wp-content/uploads/2023/02/Customize-Your-T-Shirts.jpg 550w, https://to-tee.com/wp-content/uploads/2023/02/Customize-Your-T-Shirts-137x150.jpg 137w, https://to-tee.com/wp-content/uploads/2023/02/Customize-Your-T-Shirts-500x549.jpg 500w" sizes="(max-width: 550px) 100vw, 550px" title="Home 2">						
+					</div>
+								
+<style>
+#image_120499565 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-296001427 {
+  padding-top: 560px;
+  background-color: rgb(63, 63, 63);
+}
+#banner-296001427 .overlay {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+@media (min-width:550px) {
+  #banner-296001427 {
+    padding-top: 450px;
+  }
+}
+@media (min-width:850px) {
+  #banner-296001427 {
+    padding-top: 100%;
+  }
+}
+</style>
+  </div>
+
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-159866182" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+
+  <div class="banner has-hover is-full-height" id="banner-997754075">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1560770317" class="text-box banner-layer x50 md-x50 lg-x50 y95 md-y5 lg-y5 res-text">
+                                <div class="text-box-content text dark">
+              
+              <div class="text-inner text-left">
+                  
+
+	<div id="text-3271364485" class="text">
+		
+
+<h3 class="uppercase">Design of the Week</h3>
+<h2 class="elementor-heading-title elementor-size-default">Rubber Print Your T-Shirt</h2>
+		
+<style>
+#text-3271364485 {
+  text-align: center;
+}
+</style>
+	</div>
+	
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1560770317 {
+  width: 70%;
+}
+#text-box-1560770317 .text-box-content {
+  font-size: 100%;
+}
+</style>
+    </div>
+ 
+	<div class="img has-hover x50 md-x50 lg-x50 y0 md-y95 lg-y95" id="image_218279539">
+								<div class="img-inner dark" >
+			<img decoding="async" width="550" height="604" src="https://to-tee.com/wp-content/uploads/2023/02/Rubber-Print-Your-T-Shirt.jpg" class="attachment-large size-large" alt="Rubber Print Your T Shirt" srcset="https://to-tee.com/wp-content/uploads/2023/02/Rubber-Print-Your-T-Shirt.jpg 550w, https://to-tee.com/wp-content/uploads/2023/02/Rubber-Print-Your-T-Shirt-137x150.jpg 137w, https://to-tee.com/wp-content/uploads/2023/02/Rubber-Print-Your-T-Shirt-500x549.jpg 500w" sizes="(max-width: 550px) 100vw, 550px" title="Home 3">						
+					</div>
+								
+<style>
+#image_218279539 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-997754075 {
+  padding-top: 560px;
+  background-color: rgb(63, 63, 63);
+}
+#banner-997754075 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+@media (min-width:550px) {
+  #banner-997754075 {
+    padding-top: 450px;
+  }
+}
+@media (min-width:850px) {
+  #banner-997754075 {
+    padding-top: 100%;
+  }
+}
+</style>
+  </div>
+
+
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1484642991" class="col medium-4 small-12 large-4"  >
+				<div class="col-inner"  >
+			
+			
+
+
+  <div class="banner has-hover is-full-height" id="banner-1363602643">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" >
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-107834021" class="text-box banner-layer x95 md-x10 lg-x10 y95 md-y95 lg-y95 res-text">
+                                <div class="text-box-content text dark">
+              
+              <div class="text-inner text-center">
+                  
+
+	<div id="text-2111498752" class="text">
+		
+
+<h4 class="uppercase" style="text-align: right;">New T-shirt Edition</h4>
+<h2 class="elementor-heading-title elementor-size-default" style="text-align: right;">Customize Plain Colors</h2>
+		
+<style>
+#text-2111498752 {
+  text-align: right;
+}
+</style>
+	</div>
+	
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-107834021 {
+  width: 75%;
+}
+#text-box-107834021 .text-box-content {
+  font-size: 100%;
+}
+</style>
+    </div>
+ 
+	<div class="img has-hover x50 md-x50 lg-x50 y5 md-y5 lg-y5" id="image_611553286">
+								<div class="img-inner dark" >
+			<img loading="lazy" decoding="async" width="550" height="604" src="https://to-tee.com/wp-content/uploads/2023/02/Customize-Plain-Colors.jpg" class="attachment-large size-large" alt="Customize Plain Colors" srcset="https://to-tee.com/wp-content/uploads/2023/02/Customize-Plain-Colors.jpg 550w, https://to-tee.com/wp-content/uploads/2023/02/Customize-Plain-Colors-137x150.jpg 137w, https://to-tee.com/wp-content/uploads/2023/02/Customize-Plain-Colors-500x549.jpg 500w" sizes="(max-width: 550px) 100vw, 550px" title="Home 4">						
+					</div>
+								
+<style>
+#image_611553286 {
+  width: 100%;
+}
+</style>
+	</div>
+	
+
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1363602643 {
+  padding-top: 560px;
+  background-color: rgb(63, 63, 63);
+}
+#banner-1363602643 .overlay {
+  background-color: rgba(0, 0, 0, 0.12);
+}
+@media (min-width:550px) {
+  #banner-1363602643 {
+    padding-top: 450px;
+  }
+}
+@media (min-width:850px) {
+  #banner-1363602643 {
+    padding-top: 100%;
+  }
+}
+</style>
+  </div>
+
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row align-center"  id="row-1420764006">
+
+
+	<div id="col-2050333447" class="col medium-9 small-12 large-7"  >
+				<div class="col-inner text-center"  >
+			
+			
+
+<h2 class="uppercase"><span style="font-size: 160%;">Welcome to our Shop</span></h2>
+<p>We&#8217;re far more than a simple online t-shirt vendor! We are a fusion of innovative designers, proficient developers, and dynamic marketers devoted to crafting memories, not just apparel. We believe in creating garments that are cherished keepsakes, filled with memories, laughter, and moments that last a lifetime. Every stitch, every print, radiates our painstaking attention to detail and unwavering commitment to excellence. Join us in a journey of passion, experience the dedication through our creations, and let us make every wear a remembrance of joy and uniqueness! Discover the emotion in every piece. Welcome to ToTee!</p>
+<a href="/about-us/" target="_self" class="button primary is-outline is-small"  style="border-radius:99px;">
+    <span>About us</span>
+  </a>
+
+
+
+		</div>
+				
+<style>
+#col-2050333447 > .col-inner {
+  padding: 40px 0px 0px 0px;
+}
+</style>
+	</div>
+
+	
+
+</div>
+<div class="container section-title-container" ><h3 class="section-title section-title-center"><b></b><span class="section-title-main" style="font-size:undefined%;">Browse products</span><b></b></h3></div>
+
+
+  
+    <div class="row large-columns-4 medium-columns-3 small-columns-2 row-small has-shadow row-box-shadow-2 row-box-shadow-3-hover" >
+  	
+	     <div class="product-small col has-hover wcpa_has_options product type-product post-3184054 status-publish first instock product_cat-clothing product_tag-30th-birthday-gift product_tag-30th-birthday-t-shirt has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/awesome-since-february-1993/" aria-label="30th Birthday T-Shirt - Celebrate Being 30 Years Old Awesome Since February 1993">
+					<img loading="lazy" decoding="async" width="500" height="400" src="https://to-tee.com/wp-content/uploads/2023/02/30-Years-Old-Awesome-Since-February-1993-30th-Birthday-T-Shirt-3-500x400.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="30 Years Old Awesome Since February 1993 30th Birthday T Shirt 3" srcset="https://to-tee.com/wp-content/uploads/2023/02/30-Years-Old-Awesome-Since-February-1993-30th-Birthday-T-Shirt-3-500x400.jpg 500w, https://to-tee.com/wp-content/uploads/2023/02/30-Years-Old-Awesome-Since-February-1993-30th-Birthday-T-Shirt-3-900x720.jpg 900w, https://to-tee.com/wp-content/uploads/2023/02/30-Years-Old-Awesome-Since-February-1993-30th-Birthday-T-Shirt-3.jpg 1000w" sizes="(max-width: 500px) 100vw, 500px" title="Home 5">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/awesome-since-february-1993/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">30th Birthday T-Shirt &#8211; Celebrate Being 30 Years Old Awesome Since February 1993</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184054'>
+	</div>
+
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>21.95</bdi></span></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184090 status-publish instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/the-mandalorian-creed-t-shirt-star-wars-season-3/" aria-label="The Mandalorian Creed T-Shirt - Star Wars Season 3">
+					<img product-id="3184090" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/star-wars-the-mandalorian-season-3-the-mandalorian-creed-t-shirt-men.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="star wars the mandalorian season 3 the mandalorian creed t shirt men" title="Home 6">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/the-mandalorian-creed-t-shirt-star-wars-season-3/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">The Mandalorian Creed T-Shirt &#8211; Star Wars Season 3</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184090'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>19.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184173 status-publish instock product_cat-clothing product_cat-fathers-day-t-shirt has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/be-kind-in-a-world-where-you-can-be-anything-a-teachers-reminder/" aria-label="Be Kind in a World Where You Can Be Anything: A Teacher&#039;s Reminder">
+					<img product-id="3184173" fifu-featured="1" loading="lazy" decoding="async" width="500" height="500" src="https://cdn.to-tee.com/2023/02/teacher-life-be-kind-gift-for-teacher-cat-in-hat-t-shirt-shirt.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Be Kind in a World Where You Can Be Anything: A Teacher&#8217;s Reminder" title="Be Kind in a World Where You Can Be Anything: A Teacher&#8217;s Reminder" title="Be Kind in a World Where You Can Be Anything: A Teacher&#8217;s Reminder" />				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/be-kind-in-a-world-where-you-can-be-anything-a-teachers-reminder/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Be Kind in a World Where You Can Be Anything: A Teacher&#8217;s Reminder</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184173'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>21.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184082 status-publish last instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/retro-i-teach-black-history-tee-for-teachers/" aria-label="Retro &quot;I Teach Black History&quot; Tee for Teachers">
+					<img product-id="3184082" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/black-history-month-i-teach-black-history-teacher-retro-t-shirt-men.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="black history month i teach black history teacher retro t shirt men" title="Home 7">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/retro-i-teach-black-history-tee-for-teachers/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Retro &#8220;I Teach Black History&#8221; Tee for Teachers</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184082'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>19.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184094 status-publish first instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/retro-palm-trees-t-shirt-sunshine-summer-vibes/" aria-label="Retro Palm Trees T-Shirt - Sunshine Summer Vibes">
+					<img product-id="3184094" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/sunshine-summer-vibes-palm-trees-beach-retro-tropical-cute-t-shirt-men.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="sunshine summer vibes palm trees beach retro tropical cute t shirt men" title="Home 8">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/retro-palm-trees-t-shirt-sunshine-summer-vibes/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Retro Palm Trees T-Shirt &#8211; Sunshine Summer Vibes</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184094'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>19.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184086 status-publish instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/shenanigans-coordinator-gnome-st-patricks-day-tee/" aria-label="Shenanigans Coordinator Gnome St. Patrick&#039;s Day Tee">
+					<img product-id="3184086" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/shenanigans-coordinator-gnome-st-patricks-day-teacher-gift-t-shirt-men.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="shenanigans coordinator gnome st patricks day teacher gift t shirt men" title="Home 9">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/shenanigans-coordinator-gnome-st-patricks-day-tee/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Shenanigans Coordinator Gnome St. Patrick&#8217;s Day Tee</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184086'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>19.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184129 status-publish instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/black-history-month-proud-t-shirt-african-american-melanin/" aria-label="Black History Month Proud T-Shirt - African American Melanin">
+					<img product-id="3184129" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/black-history-month-period-shirt-bhm-african-american-proud-t-shirt-shirt.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="black history month period shirt bhm african american proud t shirt shirt" title="Home 10">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/black-history-month-proud-t-shirt-african-american-melanin/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Black History Month Proud T-Shirt &#8211; African American Melanin</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184129'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>21.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div><div class="product-small col has-hover wcpa_has_options product type-product post-3184157 status-publish last instock product_cat-clothing has-post-thumbnail sale purchasable product-type-simple">
+	<div class="col-inner">
+	
+<div class="badge-container absolute left top z-1">
+<div class="callout badge badge-circle"><div class="badge-inner secondary on-sale"><span class="onsale">Sale!</span></div></div>
+</div>
+	<div class="product-small box ">
+		<div class="box-image">
+			<div class="image-none">
+				<a href="https://to-tee.com/shop/jesus-is-king-christian-t-shirt-show-your-faith-in-style/" aria-label="&quot;Jesus Is King&quot; Christian T-Shirt - Show Your Faith in Style!">
+					<img product-id="3184157" fifu-featured="1" decoding="async" width="500" src="https://cdn.to-tee.com/2023/02/jesus-is-king-bible-christian-t-shirt-shirt.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="jesus is king bible christian t shirt shirt" title="Home 11">				</a>
+			</div>
+			<div class="image-tools is-small top right show-on-hover">
+							</div>
+			<div class="image-tools is-small hide-for-small bottom left show-on-hover">
+							</div>
+			<div class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover">
+							</div>
+					</div>
+
+		<div class="box-text box-text-products flex-row align-top grid-style-3 flex-wrap">
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="https://to-tee.com/shop/jesus-is-king-christian-t-shirt-show-your-faith-in-style/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">&#8220;Jesus Is King&#8221; Christian T-Shirt &#8211; Show Your Faith in Style!</a></p></div><div class="price-wrapper"><div class='jdgm-widget jdgm-preview-badge' data-id='3184157'>
+	</div>
+
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>29.95</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>21.95</bdi></span></ins></span>
+</div>		</div>
+	</div>
+		</div>
+</div></div>
+
+
+  <div class="banner has-hover has-parallax" id="banner-1650455631">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill" data-parallax="-10" data-parallax-container=".banner" data-parallax-background>
+            <div class="bg fill bg-fill bg-loaded"></div>
+                                    
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-841800991" class="text-box banner-layer x50 md-x0 lg-x0 y20 md-y20 lg-y20 res-text">
+                     <div data-animate="fadeInRight">           <div class="text-box-content text dark">
+              
+              <div class="text-inner text-center">
+                  
+
+	<div id="text-2959650796" class="text">
+		
+
+<h3 class="elementor-heading-title elementor-size-default" style="text-align: left;">Hurry Up!</h3>
+<h2 class="elementor-heading-title elementor-size-default" style="text-align: left;">Deal of the Day!</h2>
+<h5 class="elementor-heading-title elementor-size-default" style="text-align: left;">Buy This T-shirt At 10% Discount, Use Code HAPPYDAY</h5>
+<p style="text-align: left;">(*Only for return customer)</p>
+		
+<style>
+#text-2959650796 {
+  color: rgb(63, 63, 63);
+}
+#text-2959650796 > * {
+  color: rgb(63, 63, 63);
+}
+</style>
+	</div>
+	
+
+              </div>
+           </div>
+       </div>                     
+<style>
+#text-box-841800991 {
+  width: 79%;
+}
+#text-box-841800991 .text-box-content {
+  font-size: 158%;
+}
+@media (min-width:550px) {
+  #text-box-841800991 {
+    width: 61%;
+  }
+  #text-box-841800991 .text-box-content {
+    font-size: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1650455631 {
+  padding-top: 500px;
+}
+#banner-1650455631 .bg.bg-loaded {
+  background-image: url(https://to-tee.com/wp-content/uploads/2023/02/banner-happy-day.jpg);
+}
+#banner-1650455631 .bg {
+  background-position: 83% 0%;
+}
+</style>
+  </div>
+
+
+
+
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	
+<!-- FOOTER 1 -->
+
+<!-- FOOTER 2 -->
+<div class="footer-widgets footer footer-2 dark">
+		<div class="row dark large-columns-3 mb-0">
+	   		<div id="custom_html-2" class="widget_text col pb-0 widget widget_custom_html"><span class="widget-title">Contact Information</span><div class="is-divider small"></div><div class="textwidget custom-html-widget"><i class="icon-phone"></i>
+<a href="/cdn-cgi/l/email-protection#a5d6d0d5d5cad7d1e5d1ca88d1c0c08bc6cac8">Email: <span class="__cf_email__" data-cfemail="98ebede8e8f7eaecd8ecf7b5ecfdfdb6fbf7f5">[email&#160;protected]</span></a>
+<br>
+
+<i style="
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+" class="icon-map-pin-fill"></i>
+<strong>Office in US:</strong> 1900 Military Rd, Niagara Falls, NY 14304, United States
+<br>
+			<i style="
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 5px;
+" class="icon-map-pin-fill"></i>
+<strong>Office in UK: </strong>2 Stephen St, Bloomsbury, London W1T 1AN, United Kingdom
+</div></div><div id="custom_html-3" class="widget_text col pb-0 widget widget_custom_html"><span class="widget-title">COMPANY INFO</span><div class="is-divider small"></div><div class="textwidget custom-html-widget"><a href="/about-us" class="customize-unpreviewable">About us</a>
+<br>
+<a href="/contact-us" class="customize-unpreviewable">Contact us</a>
+<br>
+<a href="/terms-conditions" class="customize-unpreviewable">Terms of Service</a>
+<br>
+<a href="/faqs" class="customize-unpreviewable">FAQs</a></div></div><div id="custom_html-4" class="widget_text col pb-0 widget widget_custom_html"><span class="widget-title">PURCHASE INFO</span><div class="is-divider small"></div><div class="textwidget custom-html-widget"><a href="/returns-exchanges-policy/" class="customize-unpreviewable">Returns &amp; Exchanges Policy</a>
+<br>
+<a href="/refund-policy/" class="customize-unpreviewable">Refund Policy</a>
+<br>
+<a href="/billing-terms-conditions/" class="customize-unpreviewable">Billing Terms &amp; Conditions</a></div></div>		</div>
+</div>
+
+
+
+<div class="absolute-footer dark medium-text-center text-center">
+  <div class="container clearfix">
+
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        <div style="margin: auto; padding: 15px;" >Copyright 2023 © ToTee Clothing<strong>. All Right Reserved.</strong></div>      </div>
+          </div>
+  </div>
+</div>
+
+</footer>
+
+</div>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase" data-tab="1">
+				<li class="header-search-form search-form html relative has-icon">
+	<div class="header-search-form-wrapper">
+		<div class="searchform-wrapper ux-search-box relative form-flat is-normal"><form role="search" method="get" class="searchform" action="https://to-tee.com/">
+	<div class="flex-row relative">
+						<div class="flex-col flex-grow">
+			<label class="screen-reader-text" for="woocommerce-product-search-field-2">Search for:</label>
+			<input type="search" id="woocommerce-product-search-field-2" class="search-field mb-0" placeholder="Search&hellip;" value="" name="s" />
+			<input type="hidden" name="post_type" value="product" />
+					</div>
+		<div class="flex-col">
+			<button type="submit" value="Search" class="ux-search-submit submit-button secondary button  icon mb-0" aria-label="Submit">
+				<i class="icon-search" ></i>			</button>
+		</div>
+	</div>
+	<div class="live-search-results text-left z-top"></div>
+</form>
+</div>	</div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184304"><a href="https://to-tee.com/size-guide/">Size Guide</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184303"><a href="https://to-tee.com/order-tracking/">Order Tracking</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3184302"><a href="https://to-tee.com/faqs/">FAQs</a></li>
+<li class="html custom html_topbar_right"><a title="Track Your Order" href="/track-order/" class="nav-top-link"><span style="font-size: 13px; ">Track Your Order</span></a></li><li class="html custom html_top_right_text"><a title="Track Your Order" href="/contact-us/" class="nav-top-link"><span style="font-size: 13px; ">Contact Us</span></a></li>			</ul>
+		
+		
+	</div>
+
+	
+</div>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+            	<div class="woocommerce">
+      		<div class="woocommerce-notices-wrapper"></div>
+<div class="account-container lightbox-inner">
+
+	
+			<div class="account-login-inner">
+
+				<h3 class="uppercase">Login</h3>
+
+				<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+					
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="username">Username or email address&nbsp;<span class="required">*</span></label>
+						<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="" />					</p>
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="password">Password&nbsp;<span class="required">*</span></label>
+						<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" />
+					</p>
+
+					
+					<p class="form-row">
+						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Remember me</span>
+						</label>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="4b37480e1a" /><input type="hidden" name="_wp_http_referer" value="/?utm_campaign=wp-content%2Fuploads%2F2019%2F10%2FBuilt-in-the-sixties-original-and-unrestored-some-parts-still-in-working-order-shirt-4.jpg" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+					</p>
+					<p class="woocommerce-LostPassword lost_password">
+						<a href="https://to-tee.com/my-account/lost-password/">Lost your password?</a>
+					</p>
+
+					
+				</form>
+			</div>
+
+			
+</div>
+
+		</div>
+      	    </div>
+  	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='fifu-woo-css' href='https://to-tee.com/wp-content/plugins/featured-image-from-url/includes/html/css/woo.css?ver=4.5.3' type='text/css' media='all' />
+<style id='fifu-woo-inline-css' type='text/css'>
+img.zoomImg {display:inline !important}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" id="wcpa-frontend-js-extra">
+/* <![CDATA[ */
+var wcpa_global_vars = {"wc_currency_symbol":"$","wc_thousand_sep":",","wc_price_decimals":"2","wc_decimal_sep":".","price_format":"%1$s%2$s","wc_currency_pos":"left","date_format":"F j, Y","date_format_js":"MMMM D, YYYY","time_format":"g:i a","time_format_js":"h:mm a","use_sumo":"1","start_of_week":"1","today":{"days":19704,"seconds":1702433795},"google_map_api":"","ajax_url":"https:\/\/to-tee.com\/wp-admin\/admin-ajax.php","change_price_as_quantity":"","show_field_price_x_quantity":"","show_strike_product_price":"","strings":{"ajax_file_upload":"Files are being uploaded...","ajax_upload_error":"Upload error","sel_min_req_error":"You have to select minimum %d items","sel_max_req_error":"You can select maximum %d items","fix_val_errors":"Please correct the errors shown for fields","field_is_requied":"This field is requied","character_not_valid":"Character %s is not supported","sumo_strings":{"captionFormat":"{0} Selected","captionFormatAllSelected":"{0} all selected!"}},"wcpa_init_triggers":["qv_loader_stop","quick_view_pro:load","elementor\/popup\/show","xt_wooqv-product-loaded"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/woo-custom-product-addons-pro/assets/js/frontend.min.js?ver=3.9.2" id="wcpa-frontend-js"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=8.3.1" id="woocommerce-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://to-tee.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.17.6"},"ajaxurl":"https:\/\/to-tee.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/to-tee.com\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"},"is_mini_cart_reveal":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=89ac940c4841291ea8d6" id="flatsome-js-js"></script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=1a392523165907adee6a" id="flatsome-theme-woocommerce-js-js"></script>
+<!--[if IE]>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/intersection-observer-polyfill@0.1.0/dist/IntersectionObserver.js?ver=0.1.0" id="intersection-observer-polyfill-js"></script>
+<![endif]-->
+<script defer type="text/javascript" src="https://stats.wp.com/e-202350.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'215601347',post:'3182258',tz:'-7',srv:'to-tee.com',j:'1:12.9'} ]);
+_stq.push([ "clickTrackerInit", "215601347", "3182258" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="fifu-image-js-js-extra">
+/* <![CDATA[ */
+var fifuImageVars = {"fifu_lazy":"","fifu_woo_lbox_enabled":"1","fifu_is_product":"","fifu_is_flatsome_active":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/featured-image-from-url/includes/html/js/image.js?ver=4.5.3" id="fifu-image-js-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_0f6bc677ba2f7d21d68a99b597bb8925","fragment_name":"wc_fragments_0f6bc677ba2f7d21d68a99b597bb8925","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://to-tee.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=8.3.1" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+jQuery( 'div.woocommerce' ).on( 'click', 'a.remove', function() {
+				var productID = jQuery( this ).data( 'product_id' );
+				var quantity = jQuery( this ).parent().parent().find( '.qty' ).val()
+				var productDetails = {
+					'id': productID,
+					'quantity': quantity ? quantity : '1',
+				};
+				_wca.push( {
+					'_en': 'woocommerceanalytics_remove_from_cart',
+					'pi': productDetails.id,
+					'pq': productDetails.quantity, 'blog_id': '215601347', 'ui': 'null', 'url': 'https://to-tee.com', 'woo_version': '8.3.1', 'store_admin': '0', 'cart_page_contains_cart_block': '0', 'cart_page_contains_cart_shortcode': '0', 'checkout_page_contains_checkout_block': '0', 'checkout_page_contains_checkout_shortcode': '0', 
+				} );
+			} );
+ });
+</script>
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Selector cho tất cả ảnh trong popup/lightbox
+    const imagesInPopup = document.querySelectorAll('.popup-image-selector');
+
+    // Xử lý sự kiện click trên mỗi ảnh
+    imagesInPopup.forEach(function(img) {
+        img.addEventListener('click', function() {
+            // Tìm nút đóng popup và kích hoạt sự kiện click trên nó
+            const closeButton = document.querySelector('.mfp-close');
+            if (closeButton) {
+                closeButton.click();
+            }
+        });
+    });
+});
+
+</script>
+</body>
+</html>

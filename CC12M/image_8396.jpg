@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en" class="ts_v3 charlotte_theme tsTheme_17 luna_theme unknown-os" ng-app="themeApp" >
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Family Dentistry, Invisalign Braces | Rochester, MN | Gentling Dental Care</title>
+
+    <!-- preconnecting / preloading -->
+    <link rel="preconnect" as="style" id="jquery-ui-css-preload" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" crossorigin/>
+    <!-- end of preconnecting / preloading -->
+
+    <!-- links to styles -->
+    <link rel="stylesheet" id="jquery-ui-css"  href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" type="text/css" media="all" />
+
+
+    <!-- from beacon-easton theme definition front_actions() -->
+    <link rel="preconnect" id="Source-Sans-Pro-css-preconnect" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" />
+<link rel="stylesheet" id="Source-Sans-Pro-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" type="text/css" media="all"/>
+<link rel="stylesheet" id="theme-css" href="https://gentlingdental.com/cms_websites/css/dist/beacon-theme_charlotte/theme.css?ver=1" type="text/css" media="all and (min-width:0px)"/>
+<link rel="stylesheet" id="customize-css" href="https://gentlingdental.com/cms_websites/cms_theme_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- from _the_list -->
+
+    <!-- general links to JS for all themes-->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.validate.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js?ver=248_11"></script> -->
+    <!-- from current/wp-content/themes/tsm-theme-1/plugins/_the_list/_the_list.php -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://gentlingdental.com/wp-content/themes/beacon-easton/js/nwmatcher.js"></script> -->
+    <!-- <script type="text/javascript" src="https://gentlingdental.com/wp-content/themes/beacon-easton/js/modernizr-custom-11917.js"></script> -->
+
+    <script type="text/javascript" src="https://gentlingdental.com/cms_websites/js/dist/shared/external/scripts.min.js"></script>
+
+<script type="text/javascript" src="https://gentlingdental.com/cms_websites/tools/AdminBarAnalytics/js/external-tracking.min.js"></script>
+<link rel="shortcut icon" sizes="16x16 32x32 64x64" href="/files/2020/07/icon-small.png?w=196&h=196&zc=0">
+<meta name="google-site-verification" content="yzB7t9E06cxsb35NC4jzDXVKC9fP7eX5uGYgDRj4BzU"/>
+<meta property="og:image" content="/files/2023/10/1697120302609_gentling_2021_199_edit.jpg"/>
+<meta property="og:image" content="/files/2021/12/Gentling-2021-199-EDIT.jpg"/>
+<meta property="og:image" content="/files/2020/10/1603116017782_gentling_148_opt.jpg"/>
+<meta property="og:image" content="/files/2020/12/Gentling-147.jpg"/>
+<meta property="og:image" content="/files/2020/12/homepage_(1).jpg"/>
+<meta property="og:image" content="/files/2020/07/scanner.png"/>
+<meta property="og:image" content="/files/2020/07/calendar.png"/>
+<meta property="og:image" content="/files/2020/07/agreement.png"/>
+<meta property="og:image" content="/files/2020/07/toy.png"/>
+<meta property="og:image" content="/files/2023/08/1693244318571_gentling_dentists_team_picture.jpg"/>
+<meta property="og:image" content="/files/2020/08/dl1.jpg"/>
+<meta property="og:title" content="Family Dentistry, Invisalign Braces | Rochester, MN | Gentling Dental Care"/>
+<meta property="og:site_name" content="Gentling Dental Care"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://gentlingdental.com"/>
+<meta property="og:description" content="Experience one-of-a-kind dentistry, from our family to yours. Schedule cleanings, teeth whitening, cosmetic dentistry & more. Call our office today!"/>
+<meta name="description" itemprop="description" content="Experience one-of-a-kind dentistry, from our family to yours. Schedule cleanings, teeth whitening, cosmetic dentistry & more. Call our office today!" />
+<link rel="canonical" href="https://gentlingdental.com" />
+<link rel="stylesheet" id="custom-css-css" href="https://gentlingdental.com/cms_websites/cms_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0X2G8B7V5S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0X2G8B7V5S');
+  gtag('config', 'UA-177562550-78');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NCH33TJ');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+jQuery(document).ready(function(){
+jQuery(".b2b-location-canvas").replaceWith("<iframe class='b2b-location-canvas-service' frameborder='0' style='border:0' allowfullscreen='' src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11471.20537931452!2d-92.4567066!3d44.0461589!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfa8c79006e436d35!2sGentling%20Dental%20Care!5e0!3m2!1sen!2sus!4v1619790528214!5m2!1sen!2sus'></iframe>");});</script>
+
+<script src="https://kit.fontawesome.com/8784d1d38e.js" crossorigin="anonymous"></script>
+
+<script>
+jQuery(document).ready(function(){
+jQuery(".tsCntct .tsCntct_list").prepend(
+  "<li class='tsBTsocial'><a href='https://www.icreditworks.com/' target='_blank' class='tsC_Btn'><i class='fas fa-money-check-alt'></i> Payment Plan</a></li>");});
+</script>
+
+<script>
+jQuery(document).ready(function(){
+jQuery(".tsCntct .tsCntct_list").prepend(
+  "<li class='tsBTsocial'><a href='https://pay.balancecollect.com/m/gentlingdentalcare' target='_blank' class='tsC_Btn'><i class='fas fa-money-bill'></i> Pay My Bill</a></li>");});
+</script>
+
+<script>
+//jQuery(document).ready(function(){
+//jQuery(".tsH_wrp").after("<div id='header-cta'><a href='/covid-19-safety-protocol/'>Click Here to Learn More About Our AdvancedSafety Protocols</a></div>");});
+</script>
+
+<script>
+jQuery(document).ready(function(){
+jQuery(".tsM #access .menu .sf-menu #menu-item-371473").before("<li class='green-btn menu-item menu-item-371562 menu-item-object-page menu-item-type-post_type ' id='menu-item-custom'><a href='http://gentlingdentalcare.production.townsquareinteractive.com/request-an-appointment//?isTsi15=ON&amp;1598480037048'>Request an Appointment</a></li>");
+});
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+    var b2b = {
+        'isTestingUser' : 0,
+        'tag':'248_11',
+        'theme': 'beacon-theme_charlotte',
+        'blog_id': '',
+        'website_id': 31464,
+        'CID':'', // later
+        'gaId':'UA-177562550-78',
+        'page_type': '',
+        'isPage': '',
+        'post_id': '354516',
+        'home_url':'https://gentlingdental.com',
+        'admin_url':'',
+        'plugins_url':'',
+        'basename':'index.php',
+        'isMobile':0,
+        'isTablet':0,
+        'isFrontPage': 1,
+        'isPost':0,
+        'isSuperAdmin':0,
+        'isBeacon':1,
+        'isB2Badmin':0,
+        'hasStore':0,
+        'primary_menu': 0 ,
+        'qstr':[],
+        'containerClasses':{},
+        'post_password_required':0,
+        'onFly':0
+    };
+//]]>
+</script>
+    <script type="text/javascript">
+				window.b2b = window.b2b || {};
+				window.b2b.GA = {"accounts":["UA-177562550-78","UA-26792682-1"]};
+		</script>
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-177562550-78']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_setCampaignCookieTimeout', 0]);
+
+    _gaq.push(['_trackPageview']);
+
+    _gaq.push(['_setAccount', 'UA-26792682-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+        <!-- Master Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-PF8RFHR03F"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PF8RFHR03F');
+        </script>
+
+
+            <!-- Ga4 Script-->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-9K49TCW641"></script>
+            <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-9K49TCW641'); </script>
+
+
+        <!-- Custom CTC & CTD events -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                document.querySelectorAll("a[href^='tel']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'call_click');
+                    });
+                });
+                document.querySelectorAll("a[href^='https://maps.google.com/maps']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'directions_click');
+                    });
+                });
+            }, false);
+        </script>
+
+</head>
+<body id="top"class=" home page page-id-354516 page-template-default ve-iframe beacon unknown">
+<div id="wrapper" class="tsW">
+    <header class="tsH expand">
+        <div class="tsH_wrp">
+            
+<div id='_the_logo' class='_is_plugin header-logo' slug='_the_logo' data-extra-args='{"section":"header"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-header"><div  class="logo-slot pct100 slot_0 slot-type-image align-left"><a class="ve_no_url" href="https://gentlingdental.com" title="Gentling Dental Care" rel="home"><img  src="/files/2020/07/logo-large.png" /></a></div></div><div data-numslots="1" class="logo-variation logo-variation-mobile"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://gentlingdental.com" title="Gentling Dental Care" rel="home"><img  src="/files/2020/07/logo.png" /></a></div></div>
+</h2></div>
+            <div id="access" class="original_access">
+                <div class="menu align-right">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-371473 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-354516" id="menu-item-371473"><a href="https://gentlingdental.com/">Home</a></li><li class=" menu-item menu-item-has-children menu-item-371529 menu-item-object-page menu-item-type-post_type " id="menu-item-371529"><a href="https://gentlingdental.com/about-us/">About Us</a><ul class="sub-menu"><li class=" menu-item menu-item-373152 menu-item-object-custom menu-item-type-custom " id="menu-item-373152"><a href="http://gentlingdentalcare.production.townsquareinteractive.com/about-us/">A Legacy of Excellence Since 1948</a></li><li class=" menu-item menu-item-372735 menu-item-object-page menu-item-type-post_type " id="menu-item-372735"><a href="https://gentlingdental.com/meet-the-staff/">Meet the Staff</a></li><li class=" menu-item menu-item-371536 menu-item-object-page menu-item-type-post_type " id="menu-item-371536"><a href="https://gentlingdental.com/community-involvement/">Community Involvement</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-371563 menu-item-object-custom menu-item-type-custom " id="menu-item-371563"><a href="#">Services</a><ul class="sub-menu"><li class=" menu-item menu-item-371546 menu-item-object-page menu-item-type-post_type " id="menu-item-371546"><a href="https://gentlingdental.com/smile-makeover-cosmetic-dentistry/">Cosmetic Dentistry</a></li><li class=" menu-item menu-item-371540 menu-item-object-page menu-item-type-post_type " id="menu-item-371540"><a href="https://gentlingdental.com/crowns-bridges/">Crowns & Bridges</a></li><li class=" menu-item menu-item-371542 menu-item-object-page menu-item-type-post_type " id="menu-item-371542"><a href="https://gentlingdental.com/dentures/">Dentures</a></li><li class=" menu-item menu-item-371538 menu-item-object-page menu-item-type-post_type " id="menu-item-371538"><a href="https://gentlingdental.com/family-dentistry/">Family Dentistry</a></li><li class=" menu-item menu-item-371543 menu-item-object-page menu-item-type-post_type " id="menu-item-371543"><a href="https://gentlingdental.com/full-mouth-reconstruction/">Full Mouth Reconstruction</a></li><li class=" menu-item menu-item-371544 menu-item-object-page menu-item-type-post_type " id="menu-item-371544"><a href="https://gentlingdental.com/implants/">Implants</a></li><li class=" menu-item menu-item-371550 menu-item-object-page menu-item-type-post_type " id="menu-item-371550"><a href="https://gentlingdental.com/invisalign/">Invisalign</a></li><li class=" menu-item menu-item-371553 menu-item-object-page menu-item-type-post_type " id="menu-item-371553"><a href="https://gentlingdental.com/jaw-pain-tmj-tmd-therapy/">Jaw Pain TMJ/TMD Therapy</a></li><li class=" menu-item menu-item-371551 menu-item-object-page menu-item-type-post_type " id="menu-item-371551"><a href="https://gentlingdental.com/professional-cleaning-periodontal-therapy/">Professional Cleaning & Periodontal Therapy</a></li><li class=" menu-item menu-item-371554 menu-item-object-page menu-item-type-post_type " id="menu-item-371554"><a href="https://gentlingdental.com/root-canals-tooth-removal/">Root Canals & Tooth Removal</a></li><li class=" menu-item menu-item-787789 menu-item-object-page menu-item-type-post_type " id="menu-item-787789"><a href="https://gentlingdental.com/same-day-appointments/">Same Day Appointments</a></li><li class=" menu-item menu-item-371539 menu-item-object-page menu-item-type-post_type " id="menu-item-371539"><a href="https://gentlingdental.com/sleep-apnea-therapy/">Sleep Apnea Therapy</a></li><li class=" menu-item menu-item-371549 menu-item-object-page menu-item-type-post_type " id="menu-item-371549"><a href="https://gentlingdental.com/teeth-whitening/">Teeth Whitening</a></li><li class=" menu-item menu-item-371541 menu-item-object-page menu-item-type-post_type " id="menu-item-371541"><a href="https://gentlingdental.com/tooth-colored-shade-matched-fillings/">Tooth Colored (Shade Matched) Fillings</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-371557 menu-item-object-page menu-item-type-post_type " id="menu-item-371557"><a href="https://gentlingdental.com/new-patients/">Patient Information</a><ul class="sub-menu"><li class=" menu-item menu-item-373140 menu-item-object-custom menu-item-type-custom " id="menu-item-373140"><a href="http://gentlingdentalcare.production.townsquareinteractive.com/new-patients/">Patient Information</a></li><li class=" menu-item menu-item-371559 menu-item-object-page menu-item-type-post_type " id="menu-item-371559"><a href="https://gentlingdental.com/special-offers/">Special Offers</a></li><li class=" menu-item menu-item-723920 menu-item-object-page menu-item-type-post_type " id="menu-item-723920"><a href="https://gentlingdental.com/payment-plans/">Payment Plans</a></li><li class=" menu-item menu-item-371560 menu-item-object-page menu-item-type-post_type " id="menu-item-371560"><a href="https://gentlingdental.com/faqs/">FAQs</a></li><li class=" menu-item menu-item-371556 menu-item-object-page menu-item-type-post_type " id="menu-item-371556"><a href="https://gentlingdental.com/post-op-instructions/">Post-Op Instructions</a></li></ul>
+                        </li><li class=" menu-item menu-item-371561 menu-item-object-page menu-item-type-post_type " id="menu-item-371561"><a href="https://gentlingdental.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-373008 menu-item-object-page menu-item-type-post_type " id="menu-item-373008"><a href="https://gentlingdental.com/contact-us/">Contact Us</a></li><li class="green-btn menu-item menu-item-371562 menu-item-object-page menu-item-type-post_type " id="menu-item-371562"><a href="https://gentlingdental.com/request-an-appointment/">Request an Appointment</a></li></ul>
+        </div>            </div>
+
+            <button type="button" class="tsC_open tsH_navTrig trigger" data-target="tsM" title="Open Menu"></button>
+        </div>
+
+        <div class="tsSC transition tsflex " >
+            <ul class="social-media-links"><li class="facebook"><a href="http://www.facebook.com/GentlingDental/" title="Facebook" target="_blank" ></a></li><li class="custom-social-1"><a href="https://www.google.com/search?rlz=1C5CHFA_enUS726US730&amp;sxsrf=ALeKk01thsayA-HuBy8s8M_9PDNjfbsA7g%3A1595278251228&amp;ei=qwMWX9_ADejH_Qbb4Yn4Cw&amp;q=Gentling+Dental+Care+rochester+mn&amp;oq=Gentling+Dental+Care+rochester+mn&amp;gs_lcp=CgZwc3ktYWIQAzILCC4QxwEQrwEQkwIyBggAE" title="Google" target="_blank" ></a></li></ul>
+<aside class="tsCntct "><ul class="tsCntct_list transition"><li class="tsPhone "><a href="tel:(507) 288-7379" data-icon="A" title="(507) 288-7379" class="primary tsC_Btn tsHidden"><span> </b>(507) 288-7379</span></a></li><li class="tsAddress tsi-address "><a href="https://maps.google.com/maps?daddr=2210 North Broadway Avenue, Rochester, MN 55906" data-icon="M" title="https://maps.google.com/maps?daddr=2210 North Broadway Avenue, Rochester, MN 55906" target="_blank" class="primary tsC_Btn">Gentling Dental Care</a></li></ul></aside>
+        </div>
+
+        
+    </header>
+
+    <main class="tsC  ">
+<div class='full_width_content section_content content_bg wrp_color_bg'><div class='section w1060'><!-- Start block charlotte_photo_gallery_1 -->
+<!-- charlotte_photo_gallery_1 new RENDER -->
+<section id='section_1'
+            class='tsB tsT_gallery g1 promo_colors large widescreen_2-4_1 tsD_desktop_dl not_well yResize'>
+<h2 class='tsB_hd section_title ts_hidden ts_hidden' data-title='desktop_dl'><span>desktop_dl</span></h2><div class='slick-wrap' data-settings='[]'>
+                <div class='slick-slides' id='slick-slides-1'>
+<article class='tsI item_1 txt_center nHero yImg nHds nDsc nHd nShd nLk theframe no-lazy-load bkgtag'data-image='/files/2023/10/1697120302609_gentling_2021_199_edit.jpg?1:.42&a=t' data-alt=''><div class='tsI_wrp'><figure class='tsI_img theframe emptytag no-lazy-load' data-image='https://gentlingdental.com/wp-content/themes/beacon-easton/img/transparent.png?1:.42&a=t'></figure><div class='tsI_cptn transition' ></div></div></article></div></div></section>
+<!-- end of charlotte_photo_gallery_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_2'
+            class='tsB tsT_article a1 tsflex col_1 no_sizing large not_well tsD_mobile_dl'>
+<div class='tsR'>
+<h2 class='tsB_hd section_title ts_hidden' data-title='mobile_dl'><span>mobile_dl</span></h2>
+<article class='tsI item_1 center yHero yImg yHds nDsc yHd yShd yLks' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2021/12/Gentling-2021-199-EDIT.jpg?zc=3' data-alt='dentist rochester mn'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Experience One-of-a-Kind Dentistry<br><hr></H1>
+<h2 class='tsI_sh'>from our family to yours</h2>
+</header></div><div class='tsI_btn_std_wrp tsI_txt'>
+                        <a href='/request-an-appointment/' target='_self' class='tsI_btn  btn_1 btn_lg transition'> Schedule an Appointment</a> <a href='/new-patients/' target='_self' class='tsI_btn  btn_2 btn_p2 btn_lg transition'>Download First Visit Forms</a>
+                    </div></div></article>
+<article class='tsI item_2 center yHero yImg yHds nDsc yHd yShd yLks' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/10/1603116017782_gentling_148_opt.jpg?zc=3' data-alt='dentist rochester mn'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Experience One-of-a-Kind Dentistry<br><hr></H1>
+<h2 class='tsI_sh'>from our family to yours</h2>
+</header></div><div class='tsI_btn_std_wrp tsI_txt'>
+                        <a href='/request-an-appointment/' target='_self' class='tsI_btn  btn_1 btn_lg transition'> Schedule an Appointment</a> <a href='/new-patients/' target='_self' class='tsI_btn  btn_2 btn_p2 btn_lg transition'>Download First Visit Forms</a>
+                    </div></div></article>
+<article class='tsI item_3 center yHero yImg yHds nDsc yHd yShd yLks' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/12/Gentling-147.jpg?zc=3' data-alt='dentist rochester mn'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Experience One-of-a-Kind Dentistry<br><hr></H1>
+<h2 class='tsI_sh'>from our family to yours</h2>
+</header></div><div class='tsI_btn_std_wrp tsI_txt'>
+                        <a href='/request-an-appointment/' target='_self' class='tsI_btn  btn_1 btn_lg transition'> Schedule an Appointment</a> <a href='/new-patients/' target='_self' class='tsI_btn  btn_2 btn_p2 btn_lg transition'>Download First Visit Forms</a>
+                    </div></div></article>
+<article class='tsI item_4 center yHero yImg yHds nDsc yHd yShd yLks' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/12/homepage_(1).jpg?zc=3' data-alt='dentist rochester mn'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Experience One-of-a-Kind Dentistry<br><hr></H1>
+<h2 class='tsI_sh'>from our family to yours</h2>
+</header></div><div class='tsI_btn_std_wrp tsI_txt'>
+                        <a href='/request-an-appointment/' target='_self' class='tsI_btn  btn_1 btn_lg transition'> Schedule an Appointment</a> <a href='/new-patients/' target='_self' class='tsI_btn  btn_2 btn_p2 btn_lg transition'>Download First Visit Forms</a>
+                    </div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_3'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_main'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'><div class="icon"><img src="/files/2020/07/icon-small.png"/></div>A Rich History of Exceptional Dental Care</h2>
+<h2 class='tsI_sh'><hr></h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Dr. Phil Gentling first opened this dental office&#39;s doors in the 1940&#39;s, establishing a foundation of outstanding professional skill and customer service that has continued to flourish to this day. We look forward to many more years of caring for patients and families!</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_4'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_box'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Our Friendly Dental Team</h2>
+<h2 class='tsI_sh'>Treats Everyone Like Family</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Ongoing oral healthcare shouldn&#39;t have to be an overly cold and impersonal experience. Here in Rochester, MN, our staff members work very hard to help each patient feel warmly welcomed and right at home, listening to concerns and answering questions whenever needed. Getting to know you well over time is the best part of our jobs! By the time you&#39;re ready to leave, we sincerely hope that you have plenty of new reasons to smile brightly.</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_sec_start -->
+<!-- charlotte_sec_start new RENDER --><div id='sec_5' class='tsB tsT_sec   dBkg yPara'><div class='tsXa' style=' background-image:url("");' data-jarallax data-speed='0.2' data-img-size='cover' data-img-position='50% 50%'>
+                    </div>
+                    <div class='tsXb' style='background-color: #231f20;'></div><!-- End block --><!-- Start block charlotte_article_3 -->
+<!-- charlotte_article_3 new RENDER -->
+<section id='section_6'
+            class='tsB tsT_article a3 tsflex col_1 no_sizing large not_well tsD_white tsD_sm-img'>
+<div class='tsR'>
+
+<article class='tsI item_1 mod_right nHero yImg yHds yDsc yHd yShd nLk nAct' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt_wrp'><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/07/scanner.png?zc=3' data-alt='A Truly Comprehensive Dental Exam That Considers the Whole You'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>A Truly Comprehensive Dental Exam That Considers the Whole You</h2>
+<h2 class='tsI_sh'>Contact us today to learn more about Invisalign braces, teeth whitening, implants, and more!</h2>
+</header>
+<div class='tsI_dsc '><p><p>While your teeth may take center stage, a patient&#39;s oral health consists of several moving parts that can affect not only your oral health, but your day-to-day quality of life as well. At Gentling Dental Care, we take the time to look at the entire system and fix problems at their source. Make your appointment today for an <u><a href="https://gentlingdental.com/invisalign/">Invisalign consultation</a></u>, teeth whitening, or implants.</p></p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_3 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_7'
+            class='tsB tsT_article a1 tsflex col_3 no_sizing small not_well tsD_iconfeature2'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero yImg yHds yDsc yHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/request-an-appointment/' target='_self' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/07/calendar.png?zc=3' data-alt='Schedule Your Appointment'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Schedule Your Appointment</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Our team members will pinpoint the perfect time for a visit and help patients determine what their priorities are.</p></div></div></div></a></article>
+<article class='tsI item_2 center nHero yImg yHds yDsc yHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/new-patients/' target='_self' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/07/agreement.png?zc=3' data-alt='1-on-1, Thorough Consultation'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>1-on-1, Thorough Consultation</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>You&#39;ll be able to sit down with one of our dentists and have their undivided attention for as long as you need.</p></div></div></div></a></article>
+<article class='tsI item_3 center nHero yImg yHds yDsc yHd nShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/new-patients/' target='_self' ><figure class='tsI_img theframe imgtag imgbase ' data-image='/files/2020/07/toy.png?zc=3' data-alt='Customized Treatment Plan'></figure><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Customized Treatment Plan</h4>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Every recommended service is designed around the patient&#39;s concerns and goals - we don&#39;t believe in "one size fits all" care.</p></div></div></div></a></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_sec_end -->
+<!-- charlotte_sec_end new RENDER -->
+</div>
+<!-- end of charlotte_sec_end new RENDER --><!-- End block --><!-- Start block charlotte_banner_1 -->
+<!-- charlotte_banner_1 new RENDER -->
+<section id='section_8'
+            class='tsB tsT_banner b1 promo_colors widescreen_2-4_1 large tsD_banner2 not_well nCol'>
+<div class='tsR'>
+<article id='b1-1' class='tsI item_1 animate txt_center nHero yHds nImg yOvr'
+                 data-aos='fade-up' data-aos-once='true'>
+                <div class='tsX tsXa' style=''>
+                </div>
+                <div class='tsX tsXb' style=''></div><a class='tsI_wrp' href='/new-patients/' target='_self' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>We Offer Flexible Payment Options</h2>
+</header><div class='tsI_btn_wrp'><div class='tsI_btn btn_1  btn_md transition'> Learn More</div></div></div></div></a></article></div></section>
+<!-- end of charlotte_banner_1 new RENDER --><!-- End block --><!-- Start block charlotte_photo_grid -->
+<!-- charlotte_photo_grid new RENDER -->
+<section id='section_9'
+            class='tsB tsT_photo_grid promo_colors tsflex col_1 widescreen_2-4_1 not_well large tsD_spread'>
+<div class='tsR'>
+
+<article class='tsI item_1 txt_center nHero yImg nHds nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp theframe bkgtag ' data-image='/files/2023/08/1693244318571_gentling_dentists_team_picture.jpg?1:.42&a=t' data-alt='dentist rochester mn'><div class='tsI_cptn transition'>
+                    <div class='tsI_txt'>
+<header class='tsI_hds '>
+</header></div></div><figure class='tsI_img theframe emptytag no-lazy-load' data-image='https://gentlingdental.com/wp-content/themes/beacon-easton/img/transparent.png?1:.42&a=t'></figure></div></article></div></section>
+<!-- end of charlotte_photo_grid new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_10'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_box'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>A Qualified Team of Dentists</h2>
+<h2 class='tsI_sh'>Dedicated to Your Smile</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>At Gentling Dental Care, we strongly believe that four heads are better than one - that&#39;s why our dental office features a team of knowledgeable doctors who all bring unique strengths and skills to the table! At the same time, they share a similar passion for trustworthy, family-friendly dentistry that always adheres to very high clinical standards. To put it simply, they never perform care that they wouldn&#39;t recommend to their very own loved ones.</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_parallax_1 -->
+<!-- charlotte_parallax_1 new RENDER -->
+<section id='section_11'
+            class='tsB tsT_parallax p1 promo_colors nCol tsX no_sizing large tsD_dl2 not_well '>
+
+<article id='a3-1' class='tsI transition item_1 animate txt_center yImg nLk yHds yOvr'>
+                <div class='tsX tsXa' style='' data-jarallax data-speed='0.2' data-img-position='50% 50%'>
+                    <img class='jarallax-img' src='/files/2020/08/dl1.jpg?w=1600&a=t'/>
+                </div>
+                <div class='tsX tsXb' ></div><div class='tsI_wrp' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'><span class="small">High-Quality Dentistry</span><br>Every Dental Need Covered</h2>
+</header>
+<div class='tsI_dsc '><p>Balancing dental care with a busy family&#39;s various needs may feel like a juggling act at times - Thankfully, Gentling Dental Care can help everyone breathe a little easier by offering a comprehensive variety of services right here in one convenient location. From essentials like checkups and cleanings to more specialized services like custom restorations for missing teeth or sleep apnea therapy, your smile will have all the dedicated support it needs right here with our dentists.</p></div></div></div></div></article></section>
+<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_12'
+            class='tsB tsT_article a1 tsflex col_1 no_sizing large not_well '>
+<div class='tsR'>
+
+<article class='tsI item_1 left yHero nImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Gain a beautiful smile without any bulky braces</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>If you&#39;ve ever wanted to improve your smile, but dreaded the idea of bulky brackets and wires that poke your gums, Invisalign might be the solution for you! Using clear, customized trays, our dental team can help you achieve the smile you&#39;ve always wanted without braces. <br><br>Compared to braces, Invisalign treatments...<br><ul><li>Are less obvious to other people </li><li>Take less time for the same results</li><li>Feel less uncomfortable and irritating </li></ul><br>To learn more about the Invisalign treatments at Gentling Dental Care in Rochester, MN, connect with us today at 507-288-7379. We&#39;ll be happy to go over any of your questions.  </p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_banner_1 -->
+<!-- charlotte_banner_1 new RENDER -->
+<section id='section_13'
+            class='tsB tsT_banner b1 promo_colors widescreen_2-4_1 large tsD_badges not_well nCol'>
+<div class='tsR'>
+<article id='b1-1' class='tsI item_1 animate txt_center nHero yHds nImg yOvr'
+                 data-aos='fade-up' data-aos-once='true'>
+                <div class='tsX tsXa' style=''>
+                </div>
+                <div class='tsX tsXb' style=''></div><div class='tsI_wrp' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Committed to Continuous Improvement</h2>
+<h2 class='tsI_sh'><div class="badges"><img src="/files/2020/07/assoc-ada.png"/><img src="/files/2020/07/assoc-agd.png"/><img src="/files/2023/07/spear.png"/><img src="/files/2020/07/assoc-tpi.png"/><img src="/files/2020/07/assoc-dawson.png"/><img src="/files/2020/07/assoc-mda.png"/><img src="/files/2020/07/assoc-kois.png"/></div></h2>
+</header><div class='tsI_btn_wrp'></div></div></div></div></article></div></section>
+<!-- end of charlotte_banner_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_14'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well '>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg nHds yDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-feed&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=rotating-widget_#51a8d3" target="_blank">BirdEye</a></span></div></div></p></div></div></div></div></article>
+<article class='tsI item_2 center nHero nImg nHds yDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><div id="bf-revz-widget-1234567935183"  style="-webkit-overflow-scrolling:touch;"><div class="bf-dv"><span class="bf-spn"> powered by <a class="bf-pwr" href="https://birdeye.com?utm_source=SRC&utm_medium=widget_review-feed&utm_campaign=birdeye_widget&utm_term=powered-by-birdeye&utm_content=scrolling-widget_#51a8d3" target="_blank">BirdEye</a></span></div></div></p></div></div></div></div></article>
+<article class='tsI item_3 center nHero nImg nHds yDsc nHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><div id="bf-revz-widget-1051608916"></div></p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --></div></div><!-- CUSTOM JAVASCRIPT FOR THIS PAGE -->
+<script type="text/javascript" src="https://birdeye.com/embed/v4/159590151443758/8/1234567985183"></script>
+
+<script type="text/javascript" src="https://birdeye.com/embed/v4/159590151443758/3/1234567935183"></script>
+
+<script type="text/javascript" src="https://birdeye.com/embed/v6/157305482864266/1/1051608916/4cc9ba5a23cfd7276be7c8dfb5da3a6e3a9ac6b0be8710ba"></script></main>
+
+<footer class="tsF" rel="footer">
+    <section class="tsF_section section_content tsflex">
+        <div class="section w1060">
+            <div class="tsB tsT_plugin tsT_article tsT_footer tsflex col_3 small not_well">
+                <div class="tsR">
+                    <!-- Start of composite --><article class='tsI tsI_footer_tmpl_cls'><div class='tsI_wrp'><div class='tsI_txt'><div class="textwidget"><div class="footer-logo"><a href="/home/"><img src="/files/2020/08/new-footer-logo.png"/></a></div></div></div></div></article>
+<article class='tsI tsI_footer_tmpl_cls'><div class='tsI_wrp'><div class='tsI_txt'><h4 class="tsI_hd">Featured Dental Services</h4>
+<div class="menu-footer-menu-container">
+            <ul id="menu-featured-services" rel="dennis" class="menu"><li class=" menu-item menu-item-372403 menu-item-object-page menu-item-type-post_type " id="menu-item-372403"><a href="https://gentlingdental.com/family-dentistry/">Family Dentistry</a></li><li class=" menu-item menu-item-372404 menu-item-object-page menu-item-type-post_type " id="menu-item-372404"><a href="https://gentlingdental.com/crowns-bridges/">Crowns & Bridges</a></li><li class=" menu-item menu-item-372406 menu-item-object-page menu-item-type-post_type " id="menu-item-372406"><a href="https://gentlingdental.com/smile-makeover-cosmetic-dentistry/">Smile Makeover & Cosmetic Dentistry</a></li><li class=" menu-item menu-item-372407 menu-item-object-page menu-item-type-post_type " id="menu-item-372407"><a href="https://gentlingdental.com/teeth-whitening/">Teeth Whitening</a></li><li class=" menu-item menu-item-373135 menu-item-object-page menu-item-type-post_type " id="menu-item-373135"><a href="https://gentlingdental.com/implants/">Implants</a></li><li class=" menu-item menu-item-373136 menu-item-object-page menu-item-type-post_type " id="menu-item-373136"><a href="https://gentlingdental.com/invisalign/">Invisalign</a></li><li class=" menu-item menu-item-373137 menu-item-object-page menu-item-type-post_type " id="menu-item-373137"><a href="https://gentlingdental.com/professional-cleaning-periodontal-therapy/">Professional Cleaning & Periodontal Therapy</a></li><li class=" menu-item menu-item-904675 menu-item-object-custom menu-item-type-custom " id="menu-item-904675"><a href="https://jobs.smartrecruiters.com/Gen4Dental/743999885077063-we-re-hiring-">Careers</a></li></ul>
+        </div></div></div></article>
+<!-- End of composite -->                </div>
+            </div>
+        </div>
+    </section>
+    <section class="tsF_section brand tsflex">
+        <div class="tsR">
+            
+<div id='_the_logo' class='_is_plugin footer-logo' slug='_the_logo' data-extra-args='{"section":"footer"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-footer"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://gentlingdental.com" title="Gentling Dental Care" rel="home"><img  src="/files/2020/07/logo-large.png" /></a></div></div>
+</h2></div>        </div>
+    </section>
+    <hr>
+    <section class="tsF_section copyright tsflex">
+        <div class="tsR">
+            
+<address class="tsF_copyright">
+	Copyright &copy; 2023 Gentling Dental Care, all rights reserved.
+	<br><span class='footer-street-address footer-address'>2210 North Broadway Avenue, &nbsp;</span><span class='footer-city-state-zip-address footer-address'><span>Rochester</span>,&nbsp;<span>MN</span>&nbsp;<span>55906</span>&nbsp;&nbsp;</span>
+            <span class='footer-phone-address footer-address'>
+                (507) 288-7379
+            </span>
+            
+</address>
+        </div>
+    </section>
+    <section class="tsF_section bottom social tsflex">
+        <div class="tsR">
+            <div class="tsF_col">
+                <ul class="social-media-links"><li class="facebook"><a href="http://www.facebook.com/GentlingDental/" title="Facebook" target="_blank" ></a></li><li class="custom-social-1"><a href="https://www.google.com/search?rlz=1C5CHFA_enUS726US730&amp;sxsrf=ALeKk01thsayA-HuBy8s8M_9PDNjfbsA7g%3A1595278251228&amp;ei=qwMWX9_ADejH_Qbb4Yn4Cw&amp;q=Gentling+Dental+Care+rochester+mn&amp;oq=Gentling+Dental+Care+rochester+mn&amp;gs_lcp=CgZwc3ktYWIQAzILCC4QxwEQrwEQkwIyBggAE" title="Google" target="_blank" ></a></li></ul>            </div>
+            <div class="tsF_col">
+                <button type="button" class="tsC_open tsC_Btn tsF_navTrig trigger transition" data-target="tsM" title="Open Menu"> Menu</button>
+            </div>
+        </div>
+    </section>
+
+    </footer>
+</div>
+
+
+<a class="tsC_Btn to-top scrollBtn" href="#top"></a>
+
+<nav id="tsM" class="tsM transition triggered">
+    <div class="tsM_wrp">
+        <button type="button" class="tsC_close trigger transition icon-close" data-target="tsM" title="Close Menu"></button>
+        <div class="tsM_bdy">
+            <section class="tsM_sec social">
+                <ul class="social-media-links"><li class="facebook"><a href="http://www.facebook.com/GentlingDental/" title="Facebook" target="_blank" ></a></li><li class="custom-social-1"><a href="https://www.google.com/search?rlz=1C5CHFA_enUS726US730&amp;sxsrf=ALeKk01thsayA-HuBy8s8M_9PDNjfbsA7g%3A1595278251228&amp;ei=qwMWX9_ADejH_Qbb4Yn4Cw&amp;q=Gentling+Dental+Care+rochester+mn&amp;oq=Gentling+Dental+Care+rochester+mn&amp;gs_lcp=CgZwc3ktYWIQAzILCC4QxwEQrwEQkwIyBggAE" title="Google" target="_blank" ></a></li></ul>            </section>
+            <!--             <h6 class="tsB_hd"><span>Menu</span></h6> -->
+            <section class="tsM_sec">
+                <div id="access" class="original_access">
+                    <div class="menu align-right">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-371473 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-354516" id="menu-item-371473"><a href="https://gentlingdental.com/">Home</a></li><li class=" menu-item menu-item-has-children menu-item-371529 menu-item-object-page menu-item-type-post_type " id="menu-item-371529"><a href="https://gentlingdental.com/about-us/">About Us</a><ul class="sub-menu"><li class=" menu-item menu-item-373152 menu-item-object-custom menu-item-type-custom " id="menu-item-373152"><a href="http://gentlingdentalcare.production.townsquareinteractive.com/about-us/">A Legacy of Excellence Since 1948</a></li><li class=" menu-item menu-item-372735 menu-item-object-page menu-item-type-post_type " id="menu-item-372735"><a href="https://gentlingdental.com/meet-the-staff/">Meet the Staff</a></li><li class=" menu-item menu-item-371536 menu-item-object-page menu-item-type-post_type " id="menu-item-371536"><a href="https://gentlingdental.com/community-involvement/">Community Involvement</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-371563 menu-item-object-custom menu-item-type-custom " id="menu-item-371563"><a href="#">Services</a><ul class="sub-menu"><li class=" menu-item menu-item-371546 menu-item-object-page menu-item-type-post_type " id="menu-item-371546"><a href="https://gentlingdental.com/smile-makeover-cosmetic-dentistry/">Cosmetic Dentistry</a></li><li class=" menu-item menu-item-371540 menu-item-object-page menu-item-type-post_type " id="menu-item-371540"><a href="https://gentlingdental.com/crowns-bridges/">Crowns & Bridges</a></li><li class=" menu-item menu-item-371542 menu-item-object-page menu-item-type-post_type " id="menu-item-371542"><a href="https://gentlingdental.com/dentures/">Dentures</a></li><li class=" menu-item menu-item-371538 menu-item-object-page menu-item-type-post_type " id="menu-item-371538"><a href="https://gentlingdental.com/family-dentistry/">Family Dentistry</a></li><li class=" menu-item menu-item-371543 menu-item-object-page menu-item-type-post_type " id="menu-item-371543"><a href="https://gentlingdental.com/full-mouth-reconstruction/">Full Mouth Reconstruction</a></li><li class=" menu-item menu-item-371544 menu-item-object-page menu-item-type-post_type " id="menu-item-371544"><a href="https://gentlingdental.com/implants/">Implants</a></li><li class=" menu-item menu-item-371550 menu-item-object-page menu-item-type-post_type " id="menu-item-371550"><a href="https://gentlingdental.com/invisalign/">Invisalign</a></li><li class=" menu-item menu-item-371553 menu-item-object-page menu-item-type-post_type " id="menu-item-371553"><a href="https://gentlingdental.com/jaw-pain-tmj-tmd-therapy/">Jaw Pain TMJ/TMD Therapy</a></li><li class=" menu-item menu-item-371551 menu-item-object-page menu-item-type-post_type " id="menu-item-371551"><a href="https://gentlingdental.com/professional-cleaning-periodontal-therapy/">Professional Cleaning & Periodontal Therapy</a></li><li class=" menu-item menu-item-371554 menu-item-object-page menu-item-type-post_type " id="menu-item-371554"><a href="https://gentlingdental.com/root-canals-tooth-removal/">Root Canals & Tooth Removal</a></li><li class=" menu-item menu-item-787789 menu-item-object-page menu-item-type-post_type " id="menu-item-787789"><a href="https://gentlingdental.com/same-day-appointments/">Same Day Appointments</a></li><li class=" menu-item menu-item-371539 menu-item-object-page menu-item-type-post_type " id="menu-item-371539"><a href="https://gentlingdental.com/sleep-apnea-therapy/">Sleep Apnea Therapy</a></li><li class=" menu-item menu-item-371549 menu-item-object-page menu-item-type-post_type " id="menu-item-371549"><a href="https://gentlingdental.com/teeth-whitening/">Teeth Whitening</a></li><li class=" menu-item menu-item-371541 menu-item-object-page menu-item-type-post_type " id="menu-item-371541"><a href="https://gentlingdental.com/tooth-colored-shade-matched-fillings/">Tooth Colored (Shade Matched) Fillings</a></li></ul>
+                        </li><li class=" menu-item menu-item-has-children menu-item-371557 menu-item-object-page menu-item-type-post_type " id="menu-item-371557"><a href="https://gentlingdental.com/new-patients/">Patient Information</a><ul class="sub-menu"><li class=" menu-item menu-item-373140 menu-item-object-custom menu-item-type-custom " id="menu-item-373140"><a href="http://gentlingdentalcare.production.townsquareinteractive.com/new-patients/">Patient Information</a></li><li class=" menu-item menu-item-371559 menu-item-object-page menu-item-type-post_type " id="menu-item-371559"><a href="https://gentlingdental.com/special-offers/">Special Offers</a></li><li class=" menu-item menu-item-723920 menu-item-object-page menu-item-type-post_type " id="menu-item-723920"><a href="https://gentlingdental.com/payment-plans/">Payment Plans</a></li><li class=" menu-item menu-item-371560 menu-item-object-page menu-item-type-post_type " id="menu-item-371560"><a href="https://gentlingdental.com/faqs/">FAQs</a></li><li class=" menu-item menu-item-371556 menu-item-object-page menu-item-type-post_type " id="menu-item-371556"><a href="https://gentlingdental.com/post-op-instructions/">Post-Op Instructions</a></li></ul>
+                        </li><li class=" menu-item menu-item-371561 menu-item-object-page menu-item-type-post_type " id="menu-item-371561"><a href="https://gentlingdental.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-373008 menu-item-object-page menu-item-type-post_type " id="menu-item-373008"><a href="https://gentlingdental.com/contact-us/">Contact Us</a></li><li class="green-btn menu-item menu-item-371562 menu-item-object-page menu-item-type-post_type " id="menu-item-371562"><a href="https://gentlingdental.com/request-an-appointment/">Request an Appointment</a></li></ul>
+        </div>                </div>
+            </section>
+        </div>
+    </div>
+</nav>
+<div id="_the_embeded_below_mods" slug="">
+                <div id="_the_embeded_below_mods_wrapper"></div>
+                <div id="_the_embeded_below_mods_btn" class="_is_embeded"></div>
+            </div>
+<script type="text/javascript" src="https://gentlingdental.com/cms_websites/js/dist/shared/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://gentlingdental.com/cms_websites/js/dist/beacon-theme_charlotte/theme-min.js"></script>
+<script type="text/javascript" src="https://gentlingdental.com/cms_websites/js/dist/beacon-theme_charlotte/fontawesome/all.min.js"></script>
+
+<script type="text/javascript" src="https://gentlingdental.com/cms_websites/tools/GAEventTracking/js/scripts.min.js"></script><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NCH33TJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+</body></html>

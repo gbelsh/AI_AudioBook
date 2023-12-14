@@ -1,0 +1,1 @@
+Sliding down a ski slope with limited kinetic friction.

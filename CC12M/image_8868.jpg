@@ -1,0 +1,1597 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="preconnect" href="//fonts.gstatic.com" />
+    <link rel="preload" onload="this.setAttribute('rel','stylesheet'); this.removeAttribute('as'); this.removeAttribute('onload');" href="//fonts.googleapis.com/css?family=Roboto:100,400,500,600,700&amp;subset=latin,cyrillic&display=swap" as="style">
+    <link rel="preload" href="//cdn.cookielaw.org/scripttemplates/otSDKStub.js" as="script" />
+        <link rel="manifest" href="/pushly.webmanifest">
+    
+              <!-- OneTrust Cookies Consent Notice start -->
+<script src="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="e11b4f1e-9f63-4748-96f7-f759c0d78621"></script>
+<!-- OneTrust Cookies Consent Notice end -->
+        <meta charset="utf-8" />
+<link rel="canonical" href="https://www.sportingnews.com/ca/nba" />
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta property="fb:app_id" content="117854138246106" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@sportingnews" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>window.dataLayer = window.dataLayer || [];window.dataLayer.push.apply(window.dataLayer, [{"event":"pageLoad","environment":"prod","sitePlatform":"ResponsiveP0","chartbeatDomain":"sportingnews.canada","pageSubType":"News","infiniteScroll":"False","edition":"EN-CA","release":"v.1.40.1.1","adPageName":"Section Front","pageType":"Section Front","pageName":"nba:section-front","sport":"nba","snsport":"nba"}]);</script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K8W6TNG');</script>
+<meta property="og:title" content="NBA News, Scores, Videos, Standings and Schedule | Sporting News Canada" />
+<meta property="twitter:title" content="NBA News, Scores, Videos, Standings and Schedule | Sporting News Canada" />
+<meta name="description" content="The official site of NBA Canada. We provide the latest news, scores, schedule, videos, stats and information for fans in Canada." />
+<meta property="og:description" content="The official site of NBA Canada. We provide the latest news, scores, schedule, videos, stats and information for fans in Canada." />
+<meta property="twitter:description" content="The official site of NBA Canada. We provide the latest news, scores, schedule, videos, stats and information for fans in Canada." />
+<meta property="og:url" content="https://www.sportingnews.com/ca/nba?gr=www" />
+<meta property="twitter:url" content="https://www.sportingnews.com/ca/nba?gr=www" />
+<meta property="twitter:domain" content="www.sportingnews.com" />
+<meta property="og:image" content="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/logo.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="twitter:image" content="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/logo.jpg" />
+<meta property="twitter:image:width" content="1200" />
+<meta property="twitter:image:height" content="630" />
+<script src="https://go.metabet.io/js/global.js?siteID=sportingnews&amp;edition=ca" defer="true"></script>
+<link rel="icon" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.icon_color = "#0033a0";</script>
+
+    <title>NBA News, Scores, Videos, Standings and Schedule | Sporting News Canada</title>
+    <link rel="stylesheet" media="all" href="https://library.sportingnews.com/s3fs-public/css/css_HybT9zoT0ZtAJf2e45g5xHzEE8cwEMSwROJBICVGVwY.css" />
+<link rel="stylesheet" media="all" href="https://library.sportingnews.com/s3fs-public/css/css_R56u4fr9SPA0PZgVvb6vIewxqK0eEjw3-nGQQ4BYzHI.css" />
+
+    <script src="//lngtd.com/sportingnews_nba.js" async="async"></script>
+
+    <!-- Start Script : Opta Widgets-->
+    <script defer>
+      var opta_settings = {
+        "subscription_id":"d14b1025530a669410fc0745f82588ee",
+        "language":"en_US",
+        "timezone":"user",
+        "link_callback": function(params){
+          return "scorecard/" + params.competition + "/" + params.match;
+        }
+      }
+    </script>
+    <!-- End Script : Opta Widgets-->
+              <!-- Facebook Pixel Code -->
+<script type="text/plain" class="optanon-category-C0004">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window,document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', 235247967118144);
+  fbq('track', 'PageView');
+</script>
+<!-- End Facebook Pixel Code -->
+
+<!-- Twitter universal website tag code -->
+<script type="text/plain" class="optanon-category-C0004">
+  !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+  },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+  a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+  // Insert Twitter Pixel ID and Standard Event data below
+  twq('init','o1d52');
+  twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+          <!-- Start Script : Added to fix Moat/Minute Player -->
+    <script type="text/javascript" defer>
+      window.vplayerDisableShadowDom = true;
+    </script>
+          <link rel="apple-touch-icon" sizes="114x114" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/114x114.png">
+      <link rel="apple-touch-icon" sizes="120x120" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/120x120.png">
+      <link rel="apple-touch-icon" sizes="152x152" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/152x152.png">
+      <link rel="apple-touch-icon" sizes="167x167" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/167x167.png">
+      <link rel="apple-touch-icon" sizes="180x180" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/180x180.png">
+      <link rel="apple-touch-icon" sizes="58x58" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/58x58.png">
+      <link rel="apple-touch-icon" sizes="76x76" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/76x76.png">
+      <link rel="apple-touch-icon" sizes="80x80" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/80x80.png">
+      <link rel="apple-touch-icon" sizes="87x87" href="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/dist/images/apple_touch_icons/87x87.png">
+  
+
+    <!-- End Script : Added to fix Moat/Minute Player -->
+          <!-- Start Script : Adobe Analytics digitalData -->
+      <script type="text/javascript">
+        var digitalData = {"page":{"pageInfo":{"pageName":"nba:home","siteSection":"nba:home","subSection1":"nba:home","primaryCategory":"home"}},"site":{"league":"nba","partner":"sportingnews","propertyName":"nba:canada:web"}}
+      </script>
+      <!-- End Script : Adobe Analytics digitalData -->
+              <!-- Start Script : Adobe Analytics Src -->
+      <script src="//assets.adobedtm.com/82bf3c13a525/51481e8d67dc/launch-3d0ab1f54148.min.js" async></script>
+      <!-- End Script : Adobe Analytics Src -->
+              <script src="//cdn.jsdelivr.net/npm/@zephr/browser@1.5.1/dist/zephr-browser.umd.js" defer></script>
+      <script>
+        document.addEventListener('DOMContentLoaded', function() {
+          zephrBrowser.run({
+            customData: {},
+          });
+        });
+      </script>
+            <script src="https://cdn.p-n.io/pushly-sdk.min.js?domain_key=peqH3otxHDBUUkB5AQDs3TwmKv34RPAnbhVi" async></script>
+<script>
+  window.PushlySDK = window.PushlySDK || [];
+  function pushly() { window.PushlySDK.push(arguments) }
+  pushly('load', {
+    domainKey: 'peqH3otxHDBUUkB5AQDs3TwmKv34RPAnbhVi',
+    sw: '/pushly/pushly-sdk-worker.js',
+  });
+</script>
+      </head>
+  <body class="sn-ruwt-odds-enabled section-page path-taxonomy canada-sn-edition">
+            <!-- Google Tag Manager (noscript) -->
+        <noscript>
+          <iframe src="//www.googletagmanager.com/ns.html?id=GTM-K8W6TNG&gtm_cookies_win=x&event=pageLoad&environment=prod&sitePlatform=ResponsiveP0&chartbeatDomain=sportingnews.canada&pageSubType=News&infiniteScroll=False&edition=EN-CA&release=v.1.40.1.1&adPageName=Section+Front&pageType=Section+Front&pageName=nba%3Asection-front&sport=nba&snsport=nba" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      
+<div class="layout-container  sib-page">
+  
+  <div class="nba-scoreboard-container canada">
+    <div id="nba-scoreboard-placeholder"></div>
+  </div>
+
+	<div data-module="global-navigation"
+  data-settings="{
+    &quot;languageCode&quot;:&quot;en&quot;,
+    &quot;siteName&quot;:&quot;Sporting News CA&quot;,
+    &quot;navigationOptions&quot;:{
+      &quot;editionCookie&quot;:&quot;ca_hp&quot;,
+      &quot;language&quot;:&quot;en&quot;,
+      &quot;otherLocation&quot;:&quot;https://www.nba.com/gr/reflectIntl.html?gr=canadauw&amp;page=www&amp;dur=ses&quot;,
+      &quot;usLocation&quot;:&quot;https://www.nba.com/gr/reflectIntl.html?gr=canadauw&amp;page=www&amp;dur=1w&quot;,
+      &quot;optionText&quot;:&quot;NBA CA&quot;
+    }
+  }" class="widget-global-navigation" data-module-loaded="">
+  <div id="edition_wrapper" class="edition-picker">
+    <div id="edition" class="edition_open edition-picker__form-container">
+      <form name="editionForm" class="edition-picker__form">
+        <div class="close-button"></div>
+        <div class="rule"></div>
+        <div class="choose-edition">SET DEFAULT EDITION?</div>
+        <div class="controls">
+          NBA US
+          <input type="radio" name="edition" value="us" onclick="set_HP_default('us');">
+        </div>
+      </form>
+    </div>
+    <div id="edition_message" class="edition_closed edition-picker__message">
+      <span class="edition-message">Your default site has been set for 7 days</span>
+    </div>
+  </div>
+
+  <nav class="nbap-nav nbap-nav--global">
+    <ul class="nbap-nav__menu nbap-nav--global__menu" role="navigation">
+      <li class="nbap-nav__menu-item">
+        <a class="nbap-nav__link" href="javascript:handle_redirect();">NBA.com</a>
+      </li>
+      <li class="nbap-nav__menu-item nbap-nav--global__menu-item  js-has-dropdown ">
+        <a class="nbap-nav__link" title="Teams" href="javascript:void(0);">Teams</a>
+        <div class="nbap-nav__dropdown-container js-dropdown-container nbap-nav__team">
+          <ul class="nbap-nav__dropdown">
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Atlanta" href="https://www.nba.com/hawks/" target="_blank" rel="noopener noreferrer">
+                  Atlanta
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Boston" href="https://www.nba.com/celtics/" target="_blank" rel="noopener noreferrer">
+                  Boston
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Brooklyn" href="https://www.nba.com/nets/" target="_blank" rel="noopener noreferrer">
+                  Brooklyn
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Charlotte" href="https://www.nba.com/hornets/" target="_blank" rel="noopener noreferrer">
+                  Charlotte
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Chicago" href="https://www.nba.com/bulls/" target="_blank" rel="noopener noreferrer">
+                  Chicago
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Cleveland" href="https://www.nba.com/cavaliers/" target="_blank" rel="noopener noreferrer">
+                  Cleveland
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Dallas" href="https://www.nba.com/mavericks/" target="_blank" rel="noopener noreferrer">
+                  Dallas
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Denver" href="https://www.nba.com/nuggets/" target="_blank" rel="noopener noreferrer">
+                  Denver
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Detroit" href="https://www.nba.com/pistons/" target="_blank" rel="noopener noreferrer">
+                  Detroit
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Golden State" href="https://www.nba.com/warriors/" target="_blank" rel="noopener noreferrer">
+                  Golden State
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Houston" href="https://www.nba.com/rockets/" target="_blank" rel="noopener noreferrer">
+                  Houston
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Indiana" href="https://www.nba.com/pacers/" target="_blank" rel="noopener noreferrer">
+                  Indiana
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="LA Clippers" href="https://www.nba.com/clippers/" target="_blank" rel="noopener noreferrer">
+                  LA Clippers
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="LA Lakers" href="https://www.nba.com/lakers/" target="_blank" rel="noopener noreferrer">
+                  LA Lakers
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Memphis" href="https://www.nba.com/grizzlies/" target="_blank" rel="noopener noreferrer">
+                  Memphis
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Miami" href="https://www.nba.com/heat/" target="_blank" rel="noopener noreferrer">
+                  Miami
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Milwaukee" href="https://www.nba.com/bucks/" target="_blank" rel="noopener noreferrer">
+                  Milwaukee
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Minnesota" href="https://www.nba.com/timberwolves/" target="_blank" rel="noopener noreferrer">
+                  Minnesota
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="New Orleans" href="https://www.nba.com/pelicans/" target="_blank" rel="noopener noreferrer">
+                  New Orleans
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="New York" href="https://www.nba.com/knicks/" target="_blank" rel="noopener noreferrer">
+                  New York
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Oklahoma City" href="https://www.nba.com/thunder/" target="_blank" rel="noopener noreferrer">
+                  Oklahoma City
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Orlando" href="https://www.nba.com/magic/" target="_blank" rel="noopener noreferrer">
+                  Orlando
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Philadelphia" href="https://www.nba.com/sixers/" target="_blank" rel="noopener noreferrer">
+                  Philadelphia
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Phoenix" href="https://www.nba.com/suns/" target="_blank" rel="noopener noreferrer">
+                  Phoenix
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Portland" href="https://www.nba.com/blazers/" target="_blank" rel="noopener noreferrer">
+                  Portland
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Sacramento" href="https://www.nba.com/kings/" target="_blank" rel="noopener noreferrer">
+                  Sacramento
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="San Antonio" href="https://www.nba.com/spurs/" target="_blank" rel="noopener noreferrer">
+                  San Antonio
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Toronto" href="https://www.nba.com/raptors/" target="_blank" rel="noopener noreferrer">
+                  Toronto
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Utah" href="https://www.nba.com/jazz/" target="_blank" rel="noopener noreferrer">
+                  Utah
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Washington" href="https://www.nba.com/wizards/" target="_blank" rel="noopener noreferrer">
+                  Washington
+                </a>
+              </li>
+                      </ul>
+        </div>
+      </li>
+      <li class="nbap-nav__menu-item nbap-nav--global__menu-item  js-has-dropdown ">
+        <a class="nbap-nav__link" title="Global" href="javascript:void(0);">Global</a>
+        <div class="nbap-nav__dropdown-container js-dropdown-container nbap-nav__global">
+          <ul class="nbap-nav__dropdown">
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Argentina" href="https://ar.nba.com/" target="_blank" rel="noopener noreferrer">
+                  Argentina
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Australia" href="https://www.nba.com/australia" target="_blank" rel="noopener noreferrer">
+                  Australia
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Belarus" href="https://by.tribuna.com/nba/" target="_blank" rel="noopener noreferrer">
+                  Belarus
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Brasil" href="http://www.nba.com/brasil" target="_blank" rel="noopener noreferrer">
+                  Brasil
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Canada" href="https://ca.nba.com/" target="_blank" rel="noopener noreferrer">
+                  Canada
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="中国" href="http://www.nba.com/china" target="_blank" rel="noopener noreferrer">
+                  中国
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="éne-bé-a" href="http://www.nba.com/enebea" target="_blank" rel="noopener noreferrer">
+                  éne-bé-a
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Deutschland" href="http://www.nba.com/germany" target="_blank" rel="noopener noreferrer">
+                  Deutschland
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="España" href="https://es.nba.com/" target="_blank" rel="noopener noreferrer">
+                  España
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="France" href="http://www.nba.com/france" target="_blank" rel="noopener noreferrer">
+                  France
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="日本" href="https://www.nba.com/japan" target="_blank" rel="noopener noreferrer">
+                  日本
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="India" href="https://in.nba.com/" target="_blank" rel="noopener noreferrer">
+                  India
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Israel" href="http://www.nba.com/israel" target="_blank" rel="noopener noreferrer">
+                  Israel
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Italia" href="http://www.nba.com/italia" target="_blank" rel="noopener noreferrer">
+                  Italia
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="MENA" href="http://www.nba.com/arabic" target="_blank" rel="noopener noreferrer">
+                  MENA
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Mexico" href="https://mx.nba.com/" target="_blank" rel="noopener noreferrer">
+                  Mexico
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Philippines" href="https://nba.smart.com.ph/" target="_blank" rel="noopener noreferrer">
+                  Philippines
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Russia" href="http://www.nba.com/russia" target="_blank" rel="noopener noreferrer">
+                  Russia
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Taiwan" href="http://www.nba.com/taiwan" target="_blank" rel="noopener noreferrer">
+                  Taiwan
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="United Kingdom" href="http://www.nba.com/uk" target="_blank" rel="noopener noreferrer">
+                  United Kingdom
+                </a>
+              </li>
+                          <li class="nbap-nav__dropdown-item">
+                <a class="nbap-nav__dropdown-link" title="Ukraine" href="https://ua.tribuna.com/nba/" target="_blank" rel="noopener noreferrer">
+                  Ukraine
+                </a>
+              </li>
+                      </ul>
+        </div>
+      </li>
+      <li class="nbap-nav__menu-item nbap-nav--global__menu-item ">
+        <a class="nbap-nav__link nbap-nav__edition" title="" href="javascript:handle_edition();">Set default edition</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+
+<header role="banner">
+    <div class="region region-header">
+    <div id="ad-skin1"></div>
+    <div id="block-tsn-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/ca" rel="home" class="site-logo">
+      <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/logo.svg" alt="Home" />
+    </a>
+  </div>
+
+  </div>
+
+</header>
+  <div class="zephr-feature_main-navigation">
+	  <section class="tsn-primary-menu canada-edition with-global">
+    <div class="tsn-primary-menu__top">
+      <div class="tsn-primary-menu__container">
+
+        <a href="#" class="mobile-menu-btn">
+          <span></span>
+        </a>
+
+        
+          <div class="primary-menu-wrapper">
+            
+
+				      <!-- Navigation menu with ID 1836 is now publishing. -->
+			<ul class="menu">
+							<li class="menu-item menu-item--expanded  menu-item--active-trail ">
+        				  <a href="/ca/nba">NBA</a>
+        									
+				                  <div class="nba-menu-wrapper">
+            <div class="nba-menu-inner">
+              <a href="/ca/nba" class="nba-menu-logo" target="_self">
+                <span class="logo">
+                  <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-logo.svg" alt="NBA Logo">
+                </span>
+                <span class="section-name">
+                  NBA
+                </span>
+            </a>
+        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nba/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nba/nba-bet">NBA Bet</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/statistics">Stats</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/tag/raptors-central/news/sbotpy6h6lko99ov7o7vq9lh" target="_blank">Raptors Central</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.nba.com/id" target="_blank">NBA ID</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/teamindex">Teams</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/playerindex">Players</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/tag/nba-season-tournament/news/4b134637b11e880799e26fb7" target="_blank">In-Season Tournament</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/nba/news/watch-nba-games-canada-tv-schedule-channels-live-streams/8fa0d2175999daa21b1c1e56" target="_blank">Broadcast Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://cares.nba.com/" target="_blank">NBA Cares</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/draft/">Draft</a>
+        				      </li>
+				</ul>
+          </div>               <div class="watch-league-pass">
+          <a href="https://www.nba.com/watch/league-pass-stream?ls=nba:leaguepass:own:dig:intsites:topnav:eg:acq:sub:dtc-acq:sportingnews:CA:en:" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-watch-league-pass.svg" alt="Watch League Pass">
+          </a>
+        </div>
+          </div>       
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl">NFL</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://sports.sportsinteraction.com/en-ca/sports/football-11/betting/usa-9/nfl-35?wm=5436738" target="_blank">Odds</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nfl/draft/2023">NFL Draft</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nhl/news">NHL</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nhl/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nhl/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nhl/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nhl/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://sports.sportsinteraction.com/en-ca/sports/hockey-12/betting/usa-9/nhl-34?wm=5436738" target="_blank">Odds</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mlb/news">MLB</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mlb/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mlb/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mlb/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mlb/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://sports.sportsinteraction.com/en-ca/sports/baseball-23/betting/usa-9/mlb-75?wm=5436738" target="_blank">Odds</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/soccer">SOCCER</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/soccer/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/soccer/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/soccer/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/soccer/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportsinteraction.com/soccer/?prid=69791" target="_blank">Odds</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-football/news">NCAAF</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-football/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-football/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-football/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-football/standings">Standings</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/boxing/news">BOXING</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/boxing/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/boxing/fight-calendar">Schedule/Results</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/boxing/boxer-list">Boxers</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportsinteraction.com/boxing-betting/?prid=55949" target="_blank">Odds</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/author/fight-disciples" target="_blank">Fight Disciples</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mma/news">MMA</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mma/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/mma/news/mma-schedule-2023-dates/woeiphxlkbanuctegeujszpt">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/competition/professional-fighters-league/news/2dcucl1o0mjba2urgbrk2g7et">PFL</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/author/fight-disciples" target="_blank">Fight Disciples</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/fantasy/news">FANTASY</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/news">NCAAB</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/march-madness/2023/mens">Men&#039;s March Madness</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/ncaa-basketball/march-madness/2023/womens">Women&#039;s March Madness</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/formula-1/news">F1</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/formula-1/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/formula-1/news/f1-schedule-2023-dates-time-watch-tv-stream-formula-1/vh5nrcitk2nwbepank4punaq">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/formula-1/news/f1-standings-2023-driver-constructor-points-results-schedule/wi60lf4rph7n1dixykfp9man">Standings</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nascar/news">NASCAR</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nascar/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nascar/news/nascar-schedule-2022-dates-channels-start-times-cup-series/nmohanqafj2y9iindnn49b3q">Schedule</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/wnba/news">WNBA</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/wnba/news">News</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/golf/news">GOLF</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/golf/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/golf/leaderboard">Leaderboard</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/golf/schedule">Schedule</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/tennis/news">TENNIS</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/tennis/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/tennis/scoreboard">Scores</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/wwe/news">WWE</a>
+        									
+				        			<ul class="menu">
+
+							<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/wwe/news">News</a>
+        				      </li>
+				</ul>
+      
+				      </li>
+				</ul>
+      
+
+                        <div class="editions-mobile">
+              <div id="block-tsndomainnavigation" class="block block-tsn-frontend block-tsn-domain-nav-block">
+  
+    
+          <ul class="menu">
+      <li class="menu-item active">
+      <span class="ca link" data-edition="ca">
+        <span class="flag"></span>
+        <span class="title">Canada</span>
+        <span class="chevron"></span>
+      </span>
+    </li>
+
+    <div class="menu-items">
+      <h3>Edition</h3>
+              <li class="menu-item">
+          <a class="us link" href="/us" data-edition="us">
+            <span class="flag"></span>
+            <span class="title">US (EN)</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="us-es link" href="/us-es" data-edition="us-es">
+            <span class="flag"></span>
+            <span class="title">US (ES)</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="au link" href="/au" data-edition="au">
+            <span class="flag"></span>
+            <span class="title">Australia</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="jp link" href="/jp" data-edition="jp">
+            <span class="flag"></span>
+            <span class="title">日本</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="hk link" href="/hk" data-edition="hk">
+            <span class="flag"></span>
+            <span class="title">Hong Kong</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="in link" href="/in" data-edition="in">
+            <span class="flag"></span>
+            <span class="title">India</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="ar link" href="/ar" data-edition="ar">
+            <span class="flag"></span>
+            <span class="title">Argentina</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="es link" href="/es" data-edition="es">
+            <span class="flag"></span>
+            <span class="title">España</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="mx link" href="/mx" data-edition="mx">
+            <span class="flag"></span>
+            <span class="title">México</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="uk link" href="/uk" data-edition="uk">
+            <span class="flag"></span>
+            <span class="title">United Kingdom</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="sg link" href="/sg" data-edition="sg">
+            <span class="flag"></span>
+            <span class="title">Singapore</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="my link" href="/my" data-edition="my">
+            <span class="flag"></span>
+            <span class="title">Malaysia</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="th link" href="/th" data-edition="th">
+            <span class="flag"></span>
+            <span class="title">ไทย</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="vn link" href="/vn" data-edition="vn">
+            <span class="flag"></span>
+            <span class="title">Việt Nam</span>
+          </a>
+        </li>
+          </div>
+  </ul>
+  </div>
+
+            </div>
+          </div>
+        
+        <div class="mobile-logo">
+          <a rel="home" href="/ca"></a>
+        </div>
+
+        <div class="container_user-registration-icon mobile">
+                  </div>
+
+        <div class="additional-menu-wrapper">
+                                    <ul class="additional-header--menu">
+                  <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting">Betting</a>
+                                              <ul class="menu">
+                  <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting/news">News</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting/odds">Odds</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting/futures">Futures</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting/parlays">Parlays</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="/ca/betting/props">Props</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="https://www.sportsinteraction.com/?wm=5436738" target="_blank">Sports Interaction</a>
+                            </li>
+              <li class="menu-item menu-item--expanded ">
+                      <a href="https://superdraft.io/preregister?utm_source=tsn&amp;utm_medium=affiliate&amp;utm_campaign=tsn_affiliate_site_nav_none&amp;cid=tsn_affiliate_site_nav_none&amp;redirect_url=play.superdraft.io/tsn/" target="_blank">SuperDraft</a>
+                            </li>
+          </ul>
+  
+                  </li>
+          </ul>
+  
+
+          
+          <div class="container_user-registration-icon desktop">
+                      </div>
+
+          <div class="tsn-account-menu-wrapper">
+            <div id="block-tsndomainnavigation" class="block block-tsn-frontend block-tsn-domain-nav-block">
+  
+    
+          <ul class="menu">
+      <li class="menu-item active">
+      <span class="ca link" data-edition="ca">
+        <span class="flag"></span>
+        <span class="title">Canada</span>
+        <span class="chevron"></span>
+      </span>
+    </li>
+
+    <div class="menu-items">
+      <h3>Edition</h3>
+              <li class="menu-item">
+          <a class="us link" href="/us" data-edition="us">
+            <span class="flag"></span>
+            <span class="title">US (EN)</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="us-es link" href="/us-es" data-edition="us-es">
+            <span class="flag"></span>
+            <span class="title">US (ES)</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="au link" href="/au" data-edition="au">
+            <span class="flag"></span>
+            <span class="title">Australia</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="jp link" href="/jp" data-edition="jp">
+            <span class="flag"></span>
+            <span class="title">日本</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="hk link" href="/hk" data-edition="hk">
+            <span class="flag"></span>
+            <span class="title">Hong Kong</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="in link" href="/in" data-edition="in">
+            <span class="flag"></span>
+            <span class="title">India</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="ar link" href="/ar" data-edition="ar">
+            <span class="flag"></span>
+            <span class="title">Argentina</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="es link" href="/es" data-edition="es">
+            <span class="flag"></span>
+            <span class="title">España</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="mx link" href="/mx" data-edition="mx">
+            <span class="flag"></span>
+            <span class="title">México</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="uk link" href="/uk" data-edition="uk">
+            <span class="flag"></span>
+            <span class="title">United Kingdom</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="sg link" href="/sg" data-edition="sg">
+            <span class="flag"></span>
+            <span class="title">Singapore</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="my link" href="/my" data-edition="my">
+            <span class="flag"></span>
+            <span class="title">Malaysia</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="th link" href="/th" data-edition="th">
+            <span class="flag"></span>
+            <span class="title">ไทย</span>
+          </a>
+        </li>
+              <li class="menu-item">
+          <a class="vn link" href="/vn" data-edition="vn">
+            <span class="flag"></span>
+            <span class="title">Việt Nam</span>
+          </a>
+        </li>
+          </div>
+  </ul>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="tsn-primary-menu__bottom">		        <ul class="menu">
+
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nba/news">News</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+        				  <a href="/ca/nba/nba-bet">NBA Bet</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/scores">Scores</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/schedule">Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/standings">Standings</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/statistics">Stats</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/tag/raptors-central/news/sbotpy6h6lko99ov7o7vq9lh" target="_blank">Raptors Central</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.nba.com/id" target="_blank">NBA ID</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/teamindex">Teams</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/playerindex">Players</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/tag/nba-season-tournament/news/4b134637b11e880799e26fb7" target="_blank">In-Season Tournament</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://www.sportingnews.com/ca/nba/news/watch-nba-games-canada-tv-schedule-channels-live-streams/8fa0d2175999daa21b1c1e56" target="_blank">Broadcast Schedule</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://cares.nba.com/" target="_blank">NBA Cares</a>
+        				      </li>
+					<li class="menu-item menu-item--expanded ">
+                  <a href="https://ca.global.nba.com/draft/">Draft</a>
+        				      </li>
+				</ul>
+      
+</div>
+
+  </section>
+</div>
+
+
+
+
+
+  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+
+
+              <div id="content-anchor"></div>
+
+                <div class="zephr-feature_top-banner-ad">
+        <div class="header-advertising" id="ad-topBanner1"></div>
+        </div>
+                  <main role="main">
+  <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+    <div class="region region-content">
+      <div class="zephr-feature_page-title">
+                  <div class="page-title-wrap">
+            <h1 class="page-title landing-title">NBA News</h1>
+          </div>
+              </div>
+              <div class="top-news">
+	
+	<div class="top-news__lead"><div  role="article" about="/ca/nba/news/healthy-jamal-murray-should-make-his-first-all-star-game/1060fbbea9c04010db1bd613" typeof="schema:Article" class="lead-item">
+	  <span property="schema:name" content="A healthy Jamal Murray is showing why he should make his first All-Star Game" class="rdf-meta hidden"></span>
+
+    <div class="zephr-feature_hero">
+      <div class="lead-item__img-wrapper">
+        <a href="/ca/nba/news/healthy-jamal-murray-should-make-his-first-all-star-game/1060fbbea9c04010db1bd613" >
+                                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Jamal%20Murray%20121223.jpeg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/Jamal%20Murray%20121223.jpeg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/Jamal%20Murray%20121223.jpeg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Jamal%20Murray%20121223.jpeg.webp" alt="Jamal Murray" title="Jamal Murray" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+                </a>
+      </div>
+    </div>
+      <div class="article-tag">
+      <div class="tags">
+        <div class="field__items">
+          <div class="field__item">
+            <a href="/ca/nba">nba</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  	<div class="lead-item__title">
+    <a href="/ca/nba/news/healthy-jamal-murray-should-make-his-first-all-star-game/1060fbbea9c04010db1bd613">Jamal Murray is showing why he should make his first All-Star Game</a>
+  </div>
+  <div class="lead-item__separator"></div>
+</div>
+
+</div>
+    <div class="top-news__list">
+              <div  role="article" about="/ca/nba/news/lebron-james-stat-lakers-father-time/79899983cfd446c91e4ee079" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="This LeBron James stat explains how Lakers superstar is getting the upper hand on Father Time" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/lebron-james-stat-lakers-father-time/79899983cfd446c91e4ee079" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/LeBron%20James%20121123.jpeg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/LeBron%20James%20121123.jpeg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/LeBron%20James%20121123.jpeg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/LeBron%20James%20121123.jpeg.webp" alt="LeBron James" title="LeBron James" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/lebron-james-stat-lakers-father-time/79899983cfd446c91e4ee079" >This LeBron James stat helps explain how he&#039;s defying Father Time</a>
+  </div>
+</div>
+
+              <div  role="article" about="/ca/nba/news/save-warriors-season-klay-thompson-trade-moody-minutes/8e767bbb4009d8cd3d9c045d" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="Three ways the Warriors can save their season, including Klay Thompson trade and more Moses Moody minutes" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/save-warriors-season-klay-thompson-trade-moody-minutes/8e767bbb4009d8cd3d9c045d" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Warriors%20121123.jpeg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/Warriors%20121123.jpeg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/Warriors%20121123.jpeg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Warriors%20121123.jpeg.webp" alt="Warriors" title="Warriors" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/save-warriors-season-klay-thompson-trade-moody-minutes/8e767bbb4009d8cd3d9c045d" >Three ways the Warriors can save their season</a>
+  </div>
+</div>
+
+              <div  role="article" about="/ca/nba/news/bradley-beal-injury-return-suns-booker-durant/afe605e462ce174bec79d736" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="How much better does Bradley Beal make Suns? What star&#039;s injury return means for Devin Booker, Kevin Durant" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/bradley-beal-injury-return-suns-booker-durant/afe605e462ce174bec79d736" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-11/Bradley%20Beal%20Phoenix%20Suns.jpg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-11/Bradley%20Beal%20Phoenix%20Suns.jpg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-11/Bradley%20Beal%20Phoenix%20Suns.jpg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-11/Bradley%20Beal%20Phoenix%20Suns.jpg.webp" alt="Bradley Beal Phoenix Suns" title="Bradley Beal Phoenix Suns" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/bradley-beal-injury-return-suns-booker-durant/afe605e462ce174bec79d736" >Bradley Beal&#039;s injury return gives Suns scary potential</a>
+  </div>
+</div>
+
+              <div  role="article" about="/ca/nba/news/lebron-james-legacy-nba-cup-season-tournament-mvp-lakers/3dc17b8bc706be0e72a5f1c1" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="How LeBron James&#039; legacy is impacted by In-Season Tournament MVP and Lakers&#039; NBA Cup win" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/lebron-james-legacy-nba-cup-season-tournament-mvp-lakers/3dc17b8bc706be0e72a5f1c1" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/GettyImages-1836063107%20%281%29.jpg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/GettyImages-1836063107%20%281%29.jpg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/GettyImages-1836063107%20%281%29.jpg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/GettyImages-1836063107%20%281%29.jpg.webp" alt="LeBron James In-Season Tournament" title="LeBron James In-Season Tournament" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/lebron-james-legacy-nba-cup-season-tournament-mvp-lakers/3dc17b8bc706be0e72a5f1c1" >Does LeBron James get legacy boost from his In-Season Tournament MVP?</a>
+  </div>
+</div>
+
+              <div  role="article" about="/ca/nba/news/anthony-davis-stats-lakers-tournament-championship-count/966581d8516cdbc919a2f0a0" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="Anthony Davis stats: Why Lakers star&#039;s performance in In-Season Tournament championship game won&#039;t count" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/anthony-davis-stats-lakers-tournament-championship-count/966581d8516cdbc919a2f0a0" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/GettyImages-1836063224%20%281%29.jpg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/GettyImages-1836063224%20%281%29.jpg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/GettyImages-1836063224%20%281%29.jpg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/GettyImages-1836063224%20%281%29.jpg.webp" alt="Anthony Davis" title="Anthony Davis" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/anthony-davis-stats-lakers-tournament-championship-count/966581d8516cdbc919a2f0a0" >Why Anthony Davis&#039; In-Season Tournament championship stats won&#039;t count</a>
+  </div>
+</div>
+
+              <div  role="article" about="/ca/nba/news/jontay-porter-raptors-two-way-passing-size-feel/2f2a02a81f9a2a0508c720c6" typeof="schema:Article" class="list-item">
+    <span property="schema:name" content="Who is Jontay Porter? Meet Raptors two-way signing with size, passing and impressive feel for the game" class="rdf-meta hidden"></span>
+
+  <a href="/ca/nba/news/jontay-porter-raptors-two-way-passing-size-feel/2f2a02a81f9a2a0508c720c6" >
+    
+                                      <picture>
+                  <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Jontay%20Porter%20121123.jpg.webp 100vw" media="all and (min-width: 1025px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_tablet_2x_webp/s3/2023-12/Jontay%20Porter%20121123.jpg.webp 100vw" media="all and (min-width: 769px) and (max-width: 1024px)" type="image/webp" sizes="100vw"/>
+              <source srcset="https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x_webp/s3/2023-12/Jontay%20Porter%20121123.jpg.webp 100vw" media="all and (max-width: 768px)" type="image/webp" sizes="100vw"/>
+                  <img image_resolution="16:9" src="https://library.sportingnews.com/styles/crop_style_16_9_desktop_webp/s3/2023-12/Jontay%20Porter%20121123.jpg.webp" alt="" typeof="foaf:Image" />
+
+  </picture>
+
+
+  
+  
+      
+      </a>
+  <div class="list-item__title">
+    <a href="/ca/nba/news/jontay-porter-raptors-two-way-passing-size-feel/2f2a02a81f9a2a0508c720c6" >Why two-way addition Jontay Porter can be impactful with Raptors</a>
+  </div>
+</div>
+
+          </div>
+</div>
+
+      
+                  
+                  
+      
+      
+  <div id="block-tsn-content" class="block block-system block-system-main-block">
+  
+    
+      
+  </div>
+
+
+
+
+            <div class="nba-experience-mobile mainhtml">
+        <div class="nba-experience-container canada">
+  <div class="nba-experience-header">
+    <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-person.svg" alt="NBA logo">
+    <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-experience-header.svg" alt="NBA Experience Text">
+  </div>
+
+  <div class="nba-logos-wrapper">
+    <div class="nba-logos canada">
+              <div class="league-pass">
+          <a href="https://www.nba.com/watch/league-pass-stream?ls=nba:leaguepass:own:dig:intsites:topnav:eg:acq:sub:dtc-acq:sportingnews:CA:en:" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-league-pass.svg" alt="NBA League Pass">
+          </a>
+        </div>
+                    <div class="id">
+          <a href="https://www.nba.com/id" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-id.svg" alt="NBA ID">
+          </a>
+        </div>
+            <div class="store">
+        <a href="https://www.nbastore.ca/en/" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-store-ca.svg" alt="NBA Store">
+        </a>
+      </div>
+              <div class="head-to-head">
+          <a href="https://www.nbaheadtohead.com/" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-head-to-head.svg" alt="NBA Head to Head">
+          </a>
+        </div>
+          </div>
+  </div>
+</div>
+      </div>
+      
+      	<div class="latest-news-videos">
+					<div class="latest-news-videos__title">LATEST NBA VIDEOS</div>
+		        <div class="zephr-feature_video-player">
+									<div class="video-player-jwplayer" data-video-player-playlist-id="E9TMQBn8"></div>
+
+					        </div>
+	</div>
+
+    </div>
+          
+<div class="tsn-advertising-section">
+			<div class="zephr-feature_native-ad">
+			<div id="Branded_Logo_Desktop"></div>
+		</div>
+	
+    			<div class="zephr-feature_mpu-1">
+			<div class="top-mpu-container">
+				<div class="sticky-advertising desktop-top-mpu" id="ad-desktopTopMpu1"></div>
+									<div class="sticky-advertising mobile-top-mpu" id="ad-mobileTopMpu1"></div>
+							</div>
+		</div>
+	
+	
+	
+			
+					<div class="zephr-feature_latest-sport-news">
+  <div class="latest-news-sidebar">
+          <div class="header">LATEST NBA NEWS</div>
+        <div class="news-list">
+      <ul>
+                  <li><a href=
+                          "/ca/nba/news/kyrie-irving-heel-injury-timeline-return-updates-mavericks/0d3a27b982fb7a99901067e8"
+                        >
+            The latest news on Kyrie Irving&#039;s injury from scary fall</a></li>
+                  <li><a href=
+                          "/ca/nba/news/healthy-jamal-murray-should-make-his-first-all-star-game/1060fbbea9c04010db1bd613"
+                        >
+            Jamal Murray is showing why he should make his first All-Star Game</a></li>
+                  <li><a href=
+                          "/ca/nba/news/zion-williamson-responds-shaquille-oneal-charles-barkley/f061b4f180bd793ac6ad14a1"
+                        >
+            Zion Williamson responds to criticism from Shaq and Charles Barkley</a></li>
+                  <li><a href=
+                          "/ca/nba/news/save-warriors-season-klay-thompson-trade-moody-minutes/8e767bbb4009d8cd3d9c045d"
+                        >
+            Three ways the Warriors can save their season</a></li>
+                  <li><a href=
+                          "/ca/nba/news/lebron-james-stat-lakers-father-time/79899983cfd446c91e4ee079"
+                        >
+            This LeBron James stat helps explain how he&#039;s defying Father Time</a></li>
+                  <li><a href=
+                          "/ca/nba/news/bradley-beal-injury-return-suns-booker-durant/afe605e462ce174bec79d736"
+                        >
+            Bradley Beal&#039;s injury return gives Suns scary potential</a></li>
+                  <li><a href=
+                          "/ca/nba/news/jontay-porter-raptors-two-way-passing-size-feel/2f2a02a81f9a2a0508c720c6"
+                        >
+            Why two-way addition Jontay Porter can be impactful with Raptors</a></li>
+              </ul>
+    </div>
+    <div class="bottom-section">
+                  <a href="/ca/nba/news" class="btn_blue">More NBA News</a>
+              </div>
+  </div>
+</div>
+
+		
+    				<div id="Branded_Logo_Mobile"></div>
+		
+		
+					<div class="nba-experience-desktop sectionfrontsidebar">
+				<div class="nba-experience-container canada">
+  <div class="nba-experience-header">
+    <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-person.svg" alt="NBA logo">
+    <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-experience-header.svg" alt="NBA Experience Text">
+  </div>
+
+  <div class="nba-logos-wrapper">
+    <div class="nba-logos canada">
+              <div class="league-pass">
+          <a href="https://www.nba.com/watch/league-pass-stream?ls=nba:leaguepass:own:dig:intsites:topnav:eg:acq:sub:dtc-acq:sportingnews:CA:en:" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-league-pass.svg" alt="NBA League Pass">
+          </a>
+        </div>
+                    <div class="id">
+          <a href="https://www.nba.com/id" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-id.svg" alt="NBA ID">
+          </a>
+        </div>
+            <div class="store">
+        <a href="https://www.nbastore.ca/en/" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-store-ca.svg" alt="NBA Store">
+        </a>
+      </div>
+              <div class="head-to-head">
+          <a href="https://www.nbaheadtohead.com/" target="_blank">
+            <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/images/nba/nba-head-to-head.svg" alt="NBA Head to Head">
+          </a>
+        </div>
+          </div>
+  </div>
+</div>
+			</div>
+			
+	</div>
+      </div>
+  
+    </main>
+        <footer role="contentinfo">
+  <div class="main-footer">
+    <div class="back-to-top" role="link">
+      <div class="arrow-up"></div>
+    </div>
+    
+  <div id="block-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/ca" rel="home" class="site-logo">
+      <img src="https://static.sportingnews.com/1.40.1.1/themes/custom/tsn/logo.svg" alt="Home" />
+    </a>
+  </div>
+<div class="zephr-feature_social-icons-footer">
+    <div class="tsn-footer-social-media-container" id="block-socialsblock">
+            <div><a href="https://www.facebook.com/thesportingnews/" target="_blank"><span class="social-media-logo facebook"></span></a><a href="https://www.instagram.com/sportingnews/" target="_blank"><span class="social-media-logo instagram"></span></a><a href="https://twitter.com/sportingnewsca" target="_blank"><span class="social-media-logo twitter"></span></a></div>
+
+        </div>
+</div><div id="block-tsnfootermenu">
+      <ul class="footer-menu">
+			<li class="menu-item menu-item--expanded ">
+							<a href="https://sportingnewsholdings.com/" target="_blank">About Us</a>
+					</li>
+			<li class="menu-item menu-item--expanded ">
+							<a href="https://sportingnewsholdings.com/contact/" target="_blank">Contact Us</a>
+					</li>
+			<li class="menu-item menu-item--expanded ">
+							<a href="https://www.linkedin.com/company/sportingnews/" target="_blank">Careers</a>
+					</li>
+			<li class="menu-item menu-item--expanded ">
+							<a href="https://sportingnewsholdings.com/privacy-policy/" target="_blank">Privacy Policy</a>
+					</li>
+	</ul>
+
+  </div>
+
+<div id="block-copyrightblock" class="block block-tsn-backoffice block-copyright-block">
+  
+    
+      Copyright © 2023 Sporting News Holdings Limited. <br>All rights reserved.
+  </div>
+
+
+
+    <div class="zephr-feature_partner-logo-footer"></div>
+  </div>
+  <div class="zephr-feature_responsible-gaming"></div>
+</footer>
+  
+</div>
+  </div>
+
+    
+
+        <div class="zephr-feature_javascript-add-on"></div>
+    <div class="zephr-feature_age-gate"></div>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"ca\/","currentPath":"taxonomy\/term\/20962","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"gr":"www"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"revcontentEnabled":true,"revcontent_attribute":{"mobile_datasets":{"id":"rc-widget-268163","data-rc-widget":"","data-widget-host":"habitat","data-endpoint":"\/\/trends.revcontent.com","data-rev-more":"","data-rev-more-preview-height":0,"data-rev-more-button-text":"Read more","data-rev-more-wrapper-id":"rev-more-wrapper","data-widget-id":"268163"},"desktop_datasets":{"id":"rc-widget-02b296","data-rc-widget":"","data-widget-host":"habitat","data-endpoint":"\/\/trends.revcontent.com","data-rev-more":"","data-rev-more-preview-height":0,"data-widget-id":"268087"},"amp_datasets":{"id":"269575","height":"2220","width":"390"},"revcontent_disabled":["argentina","japan","mexico","spain","thailand","usa_spain","vietnam","germany"]},"user":{"uid":0,"permissionsHash":"033e613893a1e101dc430990426736cb99dde0af21a65b2d7193c668033cae7b"}}</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://library.sportingnews.com/s3fs-public/js/js_CV8zx90uIZHQ1-kbsiXaBXX5L5jbMZ_vHdLTZo9gTOU.js"></script>
+<script src="//static.addtoany.com/menu/page.js" async></script>
+<script src="https://library.sportingnews.com/s3fs-public/js/js_8gHPFD_NbYf5abxz9OPkr9zEa-LlcnOascl_sHtxUpQ.js"></script>
+<script src="//cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js" defer="defer"></script>
+<script src="https://library.sportingnews.com/s3fs-public/js/js_rXTzeWOzWR_8G6kKwpYMOgK70rCR7GNkln-YyORcxzY.js"></script>
+
+
+    
+            <script id="cwvseo" type="text/javascript">
+      const seo = setInterval(() => {
+        let seoElem = document.querySelectorAll('img[src]');
+        if(seoElem.length > 0){
+          for (let i = 0; i <= (seoElem.length - 1); i++) {
+            if (seoElem[i].src && !seoElem.width) {
+              seoElem[i].setAttribute('width', seoElem[i].width);
+              seoElem[i].setAttribute('height', seoElem[i].height);
+            };
+          };
+        };
+
+        seoElem = document.querySelectorAll('a');
+        for(let i=0; i < seoElem.length; i++){
+          if(!seoElem[i].getAttribute('href')){
+            seoElem[i].setAttribute('role', 'presentation');
+            seoElem[i].setAttribute('aria-hidden','true');
+          };
+        };
+
+        if(document.querySelector('a.privacy-notice-link')){
+            if(document.querySelector('a.privacy-notice-link').innerHTML.match('More information')) {
+               document.querySelector('a.privacy-notice-link').innerHTML = "Read Privacy Policy Information";
+            }
+        };
+
+      }, 100);
+      setTimeout(()=>{
+        clearInterval(seo);
+      },30000);
+      document.querySelector('script#cwvseo').remove();
+    </script>
+  </body>
+</html>

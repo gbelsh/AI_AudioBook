@@ -1,0 +1,2459 @@
+
+<!-- Define HTML -->
+<!DOCTYPE html>
+<html lang="en-gb" dir="ltr" prefix="og: http://ogp.me/ns#">
+
+	<!-- Define Head -->
+	<head>
+<link href="https://www.roseberys.co.uk/" rel="canonical" />
+
+
+	<!-- Google tag (gtag.js) GA4 - show only on live--> 
+		
+	
+		<!-- Google tag (gtag.js) GA4 - show only on live--> 
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-RWZSPZLVMP"></script> 
+		<script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-RWZSPZLVMP'); </script>
+
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+					<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40066686-2"></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+					function gtag(){dataLayer.push(arguments);}
+					gtag('js', new Date());
+					gtag('config', 'UA-40066686-2');
+			</script>
+		
+		<!-- Pushing User ID to Data Layer -->
+				<!-- End Pushing User ID to Data Layer -->
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+			new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+			j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+			'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-TVNPJN8');
+		</script>
+		<!-- End Google Tag Manager -->
+
+		<!-- Barnebys Analytics -->
+				
+		<script>
+			(function(i,s,o,g,r,a,m){
+			i['BarnebysAnalyticsObject']=r;
+			i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+			a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+			a.async=1;
+			a.src=g;
+			m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://analytics.barnebys.net/bite.v1.js','ba');
+		ba('init', '128');
+		</script>
+		
+		<!-- End Barnebys Analytics -->
+
+		<!-- Microsoft Ads Tracking -->
+		<script>
+			(function(w,d,t,r,u)
+			{
+				var f,n,i;
+				w[u]=w[u]||[],f=function()
+				{
+				var o={ti:"97067104", enableAutoSpaTracking: true}; 
+				o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad") 
+				},
+				n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function()
+				{
+				var s=this.readyState;
+				s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)
+				},
+				i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)
+			})
+			(window,document,"script","//bat.bing.com/bat.js","uetq");
+		</script>
+
+		<!-- Define Meta Tags -->
+	    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="HandheldFriendly" content="True" />
+		<meta name="MobileOptimized" content="320" />
+		<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#8F1B61">
+		<!-- Favicon -->
+		<!-- <link rel="icon" type="image/png" href="https://www.roseberys.co.uk//templates/roseberys//favicon-64x64.png?v=1" sizes="64x64" /> -->
+		<link rel="shortcut icon" href="https://www.roseberys.co.uk//templates/roseberys//favicon.ico?v=1" />
+		
+		
+		<!-- Meta: Twitter -->
+                    <meta name="twitter:card" content="summary" />
+            <meta name="twitter:site" content="@RoseberysLtd" />
+            <meta name="twitter:creator" content="@RoseberysLtd" />
+        
+		<!-- jQuery -->
+		<script type="text/javascript" src="/templates/roseberys/js/lib/jquery/jquery-3.5.1.min.js"></script>
+		<script type="text/javascript" src="/templates/roseberys/js/lib/jquery/jquery-migrate-3.3.0.min.js"></script>
+
+		<!-- Include Head Code -->
+		<meta charset="utf-8" />
+	<base href="https://www.roseberys.co.uk/" />
+	<meta name="keywords" content="Roseberys London" />
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="author" content="Roseberys London" />
+	<meta name="description" content="Roseberys is one of the UK's leading auctioneers with sales of art, antiques, furniture &amp; more" />
+	<title>Roseberys London Fine Art Auctioneers | Home</title>
+	<link href="/templates/roseberys/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-5.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/js_slider.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,600,600i,700,700i&amp;subset=cyrillic,cyrillic-ext,latin-ext" rel="stylesheet" />
+	<link href="/media/com_facebookfeedpro/css/frontend.css?v=3.2.1" rel="stylesheet" />
+	<style>
+.sp-page-builder .page-content #section-id-1671024569156{padding-top:30px;padding-right:10px;padding-bottom:30px;padding-left:10px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1671024569156{padding-top:0;padding-bottom:0;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1671024569156{padding-top:0;padding-bottom:0;margin-bottom:0px;} }#column-id-1671024569157{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1671024569158 {margin:0px 0px 0 0px;}#sppb-addon-1671024569158 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1671024569158 .sp-slider .sp-dots ul li {border-width:2px;border-style:solid;border-radius:18px;height:18px;width:18px;}#sppb-addon-1671024569158 .sp-slider.dot-controller-line .sp-dots ul li.active span{border-radius:18px;}#sppb-addon-1671024569158 .sp-slider.dot-controller-line .sp-dots ul li.active{border-radius:18px;}#sppb-addon-1671024569158 .sp-slider .sp-dots ul li span,#sppb-addon-1671024569158 .sp-slider .sp-dots ul li:hover span,#sppb-addon-1671024569158 .sp-slider .sp-dots ul li:hover:after,#sppb-addon-1671024569158 .sp-slider .sp-dots ul li:after{border-radius:18px;}#sppb-addon-1671024569158 .sp-slider .sp-dots{bottom:50px;}#sppb-addon-1671024569158 .sp-slider .sp-nav-control .nav-control {border-radius:50px;border-width:1px;}#sppb-addon-1671024569158 .sp-slider.arrow-position-bottom_center .sp-nav-control {bottom:50px;}#sppb-addon-1671024569158 div.sp-slider .sp-nav-control {left:50px;right:50px;}#sppb-addon-1671024569158 .dot-controller-with_image.sp-slider .sp-dots ul li.sp-dot-0 {background:url('https://www.roseberys.co.uk//images/2023/11/20/fine-decorative---december-2023-sale---banner.jpg') no-repeat scroll center center / cover;}#sppb-addon-1671024569158 #sp-slider-item-1671024569158-num-0-key.sp-item .sp-video-control {display:none;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-0-key {color:#fff;font-size:12px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-0-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-0-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:12px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key {color:#fff;font-size:54px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:54px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}@media (min-width:768px) and (max-width:991px) {.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key {font-size:16px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:16px;}}@media (max-width:767px) {.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key {font-size:14px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:14px;}}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-2-key {color:#fff;font-size:16px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-2-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-2-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:16px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-3-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-3-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:12px;background:transparent;}.sp-slider #sp-slider-item-1671024569158-num-0-key #sp-slider-inner-item-1671024569159-num-3-key.sppb-sp-slider-button .sp-slider-btn-icon{margin: 5px;}#sppb-addon-1671024569158 .dot-controller-with_image.sp-slider .sp-dots ul li.sp-dot-1 {background:url('https://www.roseberys.co.uk//images/2023/11/20/silver---december-2023-sale---banner.jpg') no-repeat scroll center center / cover;}#sppb-addon-1671024569158 #sp-slider-item-1671024569158-num-1-key.sp-item .sp-video-control {display:none;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-0-key {color:#fff;font-size:12px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-0-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-0-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:12px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key {color:#fff;font-size:54px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:54px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}@media (min-width:768px) and (max-width:991px) {.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key {font-size:16px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:16px;}}@media (max-width:767px) {.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key {font-size:14px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:14px;}}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-2-key {color:#fff;font-size:16px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-2-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-2-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:16px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-3-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-3-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:12px;background:transparent;}.sp-slider #sp-slider-item-1671024569158-num-1-key #sp-slider-inner-item-1671024569160-num-3-key.sppb-sp-slider-button .sp-slider-btn-icon{margin: 5px;}#sppb-addon-1671024569158 .dot-controller-with_image.sp-slider .sp-dots ul li.sp-dot-2 {background:url('https://www.roseberys.co.uk//images/2023/11/28/traditional---december-2023-sale---banner.jpg') no-repeat scroll center center / cover;}#sppb-addon-1671024569158 #sp-slider-item-1671024569158-num-2-key.sp-item .sp-video-control {display:none;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-0-key {color:#fff;font-size:12px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-0-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-0-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:12px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key {color:#fff;font-size:54px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:54px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}@media (min-width:768px) and (max-width:991px) {.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key {font-size:16px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:16px;}}@media (max-width:767px) {.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key {font-size:14px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:14px;}}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-2-key {color:#fff;font-size:16px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-2-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-2-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:16px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-3-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-3-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:12px;background:transparent;}.sp-slider #sp-slider-item-1671024569158-num-2-key #sp-slider-inner-item-1671024569161-num-3-key.sppb-sp-slider-button .sp-slider-btn-icon{margin: 5px;}#sppb-addon-1671024569158 .dot-controller-with_image.sp-slider .sp-dots ul li.sp-dot-3 {background:url('https://www.roseberys.co.uk//images/2023/11/28/modern---december-2023-sale---banner.jpg') no-repeat scroll center center / cover;}#sppb-addon-1671024569158 #sp-slider-item-1671024569158-num-3-key.sp-item .sp-video-control {display:none;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-0-key {color:#fff;font-size:12px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-0-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-0-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:12px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-0-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key {color:#fff;font-size:54px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:54px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}@media (min-width:768px) and (max-width:991px) {.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key {font-size:16px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:16px;}}@media (max-width:767px) {.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key {font-size:14px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-1-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:14px;}}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-2-key {color:#fff;font-size:16px;font-family:Helvetica;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-2-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-2-key.sppb-sp-slider-button .sp-slider-btn-text{color:#fff;font-size:16px;font-family:Helvetica;background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:hover,.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-2-key.sppb-sp-slider-button .sp-slider-btn-text:focus {background:-webkit-linear-gradient(0deg,0%,100%) transparent;background:linear-gradient(0deg,0%,100%) transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-3-key img {height:385px;width:400px;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-3-key.sppb-sp-slider-button .sp-slider-btn-text{font-size:12px;background:transparent;}.sp-slider #sp-slider-item-1671024569158-num-3-key #sp-slider-inner-item-1671024569162-num-3-key.sppb-sp-slider-button .sp-slider-btn-icon{margin: 5px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1671024569158 .sp-slider .sp-dots{bottom:0px;}#sppb-addon-1671024569158 .sp-slider.arrow-position-bottom_center .sp-nav-control {bottom:0px;}#sppb-addon-1671024569158 div.sp-slider .sp-nav-control {left:20px;right:20px;}}@media (max-width:767px) {#sppb-addon-1671024569158 .sp-slider .sp-dots{bottom:0px;}#sppb-addon-1671024569158 .sp-slider.arrow-position-bottom_center .sp-nav-control {bottom:0px;}#sppb-addon-1671024569158 div.sp-slider .sp-nav-control {left:10px;right:10px;}}#column-id-1671024569159{max-height:775px;}.sp-page-builder .page-content #section-id-1671024569162{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:10px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1671024569162{padding-right:13px;padding-left:13px;} }#column-id-1671024569163{height:390px;box-shadow:0 0 0 0 #fff;}@media (min-width:768px) and (max-width:991px) { #column-id-1671024569163{height:290px;} }@media (max-width:767px) { #column-id-1671024569163{height:400px;} }#sppb-addon-wrapper-1680789502409 {margin:0px 0px 30px 0px;}#sppb-addon-1680789502409 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1680789502409 {margin-top:15px;margin-bottom:30px;}}#sppb-addon-wrapper-1676939077072 {margin:0px 0px 0px 0px;}#sppb-addon-1676939077072 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1675682225949{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:20px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1675682225949{margin-bottom:20px;} }#column-id-1675682225950{height:305px;box-shadow:0 0 0 0 #fff;background-image:url(/images/2023/02/06/request_an_auction_valuation.jpg);background-repeat:no-repeat;background-size:cover;background-attachment:scroll;background-position:50% 50%;}@media (min-width:768px) and (max-width:991px) { #column-id-1675682225950{height:290px;} }#column-id-1675682225950 > .sppb-column-overlay {background:linear-gradient(180deg, rgba(0, 0, 0, 0) 30%, rgba(0, 0, 0, 0.75) 100%) transparent;}#column-id-1675682225950 > .sppb-column-overlay {mix-blend-mode:normal;}#sppb-addon-wrapper-1675682225951 {margin:0px 0px 0px 0px;}#sppb-addon-1675682225951 {color:#ffffff;box-shadow:0 0 0 0 #ffffff;padding:180px 0px 0px 0px;}#sppb-addon-1675682225951 a {color:#ffffff;}#sppb-addon-1675682225951 .sppb-addon-title {font-size:30px;line-height:30px;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-1675682225951 .sppb-addon-title {font-size:24px;line-height:24px;line-height:24px;}}#sppb-addon-1675682225951 .sppb-addon-title { font-family:"Georgia"; }#sppb-addon-1675682225951 h2.sppb-addon-title{color:white;}#sppb-addon-1675682225951 h2.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:none; padding:0px 0px 10px 0px; text-shadow:0px 0px 10px rgba(0, 0, 0, 0.7);}#sppb-addon-wrapper-1675682225952 {margin:0px 0px 0px 0px;}#sppb-addon-1675682225952 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1675682225952 .sppb-addon-overlayer {mix-blend-mode:normal;}#sppb-addon-1675682225952 #btn-1675682225952.sppb-btn-custom{text-transform:uppercase;}#sppb-addon-1675682225952 #btn-1675682225952.sppb-btn-custom { border-color:#ffffff;background-color:transparent; color:#fff; padding:12px 28px 12px 28px; font-size:12px;}#sppb-addon-1675682225952 #btn-1675682225952.sppb-btn-custom:hover { color:#fff;}.sp-page-builder .page-content #section-id-1600255251408{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:auto;margin-bottom:0px;margin-left:auto;box-shadow:0 0 0 0 #ffffff;width:100%;max-width:1500px;}@media (min-width:768px) and (max-width:991px) { .sp-page-builder .page-content #section-id-1600255251408{padding-top:50px;padding-bottom:30px;max-width:700px;} }@media (max-width:767px) { .sp-page-builder .page-content #section-id-1600255251408{padding-top:20px;padding-right:15px;padding-bottom:20px;padding-left:15px;margin-top:15px;} }#section-id-1600255251408 > .sppb-container-inner > .sppb-row {margin-left:-15px; margin-right:-15px;}#section-id-1600255251408 > .sppb-container-inner > .sppb-row > div {padding-left:15px; padding-right:15px;}@media (max-width:991.98px) {#section-id-1600255251408 > .sppb-container-inner > .sppb-row {margin-left:-15px; margin-right:-15px;}#section-id-1600255251408 > .sppb-container-inner > .sppb-row > div {padding-left:15px; padding-right:15px;}}@media (max-width:767.98px) {#section-id-1600255251408 > .sppb-container-inner > .sppb-row {margin-left:-0px; margin-right:-0px;}#section-id-1600255251408 > .sppb-container-inner > .sppb-row > div {padding-left:0px; padding-right:0px;}}#column-id-1600255251407{box-shadow:0 0 0 0 #fff;}@media (max-width:767px) { #column-id-1600255251407{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;} }@media (max-width:767px) { #column-wrap-id-1600255251407{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;} }#sppb-addon-wrapper-1658829955034 {margin:0px 0px 30px 0px;}#sppb-addon-1658829955034 {box-shadow:0 0 0 0 #ffffff;}@media (min-width:768px) and (max-width:991px) {#sppb-addon-wrapper-1658829955034 {margin-bottom:0px;}}@media (max-width:767px) {#sppb-addon-1658829955034 {padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}}.sp-page-builder .page-content #section-id-1667494951298{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}#column-id-1667494951297{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668438925665 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925665 {box-shadow:0 0 0 0 #ffffff;border-radius:3px;}#sppb-addon-wrapper-1668438925692 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925692 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925692 {margin-bottom:0px;}}#sppb-addon-1668438925692 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925692{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925668 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925668 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925698 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925698 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925698 {margin-bottom:0px;}}#sppb-addon-1668438925698 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925698{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925671 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925671 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925695 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925695 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925695 {margin-bottom:0px;}}#sppb-addon-1668438925695 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925695{ font-size:16px;font-weight:400; }.sp-page-builder .page-content #section-id-1668438925653{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}#column-id-1668438925638{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668438925674 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925674 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925705 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925705 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925705 {margin-bottom:0px;}}#sppb-addon-1668438925705 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925705{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925677 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925677 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925711 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925711 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925711 {margin-bottom:0px;}}#sppb-addon-1668438925711 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925711{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925680 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925680 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925708 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925708 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925708 {margin-bottom:0px;}}#sppb-addon-1668438925708 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925708{ font-size:16px;font-weight:400; }.sp-page-builder .page-content #section-id-1668438925656{padding-top:0px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}#column-id-1668438925640{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668438925683 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925683 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925720 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925720 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925720 {margin-bottom:0px;}}#sppb-addon-1668438925720 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925720{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925686 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925686 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925726 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925726 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925726 {margin-bottom:0px;}}#sppb-addon-1668438925726 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925726{ font-size:16px;font-weight:400; }#sppb-addon-wrapper-1668438925689 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925689 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1668438925723 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925723 {box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) {#sppb-addon-wrapper-1668438925723 {margin-bottom:0px;}}#sppb-addon-1668438925723 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925723{ font-size:16px;font-weight:400; }.sp-page-builder .page-content #section-id-1668180678398{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1668180678397{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668180678401 {margin:0px 0px 10px 0px;}#sppb-addon-1668180678401 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668180678401 h2.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:none; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1668180678404 {margin:0px 0px 30px 0px;}#sppb-addon-1668180678404 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1643241316761{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1643241316761{padding-top:0px;} }#column-id-1643241316762{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1675695398657 {margin:0px 0px 30px 0px;}#sppb-addon-1675695398657 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1667494951296{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1667494951295{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1668438925636 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925636 {box-shadow:0 0 0 0 #ffffff;}#column-id-1668438925633{background-color:#fbf8f8;}#column-wrap-id-1668438925633{margin-top:100px;margin-left:-120px;}@media (min-width:768px) and (max-width:991px) { #column-wrap-id-1668438925633{margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;} }@media (max-width:767px) { #column-wrap-id-1668438925633{margin-top:0px;margin-left:0px;} }#sppb-addon-wrapper-1668438925639 {margin:0px 0px 30px 0px;}#sppb-addon-1668438925639 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668438925639 .sppb-addon-title {font-size:52px;text-transform:uppercase;}@media (max-width:767px) {#sppb-addon-1668438925639 .sppb-addon-title {font-size:20px;line-height:20px;}}#sppb-addon-1668438925639 .sppb-addon-title { font-family:"Georgia"; }#sppb-addon-1668438925639 h2.sppb-addon-title {margin:0px 0px 30px 0px; text-transform:none; padding:0px 0px 0px 0px; }#sppb-addon-wrapper-1668438925642 {margin:0px 0px 0px 0px;}#sppb-addon-1668438925642 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1668438925642 .sppb-addon-content { font-family:"Helvetica"; }#sppb-addon-1668438925642{ font-size:16px;font-weight:400; }.sp-page-builder .page-content #section-id-1667494951315{padding-top:50px;padding-right:0px;padding-bottom:10px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}#column-id-1667494951314{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667494951318 {margin:0px 0px 0px 0px;}#sppb-addon-1667494951318 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-1667494951318 .sppb-addon-title {font-size:50px;letter-spacing:-1px;}@media (max-width:767px) {#sppb-addon-1667494951318 .sppb-addon-title {font-size:27px;line-height:27px;}}#sppb-addon-1667494951318 h2.sppb-addon-title {margin:0px 0px 0px 0px; text-transform:none; padding:0px 0px 0px 0px; }.sp-page-builder .page-content #section-id-1667494951287{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1667494951287{padding-top:20px;} }#column-id-1667494951286{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667494951291 {margin:0px 0px 30px 0px;}#sppb-addon-1667494951291 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1667494951294 {margin:0px 0px 30px 0px;}#sppb-addon-1667494951294 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1643030083274{padding-top:50px;padding-right:0px;padding-bottom:50px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1643030083274{padding-top:0px;padding-bottom:0px;} }#column-id-1643030083275{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1643045817695 {margin:0px 0px 30px 0px;}#sppb-addon-1643045817695 {box-shadow:0 0 0 0 #ffffff;}.sp-page-builder .page-content #section-id-1667494951300{padding-top:50px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;background-color:#FBF8F8;box-shadow:0 0 0 0 #ffffff;}@media (max-width:767px) { .sp-page-builder .page-content #section-id-1667494951300{padding-bottom:20px;} }#column-id-1667494951299{box-shadow:0 0 0 0 #fff;}#sppb-addon-wrapper-1667494951323 {margin:0px 0px 10px 0px;}#sppb-addon-1667494951323 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1675180073935 {margin:0px 0px 30px 0px;}#sppb-addon-1675180073935 {box-shadow:0 0 0 0 #ffffff;}#sppb-addon-wrapper-1675176677807 {margin:0px 0px 30px 0px;}#sppb-addon-1675176677807 {box-shadow:0 0 0 0 #ffffff;}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"5376c4831f8826f7451abc000bc0d583","system.paths":{"root":"","base":""}}</script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js" defer></script>
+	<script src="/components/com_sppagebuilder/assets/js/js_slider.js"></script>
+	<script src="https://demo.nanocosmos.de/nanoplayer/api/release/nanoplayer.4.min.js?20220405"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.magnific-popup.min.js"></script>
+	<!--[if lt IE 9]><script src="/media/jui/js/html5.js?a80a95026fe8a3ddbc0c3dbd513fb600"></script><![endif]-->
+	<script src="/components/com_catalog/js/lot_search.min.js?v=0.1"></script>
+	<script src="/media/system/js/core.js?a80a95026fe8a3ddbc0c3dbd513fb600"></script>
+	<script>
+;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);
+	</script>
+	<meta property="og:title" content="Rosebery's Auctions London" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.roseberys.co.uk/" />
+	<meta property="og:site_name" content="Roseberys London" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="Roseberys London" />
+	<script type="application/json" id="ffp-frontend-cfg">{"i18n":{"posts":"Posts","posts_":"Posts","photos":"Photos","videos":"Videos","like_page":"Like Page","share":"Share","people_like_this":"people like this","display_created_date":"Show created date","display_fb_link":"Show link to Facebook","likes":"likes","comments":"comments","shares":"shares","view_on_fb":"View on Facebook","items_per_page":"Items per page","load_more":"Load more","all_photos":"All Photos","albums":"Albums","show_more":"Show More","show_less":"Show Less","ajax_error":"AJAX error","connect_to_facebook":"Please click \"Connect to Facebook\" button and authorize the application","photos_":"photo","COM_FACEBOOKFEEDPRO_AGO":"ago","COM_FACEBOOKFEEDPRO_YEAR":"year","COM_FACEBOOKFEEDPRO_MONTH":"month","COM_FACEBOOKFEEDPRO_WEEK":"week","COM_FACEBOOKFEEDPRO_DAY":"day","COM_FACEBOOKFEEDPRO_HOUR":"hour","COM_FACEBOOKFEEDPRO_MINUTE":"minute","COM_FACEBOOKFEEDPRO_SECOND":"second","COM_FACEBOOKFEEDPRO_YEARS":"years","COM_FACEBOOKFEEDPRO_MONTHS":"months","COM_FACEBOOKFEEDPRO_WEEKS":"weeks","COM_FACEBOOKFEEDPRO_DAYS":"days","COM_FACEBOOKFEEDPRO_HOURS":"hours","COM_FACEBOOKFEEDPRO_MINUTES":"minutes","COM_FACEBOOKFEEDPRO_SECONDS":"seconds","COM_FACEBOOKFEEDPRO_YEARS2":"years","COM_FACEBOOKFEEDPRO_MONTHS2":"months","COM_FACEBOOKFEEDPRO_WEEKS2":"weeks","COM_FACEBOOKFEEDPRO_DAYS2":"days","COM_FACEBOOKFEEDPRO_HOURS2":"hours","COM_FACEBOOKFEEDPRO_MINUTES2":"minutes","COM_FACEBOOKFEEDPRO_SECONDS2":"seconds"},"feedConfig":{"id":0,"ajax_url":"\/index.php?option=com_facebookfeedpro&task=feed.data&language=en-GB","alldata_uri":"\/index.php?option=com_facebookfeedpro&task=feed.alldata&language=en-GB","templates_url":"\/media\/com_facebookfeedpro\/templates\/","template":"feed","version":"3.2.1"}}</script>
+
+
+		<!-- CSS Stylesheets -->
+		<link rel="stylesheet" href="https://use.typekit.net/udi5qwm.css">
+		<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous"> -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<!-- Fonts -->
+		<!-- <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Work+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"> -->
+		<!-- <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet"> -->
+		<link rel="stylesheet" href="https://use.typekit.net/hhb7ueq.css">
+
+		<!-- Bootstrap 5 -->
+        <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script> -->
+        <link href="/templates/roseberys/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
+		<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+		<link rel="stylesheet" type="text/css" href="/templates/roseberys/css/core.css?v=1.7.92" />
+
+		<!-- Javascript Libraries -->
+		<!-- <script type="text/javascript" src="/< ?php echo $this->baseurl ?>/templates/< ?php echo $this->template ?>/js/bootstrap/bootstrap5.min.js"></script> -->
+		<script type="text/javascript" src="/templates/roseberys/js/bootstrap.bundle.min.js"></script>
+		<script type="text/javascript" src="/templates/roseberys/js/dropzone.js"></script>
+		<script type="text/javascript" src="/templates/roseberys/js/scripts.js"></script>
+		<script type="text/javascript" src="/templates/roseberys/js/slick/slick.min.js"></script>
+		<script type="text/javascript" src="/templates/roseberys/js/superslider/jquery.superslides.min.js"></script>
+
+						<!-- Include Vue Libraries / Vuex Store -->
+		<!-- Vue.js Include -->
+	<script src="https://www.roseberys.co.uk/libraries/vuejs/vue.prod.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/vuex.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/vue-resource.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/moment.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/moment-timezone.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/websocket-wrapper.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/aws-ws-client.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/lodash.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/jqueryui.js"></script>
+<script src="https://www.roseberys.co.uk/libraries/vuejs/touchpunch.js"></script>
+
+<!-- Setup Vuex Store -->
+<script type="text/javascript">
+	window.vm = [];
+	window.baseurl = 'https://www.roseberys.co.uk/';
+
+	Vue.use(Vuex);
+	window.store = new Vuex.Store({
+
+		// The main information state
+		state: {
+			notifications: [],
+			account: {
+				menuActive: false,
+			},
+		},
+
+		// Used for monitoring mutations to the store
+		mutations: {
+
+			// Add a new notification
+			addNotificationMutation: function (state, item) {
+				state.notifications.push(item);
+			},
+
+			// Remove a notification item
+			removeNotificationMutation: function(state, index) {
+				state.notifications.splice(index, 1);
+			},
+
+			// Set the account menu status
+			setAccountMenuStatusMutation: function(state, status) {
+				state.account.menuActive = status;
+			},
+
+		},
+
+		// The actions you will dispatch, also contains the logical part
+		actions: {
+
+			// Will add a new notification to the system
+			addNotification: function( store, item ) {
+
+				// Define the variables (doing it like this to support IE11)
+				var dispatch = store.dispatch;
+				var commit = store.commit;
+				var state = store.state;
+
+				// Commit the notification mutation
+				commit('addNotificationMutation', {
+					type: item[1],
+					message: item[0],
+					stamp: moment().utc().unix() + 5,
+				});
+			},
+
+			// Set account menu status
+			setAccountMenuStatus: function(store, status) {
+
+				// Define the variables (doing it like this to support IE11)
+				var dispatch = store.dispatch;
+				var commit = store.commit;
+				var state = store.state;
+
+				// Commit the account menu change mutation
+				commit('setAccountMenuStatusMutation', status);
+
+			},
+
+			// Logical Tick
+			logicalTick: function( store ) {
+
+				// Define the variables (doing it like this to support IE11)
+				var dispatch = store.dispatch;
+				var commit = store.commit;
+				var state = store.state;
+
+				// Check and clear notifications that are too old
+				var now = moment().utc().unix();
+				for (var i = 0; i < state.notifications.length; i++) {
+					if (state.notifications[i].stamp < now) {
+						commit('removeNotificationMutation', i);
+					}
+				}
+			}
+
+		},
+	});
+
+	// Run a constant logical loop
+	window.store.interval = setInterval(function() {
+		window.store.dispatch('logicalTick');
+	}, 1000*5);
+</script>
+
+		<!-- WEBSITE SCHEMA MARKUP -->
+		<script type="application/ld+json">
+			{
+				"@context":"https://schema.org",
+				"@type":"WebSite",
+				"url":"https://www.roseberys.co.uk/",
+				"name":"Rosebery's Auctioneers"
+			}
+		</script>
+
+		<!-- EVENTS SCHEMA MARKUP -->
+		
+
+					<!-- SEMATEXT -->
+			<!-- <script type="text/javascript">
+			  (function(e,r,n,t,s){var a=[];e[s]=function(){a.push(arguments)};e[s].queue=a;  var o=[];var i=[];var c=true;var p=void 0;if(window.PerformanceObserver&&  window.PerformanceObserver.supportedEntryTypes&&(  PerformanceObserver.supportedEntryTypes.indexOf("longtask")>=0||  PerformanceObserver.supportedEntryTypes.indexOf("element")>=0)){  p=new PerformanceObserver(function(e){e.getEntries().forEach(function(e){  switch(e.entryType){case"element":i.push(e);break;case"longtask":o.push(e);break;  default:break}})});p.observe({entryTypes:["longtask","element"]})}e[s+"lt"]={  longTasks:o,timingElements:i,inPageLoad:c,observer:p};if(t){var u=r.createElement(n);  u.async=1;u.src=t;var f=r.getElementsByTagName(n)[0];f.parentNode.insertBefore(u,f)}})
+			  (window,document,"script","//cdn.sematext.com/experience.js","strum");
+			</script> -->
+
+			<!-- <script type="text/javascript">
+				strum('config', { token: 'd654b2ea-3a72-4e3b-aac9-697bd4c2efb9', 'receiverUrl': 'https://rum-receiver.eu.sematext.com' });
+			</script> -->
+			
+<!-- Google sitename markup-->
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name": "Roseberys London",
+    "url": "https://www.roseberys.co.uk/"
+}
+</script>
+<!-- End of Google sitename markup-->
+
+
+
+
+
+</head>
+
+	<!-- Define Body W/ Tags -->
+	<body class="site com_sppagebuilder view-page no-layout no-task itemid-101 home-roseberys logged-out home">
+
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVNPJN8"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+		<!-- Header Container -->
+					<div id="header" class="header-container justify-content-center">
+	<div class="main-header">
+		<!-- <div class="menuToggle">
+			<a onclick="toggleMenu()">
+				<span class="ss-menu"></span>
+			</a>
+			<i class="fas fa-times"></i>
+			<a onclick="toggleMenu()" href="#" id="mttCloseBtn" class="close" title="Close"></a>
+		</div>
+		<div class="accountToggle">
+			<a onclick="toggleAccount()">
+				<span class="ss-user-outline"></span>
+			</a>
+		</div> -->
+
+		<!-- Header - Top Row -->
+		<div class="header__top--row row justify-content-between">
+
+			<!-- Top Left -->
+			<div class="header__top--row-left col-lg-4 col-xl-4 col-sm-4 col-4">
+
+
+				<a href="https://www.roseberys.co.uk/" title="Roseberys London"><img src="/templates/roseberys/images/r-logo.svg" alt="Roseberys London" class="small-logo"/></a>
+				<div class="header__search--container row col-xl-12 col-lg-12 mt-1">
+					<div class="header__phone col-xl-6 col-lg-6 d-flex align-items-center">
+					<a href="tel:+44 (0)20 8761 2522" class="mb-0 font"><span class="ss-telephone"></span><span class="hide-on-scroll">+44 (0) 20 8761 2522</span></a>
+					</div>
+					<div class="col-xl-6 col-lg-6 col-md-2 col-sm-2 col-2 pe-lg-0">
+						<div class="searchIcon hide-on-scroll">
+							<label for="h-search" class="sr-only">Search</label>
+								<!-- <a href="/< ?php// echo JUri::root(); ?>index.php?option=com_advsearch&view=results&search_category=Car&keywords=77" role="button" id="h-search"> -->
+								<!-- <a href="/< ?php// echo JUri::root(); ?>index.php?option=com_advsearch&view=results&search_category=Car" role="button" id="h-search"> -->
+								<!-- <a href="https://www.roseberys.co.uk/index.php?option=com_catalog&view=search" role="button" id="h-search" title="Search">
+									<span class="ss-search"> Search</span>
+								</a> -->
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<span class="ss-search"></span>
+								</div>
+								<input type="text" name="query" class="h-search border-1 rounded-1" id="h-search-input" placeholder="Search auction catalogues">
+							</div>
+						</div>
+
+						<!-- Search icon - header scrolled -->
+						<div class="searchIcon show-on-scroll">
+							<div class="input-group">
+								<div class="input-group-prepend">
+									<a href="https://www.roseberys.co.uk/index.php?option=com_catalog">
+										<span class="ss-search"></span>
+									</a>
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+
+
+
+					<!-- My Account - MOBILE -->
+					<!-- <div class="header__mobile--top-left col-md-2 col-sm-2 col-2" id="h-account1">
+						<ul>
+							 // Checking if the user is logged in
+															<li>
+									<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=login" title="Login"><span class="ss-user"></span></a>
+								</li>
+													</ul>
+					</div> -->
+
+					<!-- <div class="header__mobile-dummy col-md-10 col-sm-10 col-xs-12"></div> -->
+				</div>
+			</div>
+
+			<!-- Middle (Logo)-->
+			<div class="header__top--row-middle col-xl-4 col-lg-4 col-md-4 col-sm-4 col-4 d-flex justify-content-center">
+				<a href="https://www.roseberys.co.uk/" title="Roseberys London"><img src="/templates/roseberys/images/logo-roseberys.svg" alt="Roseberys London" class="main-logo"/></a>
+			</div>
+
+			<!-- Top Right -->
+			<div class="header__top--row-right text-right col-xl-4 col-md-4 col-sm-4 col-4">
+
+				<!-- MY ACCOUNT - DESKTOP -->
+				<div class="h-account mt-1" id="h-account1">
+					<ul>
+																			<li class="mb-0">
+								<!-- <a href="https://www.roseberys.co.uk/#" class="" title="Login">LogIn</a><span class="px-1"> | </span> -->
+								<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=login" class="btn pink-outline navLoginBtn" title="Login">Register / Login</a>
+							</li>
+							<!-- <li> -->
+								<!-- <a href="https://www.roseberys.co.uk/#" title="Register">Register</a> -->
+								<!-- <a href="https://www.roseberys.co.uk/index.php?option=com_user&view=register" title="Register">Register</a> -->
+							<!-- </li> -->
+											</ul>
+				</div>
+				<div class="h-account mt-1 d-none" id="h-account-timed">
+					<ul>
+						<li>
+
+							<form action="https://www.roseberys.co.uk/" method="post" id="login-form" class="form-vertical">
+								<div class="login-greeting"></div>
+								<div class="logout-button-container">
+									<input name="Submit" class="secondary-button logout-button btn pink" value="Log out" type="submit">
+									<input name="option" value="com_users" type="hidden">
+									<input name="task" value="user.logout" type="hidden">
+									<input name="return" value="" type="hidden">
+									<input type="hidden" id="input-form_token-timed" name="form_token" value="1">
+									<input type="hidden" name="5376c4831f8826f7451abc000bc0d583" value="1" />								</div>
+							</form>
+						</li>
+						<li>
+							<a href="https://www.roseberys.co.uk/index.php?option=com_account&view=account_details" class="btn btn-bordered" title="Account">Account</a>
+						</li>
+					</ul>
+				</div>
+
+				<!-- MOBILE MENU -->
+				<div class="col-6 col-md-6 col-lg-4 col-xl order-2 order-md-4 order-lg-3 order-xl-3 mobileBottom justify-content-end align-items-end pe-0 pe-md-0 pe-lg-0 mt-1 d-xl-none d-flex">
+					<div class="h-menu">
+						
+
+						<div id="sidenav" class="sidenav">
+							<a href="javascript:void(0)" class="closebtn" onclick="closeNav()"></a>
+
+							<div class="row justify-content-center">
+								<div class="col-12">
+
+									<!-- MOBILE - Sub-Menus -->
+									<ul class="nav menu mod-list">
+<li class="item-475 deeper parent">
+<span class="nav-header ">Auctions &amp; Results <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-443"><a href="/auction/upcoming-auctions" >Upcoming Auctions</a></li><li class="item-476"><a href="/component/calendar/?view=archive" >Auction Results</a></li></ul></li><li class="item-444 deeper parent">
+<span class="nav-header ">Departments <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-445"><a href="/departments/antiquities" >Antiquities</a></li><li class="item-446"><a href="/departments/ceramics-glass" >Ceramics &amp; Glass</a></li><li class="item-447"><a href="/departments/chinese-japanese-south-asian-art" >Chinese, Japanese &amp; South East Asian Art</a></li><li class="item-448"><a href="/departments/decorative-arts" >Decorative Arts</a></li><li class="item-449"><a href="/departments/furniture-rugs" >Furniture &amp; Rugs</a></li><li class="item-450"><a href="/departments/islamic-indian-art" >Islamic &amp; Indian Art</a></li><li class="item-451"><a href="/departments/jewellery" >Jewellery</a></li><li class="item-452"><a href="/departments/modern-british-20th-century-art" >Modern British &amp; 20th Century Art</a></li><li class="item-453"><a href="/departments/modern-design" >Modern Design</a></li><li class="item-454"><a href="/departments/old-master-british-european-pictures" >Old Master, British &amp; European Pictures</a></li><li class="item-455"><a href="/departments/prints-and-multiples" >Prints &amp; Multiples</a></li><li class="item-456"><a href="/departments/silver" >Silver</a></li><li class="item-458"><a href="/departments/watches" >Watches</a></li><li class="item-459"><a href="/departments/works-of-art-sculpture-and-clocks" >Works of Art, Sculpture &amp; Clocks</a></li><li class="item-460"><a href="/departments/single-owner-collections" >Single Owner Collections</a></li><li class="item-461"><a href="/departments/probate-estates-insurance" >Probate, Estates &amp; Insurance Valuations</a></li><li class="item-462"><a href="/departments/all-departments" >View All</a></li></ul></li><li class="item-463 deeper parent">
+<span class="nav-header ">Buy &amp; Sell <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-464"><a href="/buy-sell/buying-guide" >Buying Guide</a></li><li class="item-465"><a href="/buy-sell/online-bidding-guide" >Online Bidding Guide</a></li><li class="item-466"><a href="/buy-sell/selling-guide" >Selling Guide</a></li><li class="item-467"><a href="/buy-sell/request-a-valuation" >Request a Valuation</a></li><li class="item-468"><a href="/buy-sell/delivery-information" >Collection, Delivery &amp; Storage Information</a></li></ul></li><li class="item-469 deeper parent">
+<span class="nav-header ">Valuations <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-519"><a href="/valuations/probate-estates-insurance" >Probate, Estates &amp; Insurance Valuations</a></li><li class="item-471"><a href="/request-a-valuation" >Valuation for Auction</a></li><li class="item-522"><a href="/probate-news" >Articles</a></li></ul></li><li class="item-473 deeper parent">
+<span class="nav-header ">News &amp; Stories <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-497"><a href="/news-stories" >Read the Latest News &amp; Stories</a></li><li class="item-506"><a href="/artistandmakers" >Artists &amp; Makers</a></li></ul></li><li class="item-474 deeper parent">
+<span class="nav-header ">Contact Us <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-499"><a href="/contact-us/meet-the-team" >Meet the team</a></li><li class="item-478"><a href="/contact-us/about-us" >About Us</a></li><li class="item-479"><a href="/contact-us/contact-us" >Contact Us</a></li><li class="item-480"><a href="/contact-us/find-us" >Find us</a></li><li class="item-481"><a href="/contact-us/careers" >Careers</a></li></ul></li></ul>
+
+
+									<div class="header__mobile--phone">
+										<p><span class="ss-telephone"></span><a href="tel:+44 (0)20 8761 2522">+44 (0)20 8761 2522</a></p>
+									</div>
+
+									<!-- Login/Register Mobile only -->
+									<ul class="account-mobile-menu">
+																															<div class="mobile__account--login">
+												<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=login" class="loginBtn btn pink" title="Login">Login</a>
+											</div>
+											<div class="mobile__account--register">
+												<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=register" class="registerBtn btn pink-outline" title="Register">Register</a>
+											</div>
+																			</ul>
+
+									<!-- <div class="header__mobile--account">
+										<span class="ss-user"></span><p><a href="https://www.roseberys.co.uk/index.php?option=com_account&view=account_details">My Account</a></p>
+									</div> -->
+								</div>
+							</div>
+
+
+						</div>
+
+						<ul>
+							<li>
+								<a class="menu-desktop" href="javascript:void(0)" onclick="openNav()"><img class="img-fluid  ms-lg-4" src="/templates/roseberys/images/icons/menu-icon-desktop.svg" alt="Roseberys London"></a>
+							</li>
+						</ul>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- Header - Bottom Row Main Menu -->
+		<div class="header__bottom--row row align-items-center header-menu-row">
+
+			<div class="col-12 mobileTop">
+				<div class="h-menu menu-1">
+					<div class="mobileSearchContainer">
+						<ul>
+							<li><span class="ss-search"></span><a href="https://www.roseberys.co.uk/index.php?option=com_catalog">Search</a></li>
+						</ul>
+					</div>
+					<ul class="nav menu mod-list">
+<li class="item-475 deeper parent">
+<span class="nav-header ">Auctions &amp; Results <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-443"><a href="/auction/upcoming-auctions" >Upcoming Auctions</a></li><li class="item-476"><a href="/component/calendar/?view=archive" >Auction Results</a></li></ul></li><li class="item-444 deeper parent">
+<span class="nav-header ">Departments <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-445"><a href="/departments/antiquities" >Antiquities</a></li><li class="item-446"><a href="/departments/ceramics-glass" >Ceramics &amp; Glass</a></li><li class="item-447"><a href="/departments/chinese-japanese-south-asian-art" >Chinese, Japanese &amp; South East Asian Art</a></li><li class="item-448"><a href="/departments/decorative-arts" >Decorative Arts</a></li><li class="item-449"><a href="/departments/furniture-rugs" >Furniture &amp; Rugs</a></li><li class="item-450"><a href="/departments/islamic-indian-art" >Islamic &amp; Indian Art</a></li><li class="item-451"><a href="/departments/jewellery" >Jewellery</a></li><li class="item-452"><a href="/departments/modern-british-20th-century-art" >Modern British &amp; 20th Century Art</a></li><li class="item-453"><a href="/departments/modern-design" >Modern Design</a></li><li class="item-454"><a href="/departments/old-master-british-european-pictures" >Old Master, British &amp; European Pictures</a></li><li class="item-455"><a href="/departments/prints-and-multiples" >Prints &amp; Multiples</a></li><li class="item-456"><a href="/departments/silver" >Silver</a></li><li class="item-458"><a href="/departments/watches" >Watches</a></li><li class="item-459"><a href="/departments/works-of-art-sculpture-and-clocks" >Works of Art, Sculpture &amp; Clocks</a></li><li class="item-460"><a href="/departments/single-owner-collections" >Single Owner Collections</a></li><li class="item-461"><a href="/departments/probate-estates-insurance" >Probate, Estates &amp; Insurance Valuations</a></li><li class="item-462"><a href="/departments/all-departments" >View All</a></li></ul></li><li class="item-463 deeper parent">
+<span class="nav-header ">Buy &amp; Sell <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-464"><a href="/buy-sell/buying-guide" >Buying Guide</a></li><li class="item-465"><a href="/buy-sell/online-bidding-guide" >Online Bidding Guide</a></li><li class="item-466"><a href="/buy-sell/selling-guide" >Selling Guide</a></li><li class="item-467"><a href="/buy-sell/request-a-valuation" >Request a Valuation</a></li><li class="item-468"><a href="/buy-sell/delivery-information" >Collection, Delivery &amp; Storage Information</a></li></ul></li><li class="item-469 deeper parent">
+<span class="nav-header ">Valuations <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-519"><a href="/valuations/probate-estates-insurance" >Probate, Estates &amp; Insurance Valuations</a></li><li class="item-471"><a href="/request-a-valuation" >Valuation for Auction</a></li><li class="item-522"><a href="/probate-news" >Articles</a></li></ul></li><li class="item-473 deeper parent">
+<span class="nav-header ">News &amp; Stories <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-497"><a href="/news-stories" >Read the Latest News &amp; Stories</a></li><li class="item-506"><a href="/artistandmakers" >Artists &amp; Makers</a></li></ul></li><li class="item-474 deeper parent">
+<span class="nav-header ">Contact Us <i class="fa fa-angle-down"></i></span>
+<ul class="nav-child unstyled small"><li class="item-499"><a href="/contact-us/meet-the-team" >Meet the team</a></li><li class="item-478"><a href="/contact-us/about-us" >About Us</a></li><li class="item-479"><a href="/contact-us/contact-us" >Contact Us</a></li><li class="item-480"><a href="/contact-us/find-us" >Find us</a></li><li class="item-481"><a href="/contact-us/careers" >Careers</a></li></ul></li></ul>
+
+				</div>
+			</div>
+			<div class="col-6 order-0 col-md-6 col-lg-4 order-md-1 col-xl order-lg-2 order-xl-2 mobileHeader  d-flex align-items-center justify-content-lg-center">
+				<!-- <a class="h-logo" href="https://www.roseberys.co.uk/" title="Rosebery's London">
+					<span class="hidden no-display">Rosebery's</span>
+				</a> -->
+				<a class="h-mobile-logo" href="https://www.roseberys.co.uk/" title="Rosebery's London">
+					<span class="hidden no-display">Rosebery's London</span>
+				</a>
+			</div>
+
+		</div>
+	</div>
+
+		<!-- Ribbon Code logic -->
+
+		<!-- Ribbon Code logic -->
+		
+				<!-- Ribbon Code logic -->
+
+</div>
+<a class="closer" onclick="theCloser()">
+
+</a>
+
+<!-- Register To Bid Ribbon-->
+<div class="modal fade" id="bid_live_approval_message_ribbon">
+	<div class="modal-dialog modal-md">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close return-lot-details" data-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body p-4">
+				<div class="row">
+					<div class="col-12 col-md-8 offset-md-2 text-center">
+						<p class="mb-5" id="msg_approval_ribbon"></p>
+						<a class="btn pink mb-4 return-lot-details" data-dismiss="modal" aria-label="Close" >CLOSE</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+
+
+	/* Set the width of the side navigation to 250px */
+function openNav() {
+//   document.getElementById("sidenav").style.width = "480px";
+  document.getElementById("sidenav").classList.add("active-menu");
+
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNav() {
+//   document.getElementById("sidenav").style.width = "0";
+  document.getElementById("sidenav").classList.remove("active-menu");
+}
+
+	/* Set the width of the side navigation to 250px */
+function openNewsletter() {
+  document.getElementById("email_signup_right").classList.add("active-newsletter");
+
+}
+
+/* Set the width of the side navigation to 0 */
+function closeNewsletter() {
+  document.getElementById("email_signup_right").classList.remove("active-newsletter");
+}
+
+
+var subMenuClick = jQuery.noConflict();
+
+subMenuClick('li.deeper.parent').click(function() {
+	// console.log('Menu click!!');
+	subMenuClick(this).toggleClass('active');
+	subMenuClick("li.deeper.parent.active").not(this).toggleClass('active');
+});
+
+subMenuClick('.searchIcon .ss-search').click(function() {
+	subMenuClick('.searchIcon').toggleClass('active');
+});
+
+</script>
+
+<!-- Register to bid live -->
+<script>
+
+	jQuery(".btnRegisterToBidLiveRibbon").on('click',function (e) {
+		
+		jQuery(this).text("Please wait...");
+		jQuery(this).attr("disabled","disabled");
+		var auction_id = jQuery(this).attr("data-id");
+		
+		jQuery.ajax({
+			type: 'POST',
+			url: 'https://www.roseberys.co.uk/index.php?option=com_bidding&format=json&task=commission.check_bid_live_approval',
+			dataType: 'JSON',
+			data: {
+				auction_id: auction_id
+			},
+			success: function(response) {
+				if (response.status) {
+					jQuery("#bid_live_approval_message_ribbon").modal('toggle');
+					jQuery("#msg_approval_ribbon").text(response.message);
+
+				} else {
+					jQuery("#bid_live_approval_message_ribbon").modal('toggle');
+					jQuery("#msg_approval_ribbon").text(response.message);
+				}
+			}
+		}).fail(function(error) {
+			console.log('Error: ' + error.statusText);
+		});
+
+		jQuery(".return-lot-details").on('click',function(e){
+			window.location.reload(true);
+		});
+
+	});
+
+</script>		
+		<!-- Main Content Container -->
+		<div id="main-content" class="container-fluid main-container">
+
+			<div class="row mx-0">
+				<!-- System Messages -->
+				<div id="system-message-container">
+	</div>
+
+
+				
+				<!-- Include Page Code -->
+				
+<div id="sp-page-builder" class="sp-page-builder  page-148">
+
+	
+	<div class="page-content">
+				<div id="section-id-1671024569156" class="sppb-section container-fluid home__banner" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-9 sppb-col-sm-7" id="column-wrap-id-1671024569157"><div id="column-id-1671024569157" class="sppb-column home__banner__slideshow" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1671024569158" class="sppb-addon-wrapper"><div id="sppb-addon-1671024569158" class="clearfix "     ><div id="sppb-sp-slider-1671024569158" data-id="sppb-sp-slider-1671024569158" class="sppb-addon-sp-slider sp-slider     " data-height="700px" data-height-sm="600px" data-height-xs="350px" data-slider-animation="fade"   data-autoplay="true" data-interval="5000" data-timer="false" data-speed="800" data-dot-control="false" data-arrow-control="true" data-indecator="true" data-arrow-content="icon_only" data-slide-count="false" data-dot-style="dot" data-pause-hover="false"><div id="sp-slider-item-1671024569158-num-0-key" class="sp-item  active slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1671024569159-num-0-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>LIVE AUCTION</div><h1 id="sp-slider-inner-item-1671024569159-num-1-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Fine & Decorative</h1><div id="sp-slider-inner-item-1671024569159-num-2-key" class="sppb-sp-slider-text banner__dates" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Wednesday 7 December | Catalogue Now Live</div><a id="sp-slider-inner-item-1671024569159-num-3-key" target="_blank" rel="noopener noreferrer" class="sppb-sp-slider-button" href="https://www.roseberys.co.uk/fine-decorative/2023-12-07" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'><span class="sp-slider-btn-text">Explore <span class="sp-slider-btn-icon"><i class="fas fa-chevron-right" aria-hidden="true"></i></span></span></a></div></div></div></div><a href="https://www.roseberys.co.uk/fine-decorative/2023-12-07" class="slider_url"><div class="sp-background" style="background-image: url(https://www.roseberys.co.uk/images/2023/11/20/fine-decorative---december-2023-sale---banner.jpg);"></div></a></div><div id="sp-slider-item-1671024569158-num-1-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1671024569160-num-0-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>LIVE AUCTION</div><h1 id="sp-slider-inner-item-1671024569160-num-1-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Silver</h1><div id="sp-slider-inner-item-1671024569160-num-2-key" class="sppb-sp-slider-text banner__dates" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Wednesday 7 December | Catalogue Now Live</div><a id="sp-slider-inner-item-1671024569160-num-3-key" target="_blank" rel="noopener noreferrer" class="sppb-sp-slider-button" href="https://www.roseberys.co.uk/silver/2023-12-07" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'><span class="sp-slider-btn-text">Explore <span class="sp-slider-btn-icon"><i class="fas fa-chevron-right" aria-hidden="true"></i></span></span></a></div></div></div></div><a href="https://www.roseberys.co.uk/silver/2023-12-07" class="slider_url"><div class="sp-background" style="background-image: url(https://www.roseberys.co.uk/images/2023/11/20/silver---december-2023-sale---banner.jpg);"></div></a></div><div id="sp-slider-item-1671024569158-num-2-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1671024569161-num-0-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>LIVE ONLINE-ONLY AUCTION</div><h1 id="sp-slider-inner-item-1671024569161-num-1-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Traditional Home</h1><div id="sp-slider-inner-item-1671024569161-num-2-key" class="sppb-sp-slider-text banner__dates" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Wednesday 13 December | Catalogue Now Live</div><a id="sp-slider-inner-item-1671024569161-num-3-key" target="_blank" rel="noopener noreferrer" class="sppb-sp-slider-button" href="https://www.roseberys.co.uk/silver/2023-12-07" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'><span class="sp-slider-btn-text">Explore <span class="sp-slider-btn-icon"><i class="fas fa-chevron-right" aria-hidden="true"></i></span></span></a></div></div></div></div><a href="https://www.roseberys.co.uk/traditional-home-live-online-only/2023-12-13" class="slider_url"><div class="sp-background" style="background-image: url(https://www.roseberys.co.uk/images/2023/11/28/traditional---december-2023-sale---banner.jpg);"></div></a></div><div id="sp-slider-item-1671024569158-num-3-key" class="sp-item  slider-content-vercally-center"><div class="sppb-container"><div class="sppb-row"><div class="sppb-col-sm-12"><div class="sp-slider-content-align-left"><div id="sp-slider-inner-item-1671024569162-num-0-key" class="sppb-sp-slider-text" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>LIVE ONLINE-ONLY AUCTION</div><h1 id="sp-slider-inner-item-1671024569162-num-1-key" class="sppb-sp-slider-title" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Modern Home</h1><div id="sp-slider-inner-item-1671024569162-num-2-key" class="sppb-sp-slider-text banner__dates" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'>Wednesday 13 December | Catalogue Now Live</div><a id="sp-slider-inner-item-1671024569162-num-3-key" target="_blank" rel="noopener noreferrer" class="sppb-sp-slider-button" href="https://www.roseberys.co.uk/silver/2023-12-07" data-layer="true" data-animation='{"type":"slide","direction":"top","from":"100%", "to":"0%","duration":"0","after":"0", "timing_function":"ease"}'><span class="sp-slider-btn-text">Explore <span class="sp-slider-btn-icon"><i class="fas fa-chevron-right" aria-hidden="true"></i></span></span></a></div></div></div></div><a href="https://www.roseberys.co.uk/modern-home-live-online-only/2023-12-13" class="slider_url"><div class="sp-background" style="background-image: url(https://www.roseberys.co.uk/images/2023/11/28/modern---december-2023-sale---banner.jpg);"></div></a></div></div></div></div></div></div></div><div class="sppb-col-md-3 sppb-col-sm-5" id="column-wrap-id-1671024569159"><div id="column-id-1671024569159" class="sppb-column home__banner__boxes slider-right __" ><div class="sppb-column-addons"><div id="section-id-1671024569162" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1671024569163"><div id="column-id-1671024569163" class="sppb-column " ><div class="sppb-column-overlay"></div><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1680789502409" class="sppb-addon-wrapper"><div id="sppb-addon-1680789502409" class="sppb-hidden-xs clearfix "     ><div class="sppb-addon sppb-addon-articles featured-article-top-right-wrapper "><div class="sppb-addon-content"><div class="sppb-row"><div class="sppb-col-sm-12 col-lg-12"><div class="sppb-addon-article row featured-article"><a class="sppb-article-img-wrap col-12" href="/news/jewellery-take5-dec-2023" itemprop="url"><img class="sppb-img-responsive" src="/images/take_5_-_Kate_Lacey_.jpg" alt="Take 5 With Kate Lacey" itemprop="thumbnailUrl"  loading="lazy"></a><div class="sppb-article-info-wrap col-12 news__featured--right-column"><h2><a href="/news/jewellery-take5-dec-2023" itemprop="url">Take 5 With Kate Lacey</a></h2><a class="sppb-readmore btn-outline" href="/news/jewellery-take5-dec-2023" itemprop="url">Read More</a></div></div></div></div></div></div></div></div><div id="sppb-addon-wrapper-1676939077072" class="sppb-addon-wrapper"><div id="sppb-addon-1676939077072" class="clearfix "     ><div class="sppb-addon sppb-addon-module homepagetakeover"><div class="sppb-addon-content">
+</div></div></div></div></div></div></div></div></div></div><div id="section-id-1675682225949" class="sppb-section banner__bottom--right-image sppb-hidden-xs" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1675682225950"><div id="column-id-1675682225950" class="sppb-column " ><div class="sppb-column-overlay"></div><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1675682225951" class="sppb-addon-wrapper"><div id="sppb-addon-1675682225951" class="clearfix "     ><div class="sppb-addon sppb-addon-header font-p text-light sppb-text-center"><h2 class="sppb-addon-title">Request a Valuation</h2></div></div></div><div id="sppb-addon-wrapper-1675682225952" class="sppb-addon-wrapper"><div id="sppb-addon-1675682225952" class="clearfix "     ><div class="sppb-addon sppb-addon-button-group sppb-text-center"><div class="sppb-addon-content"><a href="/buy-sell/request-a-valuation" id="btn-1675682225952" class="sppb-btn  sppb-btn-custom sppb-btn-sm sppb-btn-rounded sppb-btn-outline">GET STARTED</a></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div id="section-id-1600255251408" class="sppb-section upcoming-auctions-fluid sppb-section-content-center" ><div class="sppb-container-inner"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12 sppp-column-vertical-align" id="column-wrap-id-1600255251407"><div id="column-id-1600255251407" class="sppb-column sppb-align-items-center" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1658829955034" class="sppb-addon-wrapper"><div id="sppb-addon-1658829955034" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+	<div class="row featured-auction-title align-items-center">
+
+					<h2 class="featured-title text-center mb-0 mb-md-3 pb-lg-3 pb-2">Upcoming Auctions</h2>
+			<a href="/upcoming-auctions" class="upcoming__auction--calendar-link">View Calendar<img src="/templates/roseberys/images/icons/view-more-icon.svg"/></a>
+			</div>
+
+	<div class="row mt-3">
+
+							
+			<div class="featured-auction align-items-center mb-4 mb-md-0">
+				<div class="upcoming__auctions--image">
+					<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=514">
+						<img src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/auction_images/large/c3bde988-d26c-ee11-8def-6045bdf1d032/5b4443dd-b687-ee11-817a-6045bdf20d9b.webp" alt="Silver" title="Silver" class="img-fluid">
+					</a>
+
+						
+				</div>
+
+				<div class="upcoming__auctions--content mt-3">
+
+					<div class="upcoming__auctions--inner">
+						<p class="upcoming__auctions--catalogue-live">Catalogue Now Live</p>
+						<h4>
+							<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=514" style="color: #0B0A1D;">Silver</a>
+						</h4>
+						<p class="featured-auction-date mt-2">Thursday 7 December &nbsp; 
+							10:00					    </p>
+					</div>
+				
+										
+					<div class="controls mb-0">
+						
+						<a class="btn pink-outline bid__login--btn mb-2" href="#0" data-toggle="modal" data-target="#loginUserModal">Login To Bid</a><a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=514" title="View Catalogue" class="btn mb-2 pink-outline calendar__catalogue--btn">View Catalogue</a>					</div>
+				</div>
+			</div>
+							
+			<div class="featured-auction align-items-center mb-4 mb-md-0">
+				<div class="upcoming__auctions--image">
+					<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=494">
+						<img src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/auction_images/large/3edcf2ba-8c9e-ed11-b835-d4548b6f1f2f/7b5845ce-a187-ee11-817a-6045bdf20d9b.webp" alt="Fine & Decorative" title="Fine & Decorative" class="img-fluid">
+					</a>
+
+						
+				</div>
+
+				<div class="upcoming__auctions--content mt-3">
+
+					<div class="upcoming__auctions--inner">
+						<p class="upcoming__auctions--catalogue-live">Catalogue Now Live</p>
+						<h4>
+							<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=494" style="color: #0B0A1D;">Fine & Decorative</a>
+						</h4>
+						<p class="featured-auction-date mt-2">Thursday 7 December &nbsp; 
+							13:00					    </p>
+					</div>
+				
+										
+					<div class="controls mb-0">
+						
+						<a class="btn pink-outline bid__login--btn mb-2" href="#0" data-toggle="modal" data-target="#loginUserModal">Login To Bid</a><a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=494" title="View Catalogue" class="btn mb-2 pink-outline calendar__catalogue--btn">View Catalogue</a>					</div>
+				</div>
+			</div>
+							
+			<div class="featured-auction align-items-center mb-4 mb-md-0">
+				<div class="upcoming__auctions--image">
+					<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=495">
+						<img src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/auction_images/large/58dcf2ba-8c9e-ed11-b835-d4548b6f1f2f/799a1cd8-4489-ee11-817a-6045bdf20d9b.webp" alt="Traditional Home: Live Online Only" title="Traditional Home: Live Online Only" class="img-fluid">
+					</a>
+
+						
+				</div>
+
+				<div class="upcoming__auctions--content mt-3">
+
+					<div class="upcoming__auctions--inner">
+						<p class="upcoming__auctions--catalogue-live">Catalogue Now Live</p>
+						<h4>
+							<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=495" style="color: #0B0A1D;">Traditional Home: Live Online Only</a>
+						</h4>
+						<p class="featured-auction-date mt-2">Wednesday 13 December &nbsp; 
+							09:30					    </p>
+					</div>
+				
+										
+					<div class="controls mb-0">
+						
+						<a class="btn pink-outline bid__login--btn mb-2" href="#0" data-toggle="modal" data-target="#loginUserModal">Login To Bid</a><a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=495" title="View Catalogue" class="btn mb-2 pink-outline calendar__catalogue--btn">View Catalogue</a>					</div>
+				</div>
+			</div>
+							
+			<div class="featured-auction align-items-center mb-4 mb-md-0">
+				<div class="upcoming__auctions--image">
+					<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=496">
+						<img src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/auction_images/large/75dcf2ba-8c9e-ed11-b835-d4548b6f1f2f/ee3b9386-1a8d-ee11-817a-7c1e52029282.webp" alt="Modern Home: Live Online Only" title="Modern Home: Live Online Only" class="img-fluid">
+					</a>
+
+						
+				</div>
+
+				<div class="upcoming__auctions--content mt-3">
+
+					<div class="upcoming__auctions--inner">
+						<p class="upcoming__auctions--catalogue-live">Catalogue Now Live</p>
+						<h4>
+							<a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=496" style="color: #0B0A1D;">Modern Home: Live Online Only</a>
+						</h4>
+						<p class="featured-auction-date mt-2">Wednesday 13 December &nbsp; 
+							10:00					    </p>
+					</div>
+				
+										
+					<div class="controls mb-0">
+						
+						<a class="btn pink-outline bid__login--btn mb-2" href="#0" data-toggle="modal" data-target="#loginUserModal">Login To Bid</a><a href="https://www.roseberys.co.uk/index.php?option=com_bidding&view=commission&layout=catalogue&id=496" title="View Catalogue" class="btn mb-2 pink-outline calendar__catalogue--btn">View Catalogue</a>					</div>
+				</div>
+			</div>
+			</div>
+
+<script type="text/javascript">
+	(function() {
+
+		var $ = jQuery.noConflict();
+		$(document).ready(function() {
+
+			$(document).on('click', '.bid__login--btn ', function(e) {
+				e.preventDefault();
+				// Hide the overlay
+				jQuery('#loginUserModal').modal('show');
+			});
+
+		});
+
+		var commissionurl = 'https://www.roseberys.co.uk/index.php?option=com_bidding&format=json&task=commission.';
+		
+		$(".btnRegisterToBidLive").on('click',function (e) {
+			$(this).text("Please wait...");
+			$(this).attr("disabled","disabled");
+			var auction_id = $(this).attr("data-id");
+			// alert(auction_id);
+
+			var task = 'check_bid_live_approval';
+			$.ajax({
+				type: 'POST',
+				url: commissionurl + task,
+				dataType: 'JSON',
+				data: {
+					auction_id:auction_id
+				},
+				success: function(response) {
+					if (response.status) {
+						$("#bid_live_approval_message2").modal('toggle');
+						$("#msg_approval2").text(response.message);
+						
+					} else {
+						$("#bid_live_approval_message2").modal('toggle');
+						$("#msg_approval2").text(response.message);
+					}
+				}
+			}).fail(function(error) {
+				console.log('Error: ' + error.statusText);
+			});
+		});
+	})();
+</script></div></div></div></div></div></div></div></div></div></div><section id="section-id-1667494951298" class="sppb-section home__departments" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1667494951297"><div id="column-id-1667494951297" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925665" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925665" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/departments/single-owner-collections"><img class="sppb-img-responsive" src="/images/2023/01/09/home-dpt1.png"  alt="Roseburys London" title="" width="1046" height="339" /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925692" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925692" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/departments/single-owner-collections">Single Owner Collections</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1668438925657"><div id="column-id-1668438925657" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925668" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925668" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/buy-sell/selling-guide"><img class="sppb-img-responsive" src="/images/2023/02/09/selling-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925698" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925698" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/buy-sell/selling-guide">Selling</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1668438925658"><div id="column-id-1668438925658" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925671" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925671" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/buy-sell/buying-guide"><img class="sppb-img-responsive" src="/images/2023/02/09/buying-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925695" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925695" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/buy-sell/buying-guide">Buying</a></p></div></div></div></div></div></div></div></div></div></section><section id="section-id-1668438925653" class="sppb-section home__departments" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-3" id="column-wrap-id-1668438925638"><div id="column-id-1668438925638" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925674" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925674" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/upcoming-auctions"><img class="sppb-img-responsive" src="/images/2023/02/09/auction-calendar-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925705" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925705" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/upcoming-auctions">Auction Calendar</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-6 sppb-order-sm-1 sppb-order-xs-1" id="column-wrap-id-1668438925659"><div id="column-id-1668438925659" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925677" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925677" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/artistandmakers"><img class="sppb-img-responsive" src="/images/2022/11/17/home-dpt5.png"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925711" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925711" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/artistandmakers">Artists &amp; Makers Guide</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1668438925660"><div id="column-id-1668438925660" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925680" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925680" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/contact-us/meet-the-team"><img class="sppb-img-responsive" src="/images/2023/02/09/the-team-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925708" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925708" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/contact-us/meet-the-team">The Team</a></p></div></div></div></div></div></div></div></div></div></section><section id="section-id-1668438925656" class="sppb-section home__departments" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-3" id="column-wrap-id-1668438925640"><div id="column-id-1668438925640" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925683" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925683" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/auction/archive-auctions"><img class="sppb-img-responsive" src="/images/2023/02/09/auction-results-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925720" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925720" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/auction/archive-auctions">Auction Results</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-3" id="column-wrap-id-1668438925661"><div id="column-id-1668438925661" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925686" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925686" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/departments/all-departments"><img class="sppb-img-responsive" src="/images/2023/02/09/specialist-departments-hp-img.jpg"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925726" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925726" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/departments/all-departments">Specialist Departments</a></p></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1668438925662"><div id="column-id-1668438925662" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925689" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925689" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><a  href="/departments/probate-estates-insurance"><img class="sppb-img-responsive" src="/images/2022/11/17/home-dpt9.png"  alt="Roseburys London" title=""   /></a></div></div></div></div></div><div id="sppb-addon-wrapper-1668438925723" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925723" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-left "><div class="sppb-addon-content"><p class="dpt__titles"><a href="/departments/probate-estates-insurance">PROBATE, ESTATES &amp; INSURANCE VALUATIONS</a></p></div></div></div></div></div></div></div></div></div></section><section id="section-id-1668180678398" class="sppb-section news__title " ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1668180678397"><div id="column-id-1668180678397" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668180678401" class="sppb-addon-wrapper"><div id="sppb-addon-1668180678401" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h2 class="sppb-addon-title">News and Stories</h2></div></div></div><div id="sppb-addon-wrapper-1668180678404" class="sppb-addon-wrapper"><div id="sppb-addon-1668180678404" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><div class="sppb-addon-content"><a href="/news-stories/news">Read more</a><img src="/templates/roseberys/images/icons/arrow-right-pink.png" alt="Read more" /></div></div></div></div></div></div></div></div></div></section><section id="section-id-1643241316761" class="sppb-section featured-articles sppb-section-content-center" ><div class="sppb-row-container"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12" id="column-wrap-id-1643241316762"><div id="column-id-1643241316762" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1675695398657" class="sppb-addon-wrapper"><div id="sppb-addon-1675695398657" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+	<div class="articles__module">
+		<div class="row articles__container">
+
+			
+				
+				<div class="col-12 col-sm-6 col-lg-4 article_listing">
+
+					<div class="article">
+						<div class="article-info-wrap">
+
+							<a class="image" title="Take 5 With Kate Lacey" href="https://www.roseberys.co.uk/index.php?option=com_content&id=815&lang=en&view=article">
+								<!-- <img class="img-fluid img" title="< ?php echo $article->title ?>" src="/< ?php echo JURI::base().$imageUrl ?>" alt="< ?php echo $article->title ?>" />  -->
+								<span class="img-fluid img" title="Take 5 With Kate Lacey" style="background-image: url(https://www.roseberys.co.uk/images/take_5_-_Kate_Lacey_.jpg);"></span>
+							</a>
+
+							<div class="article-meta my-2">
+								<span class="meta-category mb-0">Jewellery</span>
+							</div>
+
+							<h3 class="m-0" style="display:block;">
+								<a href="https://www.roseberys.co.uk/index.php?option=com_content&id=815&lang=en&view=article" title="Take 5 With Kate Lacey">
+									Take 5 With Kate Lacey								</a>
+							</h3>
+
+							<div class="article-meta mt-1 mb-3">
+								<span class="meta-date">01/12/2023</span>
+								<span class="meta-category">Take 5</span>
+							</div>
+
+							<a class="btn-readmore btn pink-outline" href="https://www.roseberys.co.uk/index.php?option=com_content&id=815&lang=en&view=article" title="Read Story">Read Story</a>
+						</div>
+					</div>
+				</div>
+			
+				
+				<div class="col-12 col-sm-6 col-lg-4 article_listing">
+
+					<div class="article">
+						<div class="article-info-wrap">
+
+							<a class="image" title="Take 5 With Katie Watson" href="https://www.roseberys.co.uk/index.php?option=com_content&id=814&lang=en&view=article">
+								<!-- <img class="img-fluid img" title="< ?php echo $article->title ?>" src="/< ?php echo JURI::base().$imageUrl ?>" alt="< ?php echo $article->title ?>" />  -->
+								<span class="img-fluid img" title="Take 5 With Katie Watson" style="background-image: url(https://www.roseberys.co.uk/images/silver-take5-dec-2023_hero_.jpg);"></span>
+							</a>
+
+							<div class="article-meta my-2">
+								<span class="meta-category mb-0">Silver</span>
+							</div>
+
+							<h3 class="m-0" style="display:block;">
+								<a href="https://www.roseberys.co.uk/index.php?option=com_content&id=814&lang=en&view=article" title="Take 5 With Katie Watson">
+									Take 5 With Katie Watson								</a>
+							</h3>
+
+							<div class="article-meta mt-1 mb-3">
+								<span class="meta-date">29/11/2023</span>
+								<span class="meta-category">Take 5</span>
+							</div>
+
+							<a class="btn-readmore btn pink-outline" href="https://www.roseberys.co.uk/index.php?option=com_content&id=814&lang=en&view=article" title="Read Story">Read Story</a>
+						</div>
+					</div>
+				</div>
+			
+				
+				<div class="col-12 col-sm-6 col-lg-4 article_listing">
+
+					<div class="article">
+						<div class="article-info-wrap">
+
+							<a class="image" title="Demystifying Sculpture Techniques and Materials" href="https://www.roseberys.co.uk/index.php?option=com_content&id=813&lang=en&view=article">
+								<!-- <img class="img-fluid img" title="< ?php echo $article->title ?>" src="/< ?php echo JURI::base().$imageUrl ?>" alt="< ?php echo $article->title ?>" />  -->
+								<span class="img-fluid img" title="Demystifying Sculpture Techniques and Materials" style="background-image: url(https://www.roseberys.co.uk/images/Screenshot_2023-11-28_at_144543.png);"></span>
+							</a>
+
+							<div class="article-meta my-2">
+								<span class="meta-category mb-0">Works of Art, Sculpture & Clocks</span>
+							</div>
+
+							<h3 class="m-0" style="display:block;">
+								<a href="https://www.roseberys.co.uk/index.php?option=com_content&id=813&lang=en&view=article" title="Demystifying Sculpture Techniques and Materials">
+									Demystifying Sculpture Techniques and Materials								</a>
+							</h3>
+
+							<div class="article-meta mt-1 mb-3">
+								<span class="meta-date">28/11/2023</span>
+								<span class="meta-category">Collectors Guide</span>
+							</div>
+
+							<a class="btn-readmore btn pink-outline" href="https://www.roseberys.co.uk/index.php?option=com_content&id=813&lang=en&view=article" title="Read Story">Read Story</a>
+						</div>
+					</div>
+				</div>
+					</div>
+	</div>
+</div></div></div></div></div></div></div></div></div></section><section id="section-id-1667494951296" class="sppb-section home__valuation" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-7" id="column-wrap-id-1667494951295"><div id="column-id-1667494951295" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925636" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925636" class="clearfix "     ><div class="sppb-addon sppb-addon-single-image sppb-text-center "><div class="sppb-addon-content"><div class="sppb-addon-single-image-container"><img class="sppb-img-responsive" src="/images/2022/11/14/home-valuation.png"  alt="Start a Valuation" title=""   /></div></div></div></div></div></div></div></div><div class="sppb-col-md-5 sppp-column-vertical-align" id="column-wrap-id-1668438925633"><div id="column-id-1668438925633" class="sppb-column valuation__right--side sppb-align-items-center" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1668438925639" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925639" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h2 class="sppb-addon-title">Start a Valuation</h2></div></div></div><div id="sppb-addon-wrapper-1668438925642" class="sppb-addon-wrapper"><div id="sppb-addon-1668438925642" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p>Get a Complimentary Auction Estimate in 3 Simple Steps<br /><br /></p>
+<ol>
+<li>Enter your contact details</li>
+<li>Provide information about your items</li>
+<li>Upload photographs</li>
+</ol>
+<br />
+<div class="valuation__button"><a title="Start a Valuation" href="/buy-sell/request-a-valuation">Get Started</a></div></div></div></div></div></div></div></div></div></div></section><section id="section-id-1667494951315" class="sppb-section home__buying--heading" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1667494951314"><div id="column-id-1667494951314" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667494951318" class="sppb-addon-wrapper"><div id="sppb-addon-1667494951318" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h2 class="sppb-addon-title">Guides to Buying & Selling</h2></div></div></div></div></div></div></div></div></section><section id="section-id-1667494951287" class="sppb-section home__buying--images" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-6" id="column-wrap-id-1667494951286"><div id="column-id-1667494951286" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667494951291" class="sppb-addon-wrapper"><div id="sppb-addon-1667494951291" class="clearfix "     ><div class="sppb-addon sppb-addon-video "><div class="sppb-video-block sppb-embed-responsive sppb-embed-responsive-16by9"><iframe class="sppb-embed-responsive-item" src="//www.youtube.com/embed/merEZ3SoMFU?iv_load_policy=3&rel=1"  title="YouTube video player" webkitAllowFullScreen mozallowfullscreen allowFullScreen loading="lazy"></iframe></div></div></div></div></div></div></div><div class="sppb-col-md-6" id="column-wrap-id-1667494951288"><div id="column-id-1667494951288" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667494951294" class="sppb-addon-wrapper"><div id="sppb-addon-1667494951294" class="clearfix "     ><div class="sppb-addon sppb-addon-video "><div class="sppb-video-block sppb-embed-responsive sppb-embed-responsive-16by9"><iframe class="sppb-embed-responsive-item" src="//www.youtube.com/embed/DG7udgSJHVI?iv_load_policy=3&rel=1"  title="YouTube video player" webkitAllowFullScreen mozallowfullscreen allowFullScreen loading="lazy"></iframe></div></div></div></div></div></div></div></div></div></section><section id="section-id-1643030083274" class="sppb-section sale-highlights sppb-section-content-center" ><div class="sppb-row-container"><div class="sppb-row sppb-align-center"><div class="sppb-col-md-12" id="column-wrap-id-1643030083275"><div id="column-id-1643030083275" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1643045817695" class="sppb-addon-wrapper"><div id="sppb-addon-1643045817695" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content">
+	<div class="highlights__module--overall">
+		<div class="highlights__header">
+			<h2>Recent Highlights</h2>
+		</div>
+
+		<div class="row sale__lots--container" id="mainAuctionImage">
+
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="A Belle Époque platinum and diamond flexible bracelet, composed of a series of millegrain-set old-brilliant-cut diamond square cluster articulated panels each" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=556937">
+								<img class="img-fluid" alt="A Belle Époque platinum and diamond flexible bracelet, composed of a series of millegrain-set old-brilliant-cut diamond square cluster articulated panels each" title="A Belle Époque platinum and diamond flexible bracelet, composed of a series of millegrain-set old-brilliant-cut diamond square cluster articulated panels each" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/df5400af-976e-ee11-8def-6045bdc14fc8/74ffc0dc-e37e-ee11-817a-00224807754f.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">A Belle Époque platinum and diamond flexible bracelet, composed of a series...</p>
+							<p class="sale__price--realised">Price Realised: £10,496</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="A yellow sapphire and diamond ring, the oval mixed cut yellow sapphire with an estimated weight of approximately 20.50 carats, four claw set to stepped should" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=556933">
+								<img class="img-fluid" alt="A yellow sapphire and diamond ring, the oval mixed cut yellow sapphire with an estimated weight of approximately 20.50 carats, four claw set to stepped should" title="A yellow sapphire and diamond ring, the oval mixed cut yellow sapphire with an estimated weight of approximately 20.50 carats, four claw set to stepped should" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/d007e6bb-4168-ee11-8def-6045bdc134b0/c8dc8b73-037f-ee11-817a-00224807754f.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">A yellow sapphire and diamond ring, the oval mixed cut yellow sapphire with...</p>
+							<p class="sale__price--realised">Price Realised: £18,368</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="A pair of emerald and diamond pendent earrings, each with a pear-shaped emerald drop framed with brilliant- and marquise-cut diamonds, to a diamond line of mar" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=554843">
+								<img class="img-fluid" alt="A pair of emerald and diamond pendent earrings, each with a pear-shaped emerald drop framed with brilliant- and marquise-cut diamonds, to a diamond line of mar" title="A pair of emerald and diamond pendent earrings, each with a pear-shaped emerald drop framed with brilliant- and marquise-cut diamonds, to a diamond line of mar" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/02e77251-8d9e-ed11-b835-d4548b6f1f2f/7c365611-93f8-ed11-8848-6045bdd109e2.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">A pair of emerald and diamond pendent earrings, each with a pear-shaped...</p>
+							<p class="sale__price--realised">Price Realised: £7,872</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="An Art Deco diamond bracelet, designed as articulated pierced panels of brilliant-cut and single-cut diamonds, each framing an old-brilliant-cut diamond, to si" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557316">
+								<img class="img-fluid" alt="An Art Deco diamond bracelet, designed as articulated pierced panels of brilliant-cut and single-cut diamonds, each framing an old-brilliant-cut diamond, to si" title="An Art Deco diamond bracelet, designed as articulated pierced panels of brilliant-cut and single-cut diamonds, each framing an old-brilliant-cut diamond, to si" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/5c2c1f55-d478-ee11-817a-00224807b013/e6fffaee-e37e-ee11-817a-00224807754f.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">An Art Deco diamond bracelet, designed as articulated pierced panels of...</p>
+							<p class="sale__price--realised">Price Realised: £11,152</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="Boucheron. An 18ct gold automatic chronograph bracelet watch Reflet Solis, Reference AL403816, Circa 2000Zenith El primero 400z 31 jewel automatic movement, " href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557693">
+								<img class="img-fluid" alt="Boucheron. An 18ct gold automatic chronograph bracelet watch Reflet Solis, Reference AL403816, Circa 2000Zenith El primero 400z 31 jewel automatic movement, " title="Boucheron. An 18ct gold automatic chronograph bracelet watch Reflet Solis, Reference AL403816, Circa 2000Zenith El primero 400z 31 jewel automatic movement, " src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/e83f925f-8179-ee11-817a-7c1e52029282/0c4b6194-4f85-ee11-817a-6045bdf1d032.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">Boucheron. An 18ct gold automatic chronograph bracelet watch Reflet Solis,...</p>
+							<p class="sale__price--realised">Price Realised: £7,872</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="Sterling Ruby, American b.1972 - Mapping (Maybelline Express Finish Racy Red - Green), 2006; nail polish on plexi, 121 x 121 cmProvenance:with Marc Foxx Gal" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557655">
+								<img class="img-fluid" alt="Sterling Ruby, American b.1972 - Mapping (Maybelline Express Finish Racy Red - Green), 2006; nail polish on plexi, 121 x 121 cmProvenance:with Marc Foxx Gal" title="Sterling Ruby, American b.1972 - Mapping (Maybelline Express Finish Racy Red - Green), 2006; nail polish on plexi, 121 x 121 cmProvenance:with Marc Foxx Gal" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/6c236cc3-3a4b-ee11-be6d-6045bdf19362/7b3b4c06-427e-ee11-817a-00224807754f.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">Sterling Ruby, American b.1972 - Mapping (Maybelline Express Finish Racy...</p>
+							<p class="sale__price--realised">Price Realised: £6,560</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="Sir Grayson Perry CBE RA Hon FRIBA, British b.1960 - I Am A Planet/ I Am The Future/ To Love Me Is/ To Love Your/ Next Life, c.1984; glazed ceramic teapot, " href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557647">
+								<img class="img-fluid" alt="Sir Grayson Perry CBE RA Hon FRIBA, British b.1960 - I Am A Planet/ I Am The Future/ To Love Me Is/ To Love Your/ Next Life, c.1984; glazed ceramic teapot, " title="Sir Grayson Perry CBE RA Hon FRIBA, British b.1960 - I Am A Planet/ I Am The Future/ To Love Me Is/ To Love Your/ Next Life, c.1984; glazed ceramic teapot, " src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/c4e97a26-b753-ee11-be6d-00224840b901/eed40251-6b79-ee11-817a-7c1e52029282.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">Sir Grayson Perry CBE RA Hon FRIBA, British b.1960 - I Am A Planet/ I Am...</p>
+							<p class="sale__price--realised">Price Realised: £19,680</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="Jack Coulter, Irish b. 1994 - Lose Yourself, 2019; oil on canvas, signed to the reverse and dated with stamp to the reverse of the stretcher, 152.2 x 122 cm" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557622">
+								<img class="img-fluid" alt="Jack Coulter, Irish b. 1994 - Lose Yourself, 2019; oil on canvas, signed to the reverse and dated with stamp to the reverse of the stretcher, 152.2 x 122 cm" title="Jack Coulter, Irish b. 1994 - Lose Yourself, 2019; oil on canvas, signed to the reverse and dated with stamp to the reverse of the stretcher, 152.2 x 122 cm" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/f8f6f637-d35e-ee11-8def-6045bdfcba8b/abc168c4-f477-ee11-817a-00224807b013.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">Jack Coulter, Irish b. 1994 - Lose Yourself, 2019; oil on canvas, signed to...</p>
+							<p class="sale__price--realised">Price Realised: £10,496</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="Ben Osawe, Nigerian 1931-2007 - Bust of a woman, 1999; bronze, signed and dated on the reverse 'Osawe 99', H56 x D25 x W29 cm Provenance: Iwalewa Gallery o" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557544">
+								<img class="img-fluid" alt="Ben Osawe, Nigerian 1931-2007 - Bust of a woman, 1999; bronze, signed and dated on the reverse 'Osawe 99', H56 x D25 x W29 cm Provenance: Iwalewa Gallery o" title="Ben Osawe, Nigerian 1931-2007 - Bust of a woman, 1999; bronze, signed and dated on the reverse 'Osawe 99', H56 x D25 x W29 cm Provenance: Iwalewa Gallery o" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/ef03889a-c740-ee11-bdf5-6045bdd21226/b437bd4f-a97c-ee11-817a-00224841a281.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">Ben Osawe, Nigerian 1931-2007 - Bust of a woman, 1999; bronze, signed and...</p>
+							<p class="sale__price--realised">Price Realised: £7,872</p>
+						</div>	
+					</div>
+				</div>
+							<div class="">
+					<div class="lotListing">
+						<div class="sale__image">
+							<a title="El Anatsui, Ghanaian b.1944 - Untitled, 1983; incised wood panels, 5, each approx. 92 x 28 cm; 92 x 147 cm (overall) Provenance: Professor Uche Okeke (1933" href="https://www.roseberys.co.uk/index.php?option=com_bidding&amp;view=commission&layout=details&id=557538">
+								<img class="img-fluid" alt="El Anatsui, Ghanaian b.1944 - Untitled, 1983; incised wood panels, 5, each approx. 92 x 28 cm; 92 x 147 cm (overall) Provenance: Professor Uche Okeke (1933" title="El Anatsui, Ghanaian b.1944 - Untitled, 1983; incised wood panels, 5, each approx. 92 x 28 cm; 92 x 147 cm (overall) Provenance: Professor Uche Okeke (1933" src="https://jm-assets.s3.eu-west-2.amazonaws.com/roseberys/prod/lot_images/medium/0c8a1921-c740-ee11-bdf5-6045bdd21226/231c212d-3f7e-ee11-817a-00224807754f.webp" /> 
+							</a>
+						</div>
+
+						<div class="sale__info">
+							<p class="sale__description">El Anatsui, Ghanaian b.1944 - Untitled, 1983; incised wood panels, 5, each...</p>
+							<p class="sale__price--realised">Price Realised: £26,240</p>
+						</div>	
+					</div>
+				</div>
+					</div>
+	</div>
+	
+
+<script src="https://www.roseberys.co.uk//libraries/vuejs/slick.min.js" language="javascript"></script>
+
+<script type="text/javascript">
+    var high = jQuery.noConflict();
+
+    high(document).ready(function() {
+		// FEATURE IMAGES
+		high('.sale__lots--container').slick({
+			dots: false,
+			infinite: false,
+			arrows: true,
+			autoplay: false,
+			autoplaySpeed: 4000,
+			slidesToShow: 4.5,
+			slidesToScroll: 1,
+
+			responsive: [
+				{
+					breakpoint: 1920,
+					settings: {
+						slidesToShow: 4.5,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 1800,
+					settings: {
+						slidesToShow: 3.8,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 1600,
+					settings: {
+						slidesToShow: 3.8,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 1370,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 1027,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 990,
+					settings: {
+						slidesToShow: 2,
+						slidesToScroll: 1,
+						infinite: true
+					}
+				},
+				{
+					breakpoint: 480,
+					settings: {
+						arrows: true,
+						dots: false,
+						slidesToShow: 1,
+						slidesToScroll: 1
+					}
+				}
+			]
+		});
+    });
+</script>
+</div></div></div></div></div></div></div></div></div></section><section id="section-id-1667494951300" class="sppb-section home__social--heading" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1667494951299"><div id="column-id-1667494951299" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1667494951323" class="sppb-addon-wrapper"><div id="sppb-addon-1667494951323" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block sppb-text-center "><div class="sppb-addon-content"><h2>Follow us on Social Media</h2></div></div></div></div><div id="sppb-addon-wrapper-1675180073935" class="sppb-addon-wrapper"><div id="sppb-addon-1675180073935" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><div class="home__social--media text-center">
+ <ul>
+                    <li><a href="https://uk.linkedin.com/company/roseberys" target="_blank" title="Linkedin"><span class="ss-linkedin"></span></a></li>
+                    <li><a href="https://www.facebook.com/roseberysltd/" target="_blank" title="Facebook"><span class="ss-facebook"></span></a></li>
+                    <li><a href="https://www.instagram.com/roseberysauctioneers/?hl=en" target="_blank" title="Instagram"><span class="ss-instagram"></span></a></li>
+                    <li><a href="https://twitter.com/roseberysltd" target="_blank" title="Twitter"><span class="ss-twitter"></span></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCrPzaq1WXO-58-X2SMoJxbA" target="_blank" title="YouTube"><span class="ss-youtube"></span></a></li>
+                </ul>
+</div></div></div></div></div><div id="sppb-addon-wrapper-1675176677807" class="sppb-addon-wrapper"><div id="sppb-addon-1675176677807" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><!-- LightWidget WIDGET -->
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/135eb0f5659f5183835a93e8dfd901e6.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe></div></div></div></div></div></div></div></div></div></section>
+			</div>
+</div>
+
+
+				
+<style>
+    .invalid-feedback{
+        display: block!important;
+    }
+</style>
+
+<div class="register-wrapper" id="email_signup_right">
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col-12 mb-lg-5" v-if="progression.current === 1">
+				<h3 class="text-white font-p text-center"><img src="/templates/roseberys/images/icons/mail-open-icon.svg" class="pe-1 mt-n1"/>Newsletter Signup</h3>
+			</div>
+			<div class="col-12 mt-4 mb-0" v-if="progression.current === 2">
+				<h3 class="text-center text-white font-p" v-if="registration_for!='email_signup_right'"><img src="/templates/roseberys/images/icons/mail-open-icon.svg" class="pe-1 mt-n1"/>Keyword Alerts</h3>
+            </div>
+        </div>
+    </div>
+
+    <div v-cloak>
+        <div id="step1Container" class="container container--stepcontainer pb-5" v-if="progression.current === 1" >
+            <div class="row">
+                 
+ 
+<div class="email_signup_right__stepOne--container w-100">
+<a class="closeNewsletter" href="javascript:void(0)" onclick="closeNewsletter()"><img src="/templates/roseberys/images/icons/close-x-icon.svg" class=""/></a>
+    <div class="card__ mb-5 mb-lg-0 px-0 px-lg-0">
+            <div class="text-center invalid-feedback" v-if="typeof step1_error !== 'undefined'" v-text="step1_error"></div>
+            
+            <div class="email_signup_right__details">
+                <div class="email_signup_right__box form-group">
+                    <label for="user-email-address" class="emailLabel mb-1">Email:<sup>*</sup></label>
+                    <input name="user_email_address" type="email" v-model="email_signup_right.email"  id="user-email-address" value="" class="form-input form-control w-100" required placeholder="Type your email here" autocomplete="off">
+                    <div class="invalid-feedback" v-if="typeof email_signup_right.email_error !== 'undefined'" v-text="email_signup_right.email_error"></div>
+                </div>
+            </div>
+
+            <div class="registration__interests--container row registration-form--step2 mx-0">
+                <div class="invalid-feedback" v-if="typeof email_signup_right.interests_error !== 'undefined'" v-text="email_signup_right.interests_error"></div>
+                <div class="interests-section interests-section interests-list-inline px-0 form-group mt-3 mb-3">
+                    <label class="form-check-label mb-0">
+                    Select your interests
+                    </label>
+                    <div class="d-flex align-items-center mt-3">
+                        <input type="checkbox" @click='checkAll()' v-model='isCheckAllInterest' class="interests__checkbox form-check-input d-inline-flex mt-0" id="interests-all">
+                        <div class="interests-section__title d-inline-flex">
+                            <label class="mb-0" for="interests-all">
+                                Subscribe to all auctions
+                            </label>
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="d-flex w-100 border-bottom-1 border-white">
+
+                <div class="row">
+                    <div class=" interests-section interests-section interests-list-inline px-0 col-md-6 col-12 d-flex align-items-center mb-2" v-for="(interest,index) in interest_data">
+                        <input type="checkbox" :id="'interest'+index" v-model="email_signup_right.interests" @change='updateCheckall()' :value="interest.name" class="interests__checkbox form-check-input d-inline-flex"/>
+                        <div class="interests-section__title d-inline-flex">
+                            <!-- <p v-html="interest.name"></p> -->
+                            <label :for="'interest'+index" v-html="interest.name" class="form-check-label">
+                            </label>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+
+            
+            
+            <div class="email_signup_right button__container text-center mt-5">    
+                <button type="button" class="btn pink-outline py-2 px-4" @click="checkAndProceed($event)" :disabled="btn_disabled" v-text="btn_disabled?btn_disabled_text:'Save and Continue'"></button>
+            </div>
+    </div>
+</div>
+            </div>
+        </div>
+		<div id="step2Container" class="container container--stepcontainer pb-5" v-if="progression.current === 2" >
+            <div class="row">
+                
+<div class="email_signup_right__stepTwo--container w-100" v-if="!is_already_registered">
+<a class="closeNewsletter" href="javascript:void(0)" onclick="closeNewsletter()"><img src="/templates/roseberys/images/icons/close-x-icon.svg" class=""/></a>
+    <div class="card__ mb-5 mb-lg-0 px-0 px-lg-0">
+        <div class="interests__keywords mt-3">
+            <p class="keyword__info">Would you like to receive personalised keyword alerts when new catalogues go live. If so, please indicate these below</p>
+
+            <div class="keyword__search--input px-0 form-group">
+                <label class="form-check-label mb-0">Add Keywords: (e.g Cartier)</label>
+                <input type="text" v-model="single_keyword" class="form-check-input"/> 
+                <button @click="addKeyword()" class="btn pink-outline btn-sm px-3 addInterestBtn ms-3 mt-1">Add</button>
+                
+                <div class="invalid-feedback" v-if="typeof single_keyword_error !== 'undefined'" v-text="single_keyword_error"></div>
+                <div class="keyword__buttons mt-3">
+                    <a  v-for="keyword in email_signup_right.keywords"   class="btn pink keyword__interest--btn me-3">{{keyword}} <img @click.prevent="removeKeyword(keyword)" src="/templates/roseberys/images/icons/pink-cross.svg" alt="Keyword alerts" class="ps-2"/></a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="password-section">
+            <p class="fw-bold mt-4">Set a password to save your keyword alerts</p>
+        </div>
+
+        <div class="email_signup__password--container w-100 d-flex flex-column">
+            <div class="email_signup__box form-group">
+                <label for="user-password" class="mt-0 mb-0 passwordLabel form-check-label mb-0">Password:<sup>*</sup></label>
+                <p>Passwords are a minimum of 7 characters and must include an upper case letter, a lower case letter, a number and a special character (e.g., !@#$%^&*).</p>
+                
+                <div class="password-input-control">
+                    <input name="password" :type="show_password_data ? 'text': 'password'" v-model="email_signup_right.password" id="user-password" class="form-input" required placeholder="Enter Password">
+                    <div class="invalid-feedback" v-if="typeof email_signup_right.password_error !== 'undefined'" v-text="email_signup_right.password_error"></div>
+
+                    <span v-if="!show_password_data" v-on:click="changePasswordView()">
+                        <button class="btn btn-primary pink-outline btn-changepassworddata">
+                            <i class="fa fa-fw fa-eye"></i>
+                        </button>
+                    </span>
+
+                    <span v-if="show_password_data" v-on:click="changePasswordView()">
+                        <button class="btn btn-primary pink-outline btn-changepassworddata">
+                            <i class="fa fa-fw fa-eye-slash"></i>
+                        </button>
+                    </span>
+
+                </div>
+            </div>
+
+            <div class="email_signup__box form-group">
+                <label for="user-password-confirm" class="mt-3 confirmLabel form-check-label mb-0">Re-Enter Password:<sup>*</sup></label>
+
+                <div class="password-input-control">
+                    <input name="cpassword" :type="show_password_data ? 'text': 'password'" v-model="email_signup_right.confirm_password" id="user-password-confirm" class="form-input" required placeholder="Re-Enter Password" />
+                    <div class="invalid-feedback" v-if="typeof email_signup_right.confirm_password_error !== 'undefined'" v-text="email_signup_right.confirm_password_error"></div>
+
+                    <span v-if="!show_password_data" v-on:click="changePasswordView()">
+                        <button class="btn btn-primary pink-outline btn-changepassworddata">
+                            <i class="fa fa-fw fa-eye"></i>
+                        </button>
+                    </span>
+
+                    <span v-if="show_password_data" v-on:click="changePasswordView()">
+                        <button class="btn btn-primary pink-outline btn-changepassworddata">
+                            <i class="fa fa-fw fa-eye-slash"></i>
+                        </button>
+                    </span>
+                    
+                </div>
+            </div>
+
+        </div>
+
+
+        <div class="newsletter__checkboxes">
+                    
+            <div class="newsletter__box checks__container mt-3 d-flex">
+                <input type="checkbox" id="user_terms_condition" v-model="email_signup_right.terms_and_conditions"  name="user_terms_condition"  class="registration__checks" required>
+                <label for="user_terms_condition" class="registration__terms--info"> I agree to the <span><a href="/terms-conditions" target="_blank">terms and conditions</a></span> and <span><a href="/privacy-policy" target="_blank">privacy policy.</a></span>*</label><br>
+            </div>
+            <div class="invalid-feedback" v-if="typeof email_signup_right.terms_and_conditions_error !== 'undefined'" v-text="email_signup_right.terms_and_conditions_error"></div>
+            
+            <div class="newsletter__box checks__container mt-3 d-flex">
+                <input type="checkbox" id="email_subscribe" name="email_subscribe" v-model="email_signup_right.email_subscribe" value="alerts" class="registration__checks">
+                <label for="email_subscribe" class="registration__terms--info"> I would like to receive news and alerts from Roseberys London</label><br>
+            </div>
+
+        </div>
+
+        <div class="text-center invalid-feedback" v-if="typeof step2_error !== 'undefined'" v-text="step2_error"></div>
+        <div class="email_signup_right button__container mt-5 text-center">
+            <button type="button" class="btn pink-outline py-2 px-3" @click="checkAndProceed($event)" :disabled="btn_disabled" v-text="btn_disabled?btn_disabled_text:'Save and Continue'">Save and Continue</button>
+        </div>
+    </div>
+</div>
+            </div>
+        </div>
+		<div id="step3Container" class="container container--stepcontainer pb-5" v-if="progression.current === 3" >
+            <div class="row">
+                 
+ 
+<div class="email_signup__stepThanks--container w-100 ">
+    <a class="closeNewsletter" href="javascript:void(0)" onclick="closeNewsletter()"><img src="/templates/roseberys/images/icons/close-x-icon.svg" class=""/></a>
+    <div class="card__ mb-5 px-4 px-lg-0 text-center mt-4">
+          
+          <h3 class="font-p mx-lg-5 my-5 text-white" v-if="!lite_account_created">Thank you for signing up for email notifications.</h3>
+          <h3 class="font-p mx-lg-5 my-5 text-white" v-if="lite_account_created">Thank you, your preferences have been saved and a "lite" account has been created for you. Should you wish to buy or sell with Roseberys, please login to create a "full" account.</h3>
+          <a href="https://www.roseberys.co.uk/" class="btn pink-outline me-3">Return to homepage</a>
+          <a v-if="!is_already_registered && !lite_account_created" :href="'https://www.roseberys.co.uk/index.php?option=com_user&view=register&user_id='+user_id" class="btn white">Create an account</a>
+          <a v-if="lite_account_created" :href="'https://www.roseberys.co.uk/index.php?option=com_user&view=login'" class="btn white">Login</a>
+    </div>     
+</div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<script type="text/javascript">
+	var $ = jQuery.noConflict();
+
+	// Initialise Vue
+	window.vm['email_signup_right'] = new Vue({
+		name: 'Email Signup',
+		el: '#email_signup_right',
+		store: window.store,
+		data: {
+			user_id:'',
+			endpoint: 'https://www.roseberys.co.uk/' + 'index.php?option=com_account&format=json&task=',
+            inputValue: '',
+            inputErrors: [],
+			// checkedPreferences: < ?php echo json_encode($userObj->getInterests()); ?> ,
+			personalisedLotAlerts: null,
+            interests:null,
+			// Define the progression
+			progression: {
+				current:1
+			},
+			registration_for:'',
+			interest_data: [
+				{
+					img:"antiquities-interests.png",
+					name:"Antiquities, Islamic & Indian Art"
+				},
+				{
+					img:"ceramics-interests.png",
+					name:"Ceramics & Glass"
+				},
+				{
+					img:"chinese-interests.png",
+					name:"Chinese, Japanese & Southeast Asian Art"
+				},
+				{
+					img:"dec-arts-interests.png",
+					name:"Decorative Arts & Modern Design"
+				},
+				{
+					img:"furniture-interests.png",
+					name:"Furniture & Rugs"
+				},
+				{
+					img:"jewellery-interests.png",
+					name:"Jewellery & Watches"
+				},
+				{
+					img:"modern-british-interests.png",
+					name:"Modern British & 20th Century Art"
+				},
+				{
+					img:"old-master-interests.png",
+					name:"Old Master, British & European Pictures"
+				},
+				{
+					img:"silver-interests.png",
+					name:"Silver"
+				},
+				{
+					img:"sculpture-interests.png",
+					name:"Works of Art, Sculpture & Clocks"
+				},
+				{
+					img:"prints-interests.png",
+					name:"Prints & Multiples"
+				},
+				{
+					img:"prints-interests.png",
+					name:"Probate, Estates & Insurance Valuations"
+				},
+
+
+				// {
+				// 	img:"modern-design-interests.png", // no image
+				// 	name:"Impressionist, Modern, Post War & Contemporary Art"
+				// },
+				// {
+				// 	img:"indian-interests.png",
+				// 	name:"Islamic & Indian Art"
+				// },
+				
+				
+				
+			],
+			single_keyword: '',
+			single_keyword_error: '',
+			isCheckAllInterest: false,
+
+			// Define the registration data
+			email_signup_right: {
+				email: '',
+                interests:[],
+                keywords:[],
+				terms_and_conditions: false,
+				email_subscribe:false,
+			},
+			is_already_registered:false,
+			btn_disabled:false,
+			btn_disabled_text:"Please wait..",
+			is_submit:false,
+			step1_error:'',
+			step2_error:'',
+			show_password_data: false,
+			// Define API
+			apiurl: 'https://www.roseberys.co.uk/index.php?option=com_user&format=json&task=newsletter.',
+			apivurl: 'https://www.roseberys.co.uk/index.php?option=com_user&format=json&task=validate.',
+			apioptions: {emulateJSON: true, dataType: "json", contentType: false, processData: false},
+			lite_account_created:false,
+		},
+
+		created: function () {
+
+		},
+
+		methods: {
+
+			checkAll: function(){
+				this.isCheckAllInterest = !this.isCheckAllInterest;
+				this.email_signup_right.interests = [];
+				if(this.isCheckAllInterest){ // Check all
+					for (var key in this.interest_data) {
+
+						this.email_signup_right.interests.push(this.interest_data[key].name);
+					}
+				}
+			},
+
+			updateCheckall:function(){
+				if(this.email_signup_right.interests.length == this.interest_data.length){
+					this.isCheckAllInterest = true;
+				}else{
+					this.isCheckAllInterest = false;
+				}
+			},
+
+			addKeyword:function(){
+				delete this.single_keyword_error;
+				if(this.single_keyword!==''){
+					this.email_signup_right.keywords.push(this.single_keyword);
+					this.single_keyword = '';
+				}else{
+					this.single_keyword_error = "Please enter keyword";
+				}
+				this.$forceUpdate();
+			},
+
+			removeKeyword:function(keyword){
+				const new_arr = this.email_signup_right.keywords.filter(key => key!==keyword);
+				this.email_signup_right.keywords = new_arr;
+				this.$forceUpdate();
+			},
+
+			checkEmailAvailability: function () {
+
+				this.$forceUpdate();
+				var self = this;
+				// Define query
+				var query = {
+					email: this.email_signup_right.email,
+				};
+
+				// Run request
+				this.$http.post(this.apivurl + 'checkEmailAvailability', query, this.apioptions).then(function (res) {
+					// Check if available
+					if (res.body.status === false) {
+						this.is_already_registered = true;
+						this.$forceUpdate();
+					} else {
+						this.is_already_registered = false;
+					}
+				}).catch(function (err) {
+
+				});
+
+			},
+
+			newsletter_signup: function () {
+				this.is_submit = true;
+				this.btn_disabled = true;
+				 
+				var self = this;
+				// Send the data
+				var query = new FormData();
+				query.append('user_details', JSON.stringify(this.email_signup_right));
+				// Send the request
+				this.$http.post(this.apiurl + 'signup', query, this.apioptions).then(function (res) {
+					// Check request status
+					if (res.body.status==true) {
+						self.is_submit= false;
+						self.btn_disabled = false;
+						if(self.is_already_registered){
+							self.progression.current = 3;
+						}else{
+							self.progression.current = 2;
+						}
+					} else {
+						self.is_submit = false;
+						self.btn_disabled = false;
+                        if ((res.body.message).length >= 0) {
+                            self.step1_error = res.body.message;
+                        }else{
+                            self.step1_error = "There was an error while submitting your choices, please contact the auctioneer to rectify this issue1.";
+                        }
+					}
+				}).catch(function (err) {
+					self.is_submit= false;
+					self.btn_disabled = false;
+					self.step1_error = "There was an error while submitting your choices, please contact the auctioneer to rectify this issue2.";
+				});
+				this.$forceUpdate();
+			},
+
+			createLiteAccount: async function(){
+				var self = this;
+				// Send the data
+				this.btn_disabled = true;
+				var query = new FormData();
+				query.append('user_details', JSON.stringify(this.email_signup_right));
+				// Send the request
+				await this.$http.post(this.apiurl + 'registerLiteAccount', query, this.apioptions).then(function (res) {
+
+					// Check request status
+					if (res.body.status) {
+						self.user_id = res.body.user_id;
+						self.lite_account_created = true;
+						self.progression.current++;
+						self.btn_disabled = false;
+					} else {
+					    self.step2_error = res.body.message;
+						self.btn_disabled = false;
+					}
+				}).catch(function (err) {
+					self.btn_disabled = false;
+				});
+
+				this.$forceUpdate();
+			},
+
+			checkAndProceed: async function () {
+				 
+				// event.preventDefault();
+				switch (this.progression.current) {
+					case 1:
+						// Define failed
+						var failed_validation = false;
+
+						// Check email
+						delete this.email_signup_right.email_error;
+						if (this.email_signup_right.email=='') {
+							failed_validation = true;
+							this.email_signup_right.email_error = 'Please enter email';
+						}
+						var email_validate = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+						if (this.email_signup_right.email!='' && !email_validate.test(this.email_signup_right.email)) {
+							failed_validation = true;
+							this.email_signup_right.email_error = 'Your email address is not valid';
+						}
+
+						delete this.email_signup_right.interests_error;
+                        if (this.email_signup_right.interests.length ===0) {
+                            failed_validation = true;
+                            this.email_signup_right.interests_error = 'Please select any option';
+                        }
+
+						// check email is available or not
+						this.checkEmailAvailability();
+
+						// Check if failed validation
+						if (!failed_validation) {
+							// this.progression.current++;
+							this.newsletter_signup();
+						}
+						window.scrollTo(0, 0);
+						break;
+
+					case 2:
+                        // Define failed
+						var failed_validation = false;
+
+						// delete this.email_signup_right.first_name_error;
+						// if (this.email_signup_right.first_name.length < 2) {
+						// 	failed_validation = true;
+						// 	this.email_signup_right.first_name_error = 'Please enter your first name';
+						// }
+
+						// Check last name
+						// delete this.email_signup_right.last_name_error;
+						// if (this.email_signup_right.last_name.length < 2) {
+						// 	failed_validation = true;
+						// 	this.email_signup_right.last_name_error = 'Please enter your last name';
+						// }
+
+						// delete this.email_signup_right.phone_no_error;
+                        // if (this.email_signup_right.phone_no === '') {
+                        //     failed_validation = true;
+                        //     this.email_signup_right.phone_no_error = 'Please enter phone no';
+                        // }
+
+						// Check email
+						delete this.email_signup_right.email_error;
+						if (this.email_signup_right.email=='') {
+							failed_validation = true;
+							this.email_signup_right.email_error = 'Please enter email';
+						}
+						var email_validate = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+						if (this.email_signup_right.email!='' && !email_validate.test(this.email_signup_right.email)) {
+							failed_validation = true;
+							this.email_signup_right.email_error = 'Your email address is not valid';
+						}
+
+						delete this.email_signup_right.password_error;
+						var password_validate = /^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[#?!@$%^&*-]).{8,}$/;
+						if (!password_validate.test(this.email_signup_right.password)) {
+							failed_validation = true;
+							this.email_signup_right.password_error = 'Your password must contain: an upper case letter, a lower case letter, a number, a special character and must be 8 characters or more';
+						}
+
+						// Check confirm password
+						delete this.email_signup_right.confirm_password_error;
+						if (this.email_signup_right.confirm_password !== this.email_signup_right.password) {
+							failed_validation = true;
+							this.email_signup_right.confirm_password_error = 'Both provided passwords don\'t match';
+						}
+
+						delete this.email_signup_right.terms_and_conditions_error;
+                        if (this.email_signup_right.terms_and_conditions == false) {
+                            failed_validation = true;
+                            this.email_signup_right.terms_and_conditions_error = 'Please accept terms and conditions';
+                        }
+
+                        // Check if failed validation
+                        if (!failed_validation) {
+							await this.createLiteAccount();
+						}
+						window.scrollTo(0, 0);
+                        break; 
+					default:
+					        alert("Wrong Step");
+
+				}
+				 
+				this.$forceUpdate();
+			},
+
+
+
+            updatePref: function(value) {
+
+                this.$http.post(
+                    this.endpoint + 'account.updateEmailPreferences',
+                    {
+                        interests: this.interest_data,
+                    },
+                    {
+                        emulateJSON: true
+                    }
+                ).then(function(response) {
+                    // Handle response
+                    if ( response.data.status ){
+                        console.log('success');
+                    } else {
+                    }
+
+                }, function() {
+                });
+            },
+
+			changePasswordView: function() {							
+				this.show_password_data = !this.show_password_data;			
+			},
+
+		},
+
+		mounted: function () {
+
+		   if(sessionStorage.getItem("newsignup_email")){
+			 this.email_signup_right.email = sessionStorage.getItem("newsignup_email");
+			 sessionStorage.removeItem("newsignup_email")
+		   }
+
+		   if(this.registration_for != "email_signup_right"){
+			  this.progression.current = 1;
+		   }
+
+		},
+	});
+
+</script>
+				<!-- 					<div class="col-12">
+								<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div><div class="facebookfeedpro-feed" data-id="4"></div></div></div>
+		</div>
+	
+					</div>
+				 -->
+			</div>
+
+			<div class="newsletter__container">
+				<a href="javascript:void(0)" onclick="openNewsletter()"><img src="https://www.roseberys.co.uk//templates/roseberys/images/icons/newsletter-icon.svg" alt="Newsletter" />Newsletter</a>
+			</div>
+
+		</div>
+
+		
+		<!-- Footer Container -->
+		<div id="footer" class="container-fluid footer-container">
+			<div class="row mx-0">
+    <div class="footerContainer mt-2 mt-lg-0">
+
+        <!-- Newsletter Signup -->
+        <!-- <div class="row footer__newsletter--container">
+
+            <div class="col-12 col-md-12 col-lg-12 col-xl-12">
+                <div class="row emailSignUp">
+                    <div class="col-12 col-sm-12 col-xl-3 col-lg-3 col-md-3">
+                        <h3 class="mb-1">Newsletter</h3>
+                        <h4 class="mb-0">Never miss out on auction updates</h4>
+                    </div>
+
+                    <div class="col-7 col-sm-7 col-xl-6 col-lg-5 col-md-5">
+                        <form action="#">
+                            <label for="emailAddress" class="sr-only">Email Address <span>*</span></label>
+                            <input type="text" id="email_news_letter" placeholder="Email Address*">
+                        </form>
+                    </div>
+
+                    <div class="col-4 col-sm-4 col-md-4 col-lg-3 col-xl-3">
+                        <button class="footer__signUp--btn" id="newsLetterSignUpClick">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- Footer Info - Columns -->
+        <div class="row footer__info--container">
+
+            <!-- 1st Column - Logo / Contact Details -->
+            <div class="col-md-4 col-lg-4 col-xl-4 footerMenus">
+                <a href="https://www.roseberys.co.uk/" title="Roseberys London"><img src="/templates/roseberys/images/logo-footer.svg" class="footer__logo" alt="Roseberys London" /></a>
+
+                <div class="footer__contactOne">
+                    <p>Tel <a href="tel:+44 (0)20 8761 2522">+44 (0)20 8761 2522</a></p>
+                    <p><a href="mailto:clientservices@roseberys.co.uk">clientservices@roseberys.co.uk</a></p>
+                </div>
+
+                <div class="footer__contactTwo">
+                    <p>Roseberys, 70/76 Knights Hill London</p>
+                    <p>SE27 0JD, United Kingdom</p>
+                </div>
+
+                <div class="footer__contactThree">
+                    <p>Opening Hours Monday - Friday 9.30am - 5pm</p>
+                </div>
+
+                <!-- <div class="footer__socialContainer">
+                    <ul>
+                        <li><a href="https://uk.linkedin.com/company/roseberys" target="_blank" title="Linkedin"><img src="/images/icons/linkedin.png" alt="Linkedin"></a></li>
+                        <li><a href="https://www.facebook.com/roseberysltd/" target="_blank" title="Facebook"><img src="/images/icons/facebook.png" alt="Facebook"></a></li>
+                        <li><a href="https://www.instagram.com/roseberysauctioneers/?hl=en" target="_blank" title="Instagram"><img src="/images/icons/instagram.png" alt="Instagram"></a></li>
+                        <li><a href="https://twitter.com/roseberysltd" target="_blank" title="Twitter"><img src="/images/icons/twitter.png" alt="Twitter"></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCrPzaq1WXO-58-X2SMoJxbA" target="_blank" title="YouTube"><img src="/images/icons/youtube.png" alt="YouTube"></a></li>
+                    </ul>
+                </div> -->
+            </div>
+
+            <!-- 2nd Column - Dummy Column -->
+            <div class="col-3 col-sm-1 col-md-1 col-lg-2 col-xl-3 footerMenus dummyColumn"></div>
+
+            <!-- 3rd Column - Site Links -->
+            <div class="col-6 col-sm-6 col-md-3 col-lg-3 col-xl-3 footerMenus partnerMenu contactCol">
+                <ul>
+                    <li class="footer__column--1-heading">Quick Links</li>
+                    <li><a href="https://www.roseberys.co.uk/" title="Home">Home</a></li>
+                    <li><a href="https://www.roseberys.co.uk/auctions" title="Auctions" alt="Auctions">Auctions</a></li>
+                    <li><a href="https://www.roseberys.co.uk/departments/all-departments" title="Departments">Departments</a></li>
+                    <li><a href="https://www.roseberys.co.uk/valuations/request-a-valuation" title="Valuations">Valuations</a></li>
+                    <li><a href="https://www.roseberys.co.uk/news-stories" title="News">News & Stories</a></li>
+                    <li><a href="https://www.roseberys.co.uk/contact-us/about-us" title="About Us">About</a></li>
+                    <li><a href="https://www.roseberys.co.uk/contact-us/contact-us" title="Contact Us">Contact Us</a></li>
+                </ul>
+            </div>
+
+            <!-- 4th Column - Site links -->
+            <div class="col-6 col-sm-6 col-md-4 col-lg-3 col-xl-2 footerMenus">
+                <ul>
+                    <li class="footer__column--2-heading">Contact</li>
+                    <li><a href="https://www.roseberys.co.uk//contact-us/careers" title="Careers">Careers</a></li>
+                    <!-- <li><a href="/< ?php echo JUri::base(); ?>/faqs" title="Careers">FAQ's</a></li> -->
+                    <li><a href="https://www.roseberys.co.uk/index.php?option=com_account&view=account_details" title="My Account">My Account</a>/li>
+                    <li><a href="https://www.roseberys.co.uk/terms-conditions" title="Terms & Conditions">Terms & Conditions</a></li>
+                    <li><a href="https://www.roseberys.co.uk/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="social__media--row row">
+            <div class="footer__socialContainer col-xl-6 col-lg-6 col-md-4 col-sm-6 col-12">
+                <ul>
+                    <li><a href="https://uk.linkedin.com/company/roseberys" target="_blank" title="Linkedin"><span class="ss-linkedin"></span></a></li>
+                    <li><a href="https://www.facebook.com/roseberysltd/" target="_blank" title="Facebook"><span class="ss-facebook"></span></a></li>
+                    <li><a href="https://www.instagram.com/roseberysauctioneers/?hl=en" target="_blank" title="Instagram"><span class="ss-instagram"></span></a></li>
+                    <li><a href="https://twitter.com/roseberysltd" target="_blank" title="Twitter"><span class="ss-twitter"></span></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCrPzaq1WXO-58-X2SMoJxbA" target="_blank" title="YouTube"><span class="ss-youtube"></span></a></li>
+                </ul>
+            </div>
+
+            <div class="logo__container col-xl-6 col-lg-6 col-md-7 col-sm-6 col-12 row">
+                <a href="https://www.sofaa.org/" target="_blank" class="col-lg-6 col-md-6 col-sm-6 col-12" title="Sofaa"><img src="/templates/roseberys/images/sofaa-logo.png" class="sofaa__logo" alt="Sofaa"></a>
+                <a href="https://www.artloss.com/" target="_blank" class="col-lg-6 col-md-6 col-sm-6 col-12" title="Art Loss Register"><img src="/templates/roseberys/images/art-loss-register.png" class="artLoss__logo" alt="Art Loss Register"></a>
+            </div>
+        </div>
+
+
+
+        <!-- Copyright -->    
+        <div class="row footer__copyright">
+            <p>&copy Copyright 2023 Roseberys All rights reserved</p>
+        </div>
+    </div>
+   </div>
+</div>
+
+ 
+
+<script type="text/javascript">
+    (function() {
+
+        var acc = jQuery.noConflict();
+        // acc(document).on('click', '#newsLetterSignUpClick', function(e) {
+        //     e.preventDefault();
+        //     var email =  acc('#email_news_letter').val();
+        //     var invalid = false;
+
+        //     var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        //     if(email==''){
+        //        invalid = true;
+        //     }
+        //     if(!regex.test(email)){
+        //         invalid = true;
+        //     }else {
+        //         invalid = false;
+        //     }
+        //     if(invalid){
+        //         acc('#messageModal').modal('show');
+        //         acc('#messageModal .modal-body > p').text('Please Insert A valid Email Address');
+        //     }else {
+        //         acc("#newsLetterSignUpClick").text("Please wait..");
+        //         acc("#newsLetterSignUpClick").attr("disabled","disabled");
+        //         sessionStorage.setItem("newsignup_email",email);
+        //         setTimeout(function(){
+        //            window.location.href = "< ?php echo JURI::base() ?>index.php?option=com_user&view=email_signup"  
+        //         },500)
+        //     }
+        // });
+
+        acc("#ribbon_banner_banner .banner-content .bannerCross").on("click", function () {
+            acc("#ribbon_banner_banner").css("display", "none");
+            acc.ajax({
+                type: "GET",
+                url: "https://www.roseberys.co.uk/index.php?option=com_user&task=register.setRibbonAlertCookie&format=json",
+            }).done(function(response) {
+                console.log("set for ribbon banner time -----");
+            }).fail(function(fail_response) {
+                console.log('-- FAIL RESPONSE ()--');
+                console.log(fail_response);
+            }); 
+
+            // reduce margin top after closing the message
+            let headerHeight = document.getElementById('header').offsetHeight;
+            document.getElementById('main-content').style.marginTop = headerHeight + 'px';
+
+        });
+
+        acc("#ribbon_banner_banner_lite_account .banner-content .bannerCross_lite_account").on("click", function () {
+            acc("#ribbon_banner_banner_lite_account").css("display", "none");
+            // place some logic to hide untill next login
+            acc.ajax({
+                type: "POST",
+                url: "https://www.roseberys.co.uk/index.php?option=com_user&task=register.setRibbonLiteAccountCookie&format=json",
+                data:{lastVistDate:''}
+            }).done(function(response) {
+                // console.log("set for ribbon banner time -----");
+            }).fail(function(fail_response) {
+                console.log('-- FAIL RESPONSE ()--');
+                console.log(fail_response);
+            }); 
+        });
+    })();
+
+</script>
+
+
+
+
+		</div>
+
+		<!-- Notifications Manager -->
+		<!-- Notifications Holder -->
+<div class="notifications-container" id="notifications-manager" v-if="getNotifications.length > 0" v-cloak>
+	<ul class="notification-items">
+		<li v-for="(item, index) in getNotifications" class="notification-item" :class="['ntype-' + item.type]">
+			<span class="icon">
+				<i v-if="item.type == 'success'" class="far fa-check-circle"></i>
+				<i v-if="item.type == 'notice'" class="fas fa-info-circle"></i>
+				<i v-if="item.type == 'warning'" class="fas fa-exclamation-triangle"></i>
+				<i v-if="item.type == 'error'" class="fas fa-times"></i>
+			</span>
+			<p class="message" v-text="item.message"></p>
+
+			<span class="close-notification" v-on:click.prevent="closeNotification(item, index)">
+				<i class="fas fa-times"></i>
+			</span>
+		</li>
+	</ul>
+</div>
+
+<!-- Initialise Vue -->
+<script type="text/javascript">
+
+	// Define vue instance
+	window.vm['notifications'] = new Vue({
+		el: '#notifications-manager',
+		name: 'Notifications',
+		store: window.store,
+		computed: {
+			getNotifications: {
+				cache: false,
+				get: function() {
+					var items = JSON.parse(JSON.stringify(this.$store.state.notifications));
+					var len = items.length - 1;
+					var nitems = [];
+					if (items.length <= 3) {
+						return items;
+					} else {
+						nitems.push(items[len]);
+						nitems.push(items[len-1]);
+						nitems.push(items[len-2]);
+						return nitems;
+					}
+				},
+			},
+		},
+
+		methods: {
+			// Removing the notifications if you can click the close icon
+			closeNotification: function() {
+				// Removing the notifications
+				this.$store.state.notifications = [];
+			},
+		}
+	});
+</script>
+
+		<!-- LOGIN MODAL -->
+		<div class="modal fade" id="loginUserModal" tabindex="-1" aria-hidden="true">
+		    <div class="modal-dialog modal-xl">
+		        <div class="modal-content login-container">
+		            <!-- <div class="modal-header">
+		                <h3 class="mt-2 mb-2 text-center w-100">LOGIN/CREATE AN ACCOUNT</h3>
+		                <button type="button" class="close" data-dismiss="modal" aria-label="Close"></button>
+		            </div> -->
+
+		            <div class="modal-body p-0">
+		                <div class="row">
+							<div class="col-12 col-lg-12 d-inline-flex justify-content-center">
+								<img class="img-fluid mb-2 d-flex d-lg-flex" src="/templates/roseberys/images/icons/roseberys-logo-black.svg" alt="Roseberys">
+							</div>
+							<div class="col-12 col-lg-5 d-flex justify-content-center align-items-center">
+								<div class="login-left">
+									<h3 class="text-start">Login to your account</h3>
+									<p>If you have a RoseberysLive account, your username is now your email address.</p>
+									<form id="loginForm" class="needs-validation" novalidate id="loginOverlayForm">
+										<input type="hidden" id="base_url" value="https://www.roseberys.co.uk/">
+										<input type="hidden" id="txt_register_to_bid_live" value="">
+										<div class="form-group mt-3">
+											<label for="login-email">Email Address</label>
+											<input type="text" id="login-email" name="username" class="form-input rounded-2" required placeholder="Email address*" />
+											<div class="invalid-field">
+												Username field is required*
+											</div>
+										</div>
+
+										<div class="form-group mt-2">
+											<label for="user-password" class="mt-3 passwordLabel">Password</label>
+
+											<div class="password-input-control">
+												<input type="password" id="user-password" name="password" class="form-input rounded-2" required placeholder="Password*" />
+												
+												<button class="btn btn-primary pink btn-changepassworddata">
+													<i class="fa fa-fw fa-eye"></i>
+												</button>
+											</div> 
+
+											<div class="invalid-field">
+												Password field is required*
+											</div>
+											
+											<div class="input-container terms-checkbox mt-4">
+												<input type="checkbox" id="termsCheck"/>
+												<label for="termsCheck" class="ms-2">I accept the <a href="https://www.roseberys.co.uk/terms-conditions">terms & conditions</a></label>
+											</div>
+											<div id="acceptTerm" class="d-none" style="color: #CB4E20;">
+												Please accept the terms and conditions
+											</div>
+										</div>
+										<p class="text-left login-error"></p>
+										<button type="submit" id="submitLoginFormBtn" class="btn pink mt-4">LOGIN</button>
+
+										<p class="text-center mt-4">
+											<a class="text-black" href="https://www.roseberys.co.uk/index.php?option=com_user&view=reset" title="Forgotten Password">Forgotten Password?</a>
+										</p>
+									</form>
+									<!-- <p class="medium-text text-gold"><strong>Don't have an account? <a href="/< ?php echo JURI::base() . 'index.php?option=com_user&view=register'; ?>" class="text-gold" title="Create Account">Create Account</a></strong></p> -->
+								</div>
+							</div>
+							<div class="col-12 col-lg-2 login-center d-flex flex-lg-column align-items-center justify-content-evenly py-0 py-lg-3">
+								<span class="vertical-divider my-lg-0"></span>
+								<p class="py-lg-4 px-lg-0 px-3 font-p mb-0">or</p>
+								<span class="vertical-divider my-lg-0"></span>
+							</div>
+							<div class="col-12 col-lg-5 d-flex justify-content-center background-login-right">
+								<div class="login-right">
+									<h3 class="font-p">Register to buy or sell</h3>
+									<p class="medium-text">As a buyer you will be able to register for auctions, leave bids, bid live online, create a wishlist of your favourite lots, sign up for customised keyword email alerts, get preferred recommendations, and view and pay your invoices.</p>
+									<p class="medium-text">As a seller you will be able to easily set up your client account, view all your pre and post sale documents, and select your preferences.</p>
+									<!-- <p class="medium-text">Manage all your activity in one place.</p> -->
+									<p class="text-center text-lg-start mt-4 mt-lg-4">
+										<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=register" class="btn pink-outline" title="Create Account">Create Account</a>
+									</p>
+
+									<hr class="thin-line" style=" border: none; border-top: 2px solid #000;  height: 2px; margin-top:20px">
+                   
+									<p class="medium-text">Alternatively, if you just wish to receive personalised keyword alerts when new catalogues go live, add lots to your wishlist  <span  class="ss-heart favourite heart-shadow d-inline-flex"></span> , and set newsletter preferences create a ‘lite’ account.</p>
+									<!-- <p class="medium-text">Manage all your activity in one place.</p>                     -->
+									<p class="text-center text-lg-start mt-4 mt-lg-4">
+										<a href="https://www.roseberys.co.uk/index.php?option=com_user&view=email_signup&regis_for=lite_account" class="btn pink-outline" title="CREATE LITE ACCOUNT">CREATE LITE ACCOUNT</a>
+									</p>
+								</div>
+							</div>
+
+ 
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+
+
+
+		<!-- MESSAGE MODAL -->
+		<div class="modal fade" id="messageModal" tabindex="-1" aria-hidden="true">
+			<div class="modal-dialog modal-md">
+				<div class="modal-content">
+					<div class="modal-header d-flex justify-content-end p-2">
+						<button type="button" class="close m-0" data-bs-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body p-3 p-sm-4 text-center">
+						<p></p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="modal fade" id="bid_live_approval_message2">
+			<div class="modal-dialog modal-md">
+				<div class="modal-content">
+					<div class="modal-header d-flex justify-content-end">
+						<button type="button" class="close return-lot-details2" data-dismiss="modal" aria-label="Close"></button>
+					</div>
+					<div class="modal-body p-4">
+						<div class="row">
+							<div class="col-12 col-md-8 offset-md-2 text-center">
+
+								<p class="mb-5" id="msg_approval2"></p>
+								<a class="btn pink mb-4 return-lot-details2" data-dismiss="modal" aria-label="Close" >CLOSE</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--  REMIND ME RELATED MODALS  -->
+
+			
+			
+			<!-- Modal - REMIND ME ABOUT THIS SALE -->
+			<div class="overlay-holder overlay-holder--mtt thanks-for-registering-modal" style="display: none;">
+				<div class="overlay" id="remind_me_overlay">
+
+					<div class="row">
+						<div class="overlay__inner col-12">
+							<a href="#" id="mttCloseBtn" class="close pull-right"></a>
+
+							<!-- Overlay Content -->
+							<div class="calendar__remind--container">
+								<h2>Remind me about this sale</h2>
+								<p>Thanks for Registering your interest in this sale, we’ll be in touch when we update the catalogue or release viewing times.</p>
+
+								<div class="button__container">
+									<a href="#" class="btn pink backCatalogue" title="Back to Calendar">Back to Calendar</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Modal - REMIND ME ABOUT THIS SALE - EMAIL ADDRESS-->
+			<div class="overlay-holder overlay-holder--mtt provide-your-email-modal " style="display: none;">
+				<div class="overlay" id="remind_email_overlay">
+
+					<div class="row">
+						<div class="overlay__inner col-12">
+							<a href="#" id="mttCloseBtn" class="close pull-right"></a>
+
+							<!-- Overlay Content -->
+							<div class="calendar__remind--container">
+								<h2>Remind me about this sale</h2>
+								<p>Please enter your email address below, we will send you a notification email when the sale is available to view online.</p>
+								<p class="text-danger email-error" ></p>
+								<div class="email__container">
+									
+									<label>Email Address:<sup>*</sup></label>
+									<input   id="guest-user-email" type="email" />
+									<a href="#" class="remindBtn" title="Back to Calendar">Remind me</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- Modal - CREATE AN ACCOUNT -->
+			<div class="overlay-holder overlay-holder--mtt continue-to-create-account-modal" style="display: none;">
+				<div class="overlay" id="remind_email_overlay">
+
+					<div class="row">
+						<div class="overlay__inner col-12">
+							<a href="#" id="mttCloseBtn" class="close pull-right"></a>
+
+							<!-- Overlay Content -->
+							<div class="calendar__remind--container">
+								<h2>Continue to create an account</h2>
+								<p>Please enter your email address below, we will send you a notification email when the sale is available to view online.</p>
+
+								<div class="button__container">
+									<a href="/upcoming-auctions/upcoming-auctions" title="Return to Calendar" class="btn pink-outline calendarBtn backCatalogue">Return to Calendar</a>
+									<a id="link_createan_account" href="/index.php?option=com_user&view=register" title="Create Account" class="btn pink accountBtn">Create Account</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		
+		 
+
+		<!--  REMIND ME RELATED MODALS ENDSsssss  -->
+		
+		<style type="text/css">
+			.facebookfeedpro-feed .ffp-feed-wrap {
+				display: block;
+				margin: 0 auto;
+			}
+		</style>
+
+		<script type="text/javascript">
+			document.addEventListener("DOMContentLoaded", () => {
+				let headerHeight = document.getElementById('header').offsetHeight;
+				document.getElementById('main-content').style.marginTop = headerHeight + 'px';
+			});
+		</script>
+		<script type="text/javascript">
+			// Setup the header scrolling check function to use with event listeners
+			var headerScroll = function(event) {
+				// Retrieving the scroll Y distance
+				let scrollpos = window.scrollY;
+
+				if (scrollpos >= 150) {
+					document.body.classList.add('scrolled');
+				} else {
+					document.body.classList.remove('scrolled');
+				}
+			};
+
+			// Add our event listeners
+			window.addEventListener('scroll', headerScroll, false);
+			window.addEventListener('touchmove', headerScroll, false);
+		</script>
+
+		<script>
+			// Example starter JavaScript for disabling form submissions if there are invalid fields
+			(function () {
+			'use strict'
+
+			// Fetch all the forms we want to apply custom Bootstrap validation styles to
+			var forms = document.querySelectorAll('.needs-validation')
+
+			// Loop over them and prevent submission
+			Array.prototype.slice.call(forms)
+				.forEach(function (form) {
+				form.addEventListener('submit', function (event) {
+					if (!form.checkValidity()) {
+					event.preventDefault()
+					event.stopPropagation()
+					}
+
+					form.classList.add('was-validated')
+				}, false)
+				})
+			})();
+
+			// Storing the deadline date for consignments
+			var consignLastDate = "";
+			var deadline 		= new Date(consignLastDate);
+
+			function toggleMenu() {
+				var body = document.body;
+				body.classList.toggle("menuToggled");
+				if(body.classList.contains("accountToggled")){
+					body.classList.remove("accountToggled");
+				}
+			}
+			function toggleAccount() {
+				var body = document.body;
+				body.classList.toggle("accountToggled");
+				if(body.classList.contains("menuToggled")){
+					body.classList.remove("menuToggled");
+				}
+			}
+			function theCloser() {
+				var body = document.body;
+				body.classList.remove("menuToggled");
+				body.classList.remove("accountToggled");
+			}
+			function toggleSideBar() {
+				var body = document.body;
+				body.classList.toggle("sideBarOpen");
+			}
+			jQuery(".return-lot-details2").on('click',function(e){
+
+				window.location.reload(true);
+
+			});
+										// Show countdown overlay after 4 seconds
+				function countDown() {
+					var body = document.body;
+
+					setTimeout(function() {
+						body.classList.toggle('countDown');
+					}, 4000);
+				}
+
+				// Hide the countdown overlay
+				function closeCountdown() {
+					var body = document.body;
+
+					body.classList.remove('countDown');
+					sessionStorage.countdownClosed = false;
+				}
+
+				// Open the countdown overlay
+				function openCountdown() {
+
+					if (!sessionStorage.countdownClosed) {
+						countDown();
+					}
+				}
+
+				function checkDates() {
+
+					if (Date.parse(deadline) - Date.parse(new Date()) < 0) {
+						console.log("past");
+					} else {
+						openCountdown();
+						// initializeClock('clockdiv', deadline);
+					}
+				}
+
+				checkDates();
+			
+			// Function to calculate the time remaining from a timestamp given
+			function getTimeRemaining(endtime) {
+				// Working out each unit of time
+				const total = Date.parse(endtime) - Date.parse(new Date());
+				const minutes = Math.floor((total / 1000 / 60) % 60);
+				const hours = Math.floor((total / (1000 * 60 * 60)) % 24);
+				const days = Math.floor(total / (1000 * 60 * 60 * 24));
+
+				return {
+					total,
+					days,
+					hours,
+					minutes
+				};
+			}
+
+			// Function to initialise the countdown timers
+			function initializeClock(id, endtime) {
+				const clock = document.getElementById(id);
+				const daysSpan = clock.querySelector('.days');
+				const hoursSpan = clock.querySelector('.hours');
+				const minutesSpan = clock.querySelector('.minutes');
+
+				// Function to update the countdown
+				function updateClock() {
+					const t = getTimeRemaining(endtime);
+
+					daysSpan.innerHTML = ('0' + t.days).slice(-2);
+					hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
+					minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
+
+					if (t.total <= 0) {
+						clearInterval(timeinterval);
+					}
+				}
+
+				updateClock();
+
+				const timeinterval = setInterval(updateClock, 1000);
+			}
+		</script>
+
+		<script type="text/javascript">
+			(function() {
+
+				var spb = jQuery.noConflict();
+
+				// Detect Safari browser
+				var is_safari = navigator.userAgent.indexOf('Safari') != -1 && navigator.userAgent.indexOf('Chrome') == -1 &&  navigator.userAgent.indexOf('Android') == -1;
+				if (is_safari) {
+					spb('body').addClass('isSafari')
+				}
+
+				//Toggle password login overlay
+				spb('.btn-changepassworddata').click(function(e){
+					e.preventDefault();
+					var target = e.currentTarget
+					spb(target).hasClass('show')?hidePassword(spb(target)):showPassword(spb(target))
+					spb('.btn-changepassworddata i').toggleClass('fa-eye-slash')
+				})
+				function hidePassword(e){
+					e.removeClass('show').addClass('hide')
+					e.prev('input').attr('type','password')
+				}
+				function showPassword(e){
+					e.removeClass('hide').addClass('show')
+					e.prev('input').attr('type','text')
+				}
+
+				// Checking if the window width is lower than 992px
+				if (window.innerWidth < 992) {
+					// On click of the CMS menus on Buying pages
+					spb(document).on('click', '.buying-fixed-menu > ul > li > a', function(e) {
+						e.preventDefault();
+
+						// Removing the open class
+						spb('.buying-fixed-menu > ul, .buying-fixed-menu > .sppb-responsive-bars').removeClass('open');
+					});
+
+					// On click of the CMS menus on Selling pages
+					spb(document).on('click', '.selling-fixed-menu > ul > li > a', function(e) {
+						e.preventDefault();
+
+						// Removing the open class
+						spb('.selling-fixed-menu > ul, .selling-fixed-menu > .sppb-responsive-bars').removeClass('open');
+					});
+				}
+			})();
+		</script>
+		<!-- Linkedin Insight Tag -->
+		<script type="text/javascript"> _linkedin_partner_id = "5022834"; window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || []; window._linkedin_data_partner_ids.push(_linkedin_partner_id); </script><script type="text/javascript"> (function(l) { if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])}; window.lintrk.q=[]} var s = document.getElementsByTagName("script")[0]; var b = document.createElement("script"); b.type = "text/javascript";b.async = true; b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js"; s.parentNode.insertBefore(b, s);})(window.lintrk); </script> <noscript> <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=5022834&fmt=gif" /> </noscript>
+	<script src="/media/com_facebookfeedpro/js/frontend.js?v=3.2.1"></script></body>
+</html>
+

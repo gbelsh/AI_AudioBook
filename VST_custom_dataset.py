@@ -36,6 +36,3 @@ class VSTDataset(Dataset):
         )
 
         return inputs['input_ids'].squeeze(0), inputs['attention_mask'].squeeze(0), image
-
-# Example usage
-# tokenizer =

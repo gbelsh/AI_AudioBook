@@ -269,7 +269,7 @@ h1 {
         'colorSearchButtonText': '#fff'
     };
     </script>
-<script type="text/javascript">var isAdult=false;     var containerNames=[];     var uniqueTrackingID='MTcwMjQzNjg1NS4xNzI2OmE4YzI4YWM0MmVlNDVmNjI2YTY0NzQ5YTY5YWU0YmE4ZDRjYTEyOTY5YWNkZWNiOGRiMjQ2MjNmNGU4NGI4OGM6NjU3OTFmZjcyYTI0MA==';     var search='';     var themedata='fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTFmZjcyYTFmOXx8fDE3MDI0MzY4NTUuMjA4MXxiZDcwN2I4NTc5MjdlMmFiMWE3MmY1OTQ5NGRhYTQ2NTlmMzMyMmZmfHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18M2JiZDMwYzdlMDQ5ZDFhN2ZhM2ZhZDY1MGQxYjcwMWE3YmE5ZjhiNHwwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8';     var domain='elsetge.cat';     var scriptPath='';     var adtest='off'; </script><script type="text/javascript">if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=YjI4ZTk2NjcwZDdmMGUzNzk3MTY5OGM1ZGY3YjJiYjNhYjg2OTk5NSw2NTc5MWZmNzMyY2I4'; } </script><script>
+<script type="text/javascript">var isAdult=false;     var containerNames=[];     var uniqueTrackingID='MTcwMjQ1MDExOC44NjQ3OmFmNzBiYzVhOTBkNmVkNDdiOTc3ZDQ5ZWI3MDdhNmEwOTc1ZWFkMWQxYjFmYzZlMDYyMDkxNjk5ODk4MmJkOTM6NjU3OTUzYzZkMzE4ZQ==';     var search='';     var themedata='fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTUzYzZkMzE0OHx8fDE3MDI0NTAxMTguODg3NnxmNjBkZDIxZTEwMGIxZGFmYjNmNzdjYzdjZjQyYzYwNGVjMTI3YzQ5fHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18MDJkMTA0OTEyZWU5ZTNiNjliM2ZmMjZkNGM3OGFjZjBhZGYxMzVkN3wwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8';     var domain='elsetge.cat';     var scriptPath='';     var adtest='off'; </script><script type="text/javascript">if(top.location!==location) { top.location.href=location.protocol + '//' + location.host + location.pathname + (location.search ? location.search + '&' : '?') + '_xafvr=NjFkZjYzODc1OTkyYTIwNzFjMjFkYTE3Mzk0MDc5ZDM4NDYwNmI4MCw2NTc5NTNjNmQ4YjFh'; } </script><script>
 var pageLoadedCallbackTriggered = false;
 var fallbackTriggered = false;
 var formerCalledArguments = false;
@@ -448,7 +448,7 @@ listenFor1TierResponse();
 
 
 ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&toggle=browserjs&uid=" + encodeURIComponent(uniqueTrackingID));
-</script><script type="text/javascript">x(pageOptions, {resultsPageBaseUrl: '//cpng.elsetge.cat/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTFmZjcyYTFmOXx8fDE3MDI0MzY4NTUuMjA4MnxkZTFjYmUyMDgyMjFmMGUxYTk0MWQyZDI4MzcxYzk5OGM5YzZhNmE5fHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18M2JiZDMwYzdlMDQ5ZDFhN2ZhM2ZhZDY1MGQxYjcwMWE3YmE5ZjhiNHwwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: '000002,bucket011,bucket077', pubId: 'dp-teaminternet09_3ph',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://cpng.elsetge.cat/track.' + 'php?click=caf' + '&domain=elsetge.cat&uid=MTcwMjQzNjg1NS4xNzI2OmE4YzI4YWM0MmVlNDVmNjI2YTY0NzQ5YTY5YWU0YmE4ZDRjYTEyOTY5YWNkZWNiOGRiMjQ2MjNmNGU4NGI4OGM6NjU3OTFmZjcyYTI0MA%3D%3D&ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTFmZjcyYTFmOXx8fDE3MDI0MzY4NTUuMjA4MXxiZDcwN2I4NTc5MjdlMmFiMWE3MmY1OTQ5NGRhYTQ2NTlmMzMyMmZmfHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18M2JiZDMwYzdlMDQ5ZDFhN2ZhM2ZhZDY1MGQxYjcwMWE3YmE5ZjhiNHwwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8&adtest=off' });</script>
+</script><script type="text/javascript">x(pageOptions, {resultsPageBaseUrl: '//cpng.elsetge.cat/?ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTUzYzZkMzE0OHx8fDE3MDI0NTAxMTguODg3N3xjZGI5N2RmYjI2ODE2NTE0Mjc1NTVhODJiZTNkZTgwYzM2NzMwNGRkfHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18MDJkMTA0OTEyZWU5ZTNiNjliM2ZmMjZkNGM3OGFjZjBhZGYxMzVkN3wwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8',hl: 'en',kw: '',terms: '',uiOptimize: true, channel: '000002,bucket011,bucket077', pubId: 'dp-teaminternet09_3ph',adtest: 'off',personalizedAds: false,clicktrackUrl: 'https://cpng.elsetge.cat/track.' + 'php?click=caf' + '&domain=elsetge.cat&uid=MTcwMjQ1MDExOC44NjQ3OmFmNzBiYzVhOTBkNmVkNDdiOTc3ZDQ5ZWI3MDdhNmEwOTc1ZWFkMWQxYjFmYzZlMDYyMDkxNjk5ODk4MmJkOTM6NjU3OTUzYzZkMzE4ZQ%3D%3D&ts=fENsZWFuUGVwcGVybWludEJsYWNrfHw1Y2U4NHxidWNrZXQwMTEsYnVja2V0MDc3fHx8fHx8NjU3OTUzYzZkMzE0OHx8fDE3MDI0NTAxMTguODg3NnxmNjBkZDIxZTEwMGIxZGFmYjNmNzdjYzdjZjQyYzYwNGVjMTI3YzQ5fHx8fHwxfHwwfDB8fHx8MXx8fHx8MHwwfHx8fHx8fHx8fDB8MHx8MHx8fDB8MHxXMTA9fHwxfFcxMD18MDJkMTA0OTEyZWU5ZTNiNjliM2ZmMjZkNGM3OGFjZjBhZGYxMzVkN3wwfGRwLXRlYW1pbnRlcm5ldDA5XzNwaHwwfDB8&adtest=off' });</script>
         <script type="text/javascript">x(pageOptions, [] );</script>
         <script type="text/javascript">x(pageOptions, { domainRegistrant:'as-drid-2558334540730768' } );</script>
         <script type="text/javascript">
@@ -471,10 +471,10 @@ ajaxQuery(scriptPath + "/track.php?domain=" + encodeURIComponent(domain) + "&tog
         }
     }
     
-    xhr.open('GET', path + '/ls.p' + 'hp?t=65791ff7&token=' + encodeURI(token), true);
+    xhr.open('GET', path + '/ls.p' + 'hp?t=657953c6&token=' + encodeURI(token), true);
     xhr.send();
 };
-ls(new XMLHttpRequest(), scriptPath, '3bbd30c7e049d1a7fa3fad650d1b701a7ba9f8b4');</script>
+ls(new XMLHttpRequest(), scriptPath, '02d104912ee9e3b69b3ff26d4c78acf0adf135d7');</script>
 <script type='text/javascript'
         language='JavaScript'>x(pageOptions, { "styleId":1167268112});</script>
 <script type="text/javascript" language="JavaScript">x(pageOptions);

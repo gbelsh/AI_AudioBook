@@ -1,0 +1,668 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+    <head>
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192" href="/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+                <meta name="apple-mobile-web-app-title" content="abdz.do">
+        <link rel="preload" as="font" rel="stylesheet" href="https://use.typekit.net/svx0nzb.css">
+        <link rel="stylesheet" media="all" href="/sites/default/files/css/css_WwzJyLzC5d00sjms45Fqalm0-AcCw2Zzi7W2KcpvgJI.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_R7vmXN-xRMhMV5y50cBgkJvrcVVORg133FpwKfz6BBQ.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+
+        
+        <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#ffffff"
+    }
+  },
+  "type": "opt-out",
+  "content": {
+        "dismiss": "Okay",
+        "deny": "",
+        "href": "https://abduzeedo.com/terms-service-and-privacy-policy",
+    },
+})});
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YV82GR1HD5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YV82GR1HD5');
+</script>        <meta charset="utf-8" />
+<meta name="description" content="abdz. is a collective of individual writers sharing articles about design, photography, and UX as well as tutorials for Photoshop and other tools" />
+<meta name="abstract" content="Collection of design and photography articles, plus Photoshop tutorials and other tools" />
+<meta name="keywords" content="design inspiration, design articles, photoshop tutorials, UI/UX" />
+<link rel="canonical" href="https://abduzeedo.com/" />
+<meta http-equiv="content-language" content="en" />
+<link rel="shortlink" href="https://abduzeedo.com/" />
+<meta name="robots" content="index, follow" />
+<meta name="news_keywords" content="design inspiration, design articles, photoshop tutorials, UI/UX" />
+<meta name="standout" content="design inspiration, design articles, photoshop tutorials, UI/UX" />
+<meta name="generator" content="Drupal 8.2" />
+<link rel="image_src" href="https://abduzeedo.com/android-icon-192x192.png" />
+<meta name="original-source" content="https://abduzeedo.com/" />
+<meta name="google" content="Uhed6mKjyuWBeQoB_kmdqgr65D6nZHlYn-vdQm8KvRU" />
+<meta name="referrer" content="no-referrer" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon_4.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Featured Content" href="https://abduzeedo.com/rss.xml" />
+
+        <title>abdz - Have you given up on being inspired?</title>
+    </head>
+    <body class="path-frontpage context-node">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+            Skip to main content
+        </a>
+        
+          <section class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<header	role="banner">
+								  <div id="block-abdz15-branding" class="block block-system block-system-branding-block">
+    
+        
+          <div class="site-name">
+      <a href="/" title="Home" rel="home">abdz.do</a>
+    </div>
+      </div>
+  
+				
+	<span class="close_menu"></span>
+</header>
+<menu id="sidebar">
+  <div class="content">
+						              
+              <ul class="submenu-collections">
+              <li>
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active">Home</a>
+              </li>
+          <li>
+        <a href="/tags/3d" data-drupal-link-system-path="taxonomy/term/12306">3d</a>
+              </li>
+          <li>
+        <a href="/tags/branding" data-drupal-link-system-path="taxonomy/term/12988">Branding</a>
+              </li>
+          <li>
+        <a href="/tags/editorial-design" data-drupal-link-system-path="taxonomy/term/13745">Editorial Design</a>
+              </li>
+          <li>
+        <a href="/tags/graphic-design" data-drupal-link-system-path="taxonomy/term/12332">graphic design</a>
+              </li>
+          <li>
+        <a href="/tags/illustration" data-drupal-link-system-path="taxonomy/term/12325">Illustration</a>
+              </li>
+          <li>
+        <a href="/tutorial" data-drupal-link-system-path="taxonomy/term/12326">Tutorials</a>
+              </li>
+          <li>
+        <a href="/tags/typography" data-drupal-link-system-path="taxonomy/term/12345">typography</a>
+              </li>
+          <li>
+        <a href="/tags/ux" data-drupal-link-system-path="taxonomy/term/15265">UI/UX</a>
+              </li>
+        </ul>
+  
+
+    <div class="top-search">
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  	<div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+  
+      
+    <label for="edit-keys" class="visually-hidden">Search</label>
+  
+  
+  
+      <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" placeholder="Search"/>
+
+          
+</div>
+<input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+
+</form>
+
+  </div>
+              
+              <ul class="menu-main">
+              <li>
+        <a href="/abduzeedo-premium-no-ads-just-inspiration" data-drupal-link-system-path="node/87505">Remove ads</a>
+              </li>
+          <li>
+        <a href="https://apps.apple.com/us/app/abdz-do/id1555948560" title="Download abdz.do native iOS app from the App Store">Get iOS App</a>
+              </li>
+          <li>
+        <a href="/submit-content" data-drupal-link-system-path="node/86955">Get featured</a>
+              </li>
+          <li>
+        <a href="/about" data-drupal-link-system-path="node/3">about</a>
+              </li>
+        </ul>
+  
+
+
+    
+		
+			<footer role="contentinfo">
+								  <div id="block-abdz15-credits" class="block block-block-content block-block-contenta53c0116-abb2-485b-918e-1822651cb948">
+    
+        
+                            <div class="credits"><span>Since 2006 — Steale LLC</span></div>
+
+<ul class="social-links"><li class="field--name-field-tw"><a href="http://twitter.com/abduzeedo">tw</a></li>
+	<li class="field--name-field-facebook"><a href="https://www.linkedin.com/company/abdz">in</a></li>
+	<li class="field--name-field-instagram"><a href="http://instagram.com/abduzeedo">ig</a></li>
+	<li class="field--name-field-behance"><a href="http://behance.com/abduzeedo">Bē</a></li>
+</ul>
+            
+      </div>
+  
+		
+		</footer>
+	  </div>
+</menu>
+<main role="main">
+	<span id="main-content" tabindex="-1"></span>
+
+	
+
+						<div data-drupal-messages-fallback class="hidden"></div>
+
+		
+
+	
+
+						  <div id="block-abdz15-page-title" class="block block-core block-page-title-block">
+    
+        
+          
+
+
+      </div>
+                  
+  
+  
+
+  
+  
+  
+
+  <section class="posts">
+    <h4>Recent posts</h4>
+    				        
+
+			
+							<article class="post-item post-item-0 "><span><div class="meta_tags">
+<h1>
+01. <a href="/moteks-redefined-branding-identity-precision-meets-modern-design" hreflang="en">Motek&#039;s Redefined Branding &amp; Identity : Precision Meets Modern Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/moteks-redefined-branding-identity-precision-meets-modern-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_motek.jpg.webp?itok=3sd53Z73" width="1600" height="1600" alt="Motek&#039;s Redefined Branding and Visual Identity : Precision Meets Modern Design" title="Motek&#039;s Redefined Branding and Visual Identity : Precision Meets Modern Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-1 "><span><div class="meta_tags">
+<h1>
+02. <a href="/recreio-captivating-branding-everyday-moments" hreflang="en">Recreio: Captivating Branding in Everyday Moments</a></h1>
+</div>
+<div class="hero_image">
+<a href="/recreio-captivating-branding-everyday-moments">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_recreio.png.webp?itok=BtJGl2yH" width="1600" height="1600" alt="Recreio: Captivating Branding in Everyday Moments" title="Recreio: Captivating Branding in Everyday Moments" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-ad">  <div id="block-abdz15-adsensetop" class="block block-block-content block-block-contentc4d804e0-3cfc-4768-839e-2c08f5e306e6">
+    
+        
+                            <!-- feed1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:calc(100%);min-height:360px; margin: 64px 0; "
+     data-ad-client="ca-pub-7715786646668436"
+     data-ad-slot="5453736222"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            
+      </div>
+  </article>
+				<article class="post-item post-item-2 "><span><div class="meta_tags">
+<h1>
+03. <a href="/revolutionizing-branding-corstims-visual-identity-journey" hreflang="en">Revolutionizing Branding: CorStim&#039;s Visual Identity Journey</a></h1>
+</div>
+<div class="hero_image">
+<a href="/revolutionizing-branding-corstims-visual-identity-journey">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_corstim.png.webp?itok=Rj1QfA8_" width="1600" height="1600" alt="Revolutionizing Branding: CorStim&#039;s Visual Identity Journey" title="Revolutionizing Branding: CorStim&#039;s Visual Identity Journey" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-3 "><span><div class="meta_tags">
+<h1>
+04. <a href="/homnay-beauty-revolutionizing-skincare-branding-packaging-design" hreflang="en">hômnay beauty: Revolutionizing Skincare Branding + packaging design </a></h1>
+</div>
+<div class="hero_image">
+<a href="/homnay-beauty-revolutionizing-skincare-branding-packaging-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_homnay.jpg.webp?itok=98sm9J1n" width="1600" height="1600" alt="hômnay beauty: Revolutionizing Skincare Branding + packaging design " title="hômnay beauty: Revolutionizing Skincare Branding + packaging design " typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-4 "><span><div class="meta_tags">
+<h1>
+05. <a href="/monobotics-branding-revolutionizing-smes-ai-design" hreflang="en">Monobotics Branding: Revolutionizing SMEs with AI Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/monobotics-branding-revolutionizing-smes-ai-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_monobotics.jpg.webp?itok=kLEJht14" width="1600" height="1600" alt="Monobotics Branding: Revolutionizing SMEs with AI Design" title="Monobotics Branding: Revolutionizing SMEs with AI Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-5 "><span><div class="meta_tags">
+<h1>
+06. <a href="/ds-creatives-distinctive-branding-identity-design" hreflang="en">DS Creative&#039;s Distinctive Branding &amp; Identity Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/ds-creatives-distinctive-branding-identity-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_ds.png.webp?itok=gAk_yUaa" width="1600" height="1600" alt="DS Creative&#039;s Distinctive Branding &amp; Identity Design" title="DS Creative&#039;s Distinctive Branding &amp; Identity Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-ad">   <div id="block-abdz15-adsensemiddle" class="block block-block-content block-block-contenta443a178-96d1-4ca8-9a0a-5b6b49a48cb0">
+    
+        
+                            <!-- feed2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:calc(100%);min-height:360px; margin: 64px 0;  "
+     data-ad-client="ca-pub-7715786646668436"
+     data-ad-slot="1996146446"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            
+      </div>
+   </article>
+				<article class="post-item post-item-6 "><span><div class="meta_tags">
+<h1>
+07. <a href="/studio-baass-crafting-unique-branding-and-identity" hreflang="en">Studio BAASS: Crafting a Unique Branding and Identity</a></h1>
+</div>
+<div class="hero_image">
+<a href="/studio-baass-crafting-unique-branding-and-identity">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_%20baass.jpg.webp?itok=cH8LGpZb" width="1600" height="1600" alt="Studio BAASS: Crafting a Unique Branding and Identity" title="Studio BAASS: Crafting a Unique Branding and Identity" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-7 "><span><div class="meta_tags">
+<h1>
+08. <a href="/widelabs-innovative-rebrand-new-chapter-branding-and-web-design" hreflang="en">Widelab&#039;s Innovative Rebrand: A New Chapter in Branding and Web Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/widelabs-innovative-rebrand-new-chapter-branding-and-web-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_wide.png.webp?itok=KaGTl24x" width="1600" height="1600" alt="Widelab&#039;s Innovative Rebrand: A New Chapter in Branding and Web Design" title="Widelab&#039;s Innovative Rebrand: A New Chapter in Branding and Web Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-8 "><span><div class="meta_tags">
+<h1>
+09. <a href="/senac-minimalist-approach-branding-and-visual-identity" hreflang="en">Senac: A Minimalist Approach to Branding and Visual Identity</a></h1>
+</div>
+<div class="hero_image">
+<a href="/senac-minimalist-approach-branding-and-visual-identity">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_senac.jpg.webp?itok=U3Z0gfIq" width="1084" height="1084" alt="Senac Rebrand: A Minimalist Approach to Branding and Visual Identity" title="Senac Rebrand: A Minimalist Approach to Branding and Visual Identity" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-9 "><span><div class="meta_tags">
+<h1>
+010. <a href="/trinkery-branding-and-visual-identity" hreflang="en">Trinkery: Branding and Visual Identity</a></h1>
+</div>
+<div class="hero_image">
+<a href="/trinkery-branding-and-visual-identity">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_trinkery.jpg.webp?itok=tdxFlsU5" width="959" height="959" alt="Trinkery: Branding and Visual Identity" title="Trinkery: Branding and Visual Identity" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-ad">   <div id="block-abdz15-adsensebottom" class="block block-block-content block-block-content17590768-1df1-49b8-a081-f56d58b67145">
+    
+        
+                            <!-- feed3 -->
+<ins class="adsbygoogle"
+    style="display:inline-block;width:calc(100%);min-height:360px; margin: 64px 0; "
+     data-ad-client="ca-pub-7715786646668436"
+     data-ad-slot="7084821590"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+            
+      </div>
+   </article>
+				<article class="post-item post-item-10 "><span><div class="meta_tags">
+<h1>
+011. <a href="/qinvs-innovative-branding-study-visual-identity" hreflang="en">QINV&#039;s Innovative Branding: A Study in Visual Identity</a></h1>
+</div>
+<div class="hero_image">
+<a href="/qinvs-innovative-branding-study-visual-identity">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_qinv.jpg.webp?itok=qHr2cqVQ" width="1400" height="1400" alt="QINV&#039;s Innovative Branding: A Study in Visual Identity" title="QINV&#039;s Innovative Branding: A Study in Visual Identity" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-11 "><span><div class="meta_tags">
+<h1>
+012. <a href="/cut-color-fresh-branding-and-visual-identity-studio-20four" hreflang="en">Cut &amp; Color: A Fresh Branding and Visual Identity by Studio 20four</a></h1>
+</div>
+<div class="hero_image">
+<a href="/cut-color-fresh-branding-and-visual-identity-studio-20four">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/PSX_20231206_110120.jpg.webp?itok=9HYnSyoM" width="933" height="933" alt="Cut &amp; Color: A Fresh Branding and Visual Identity by Studio 20four" title="Cut &amp; Color: A Fresh Branding and Visual Identity by Studio 20four" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-12 "><span><div class="meta_tags">
+<h1>
+013. <a href="/cade-publishing-redefining-artistic-branding-vietnam" hreflang="en">CADÉ Publishing: Redefining Artistic Branding in Vietnam</a></h1>
+</div>
+<div class="hero_image">
+<a href="/cade-publishing-redefining-artistic-branding-vietnam">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_cade.jpg.webp?itok=gq0zir47" width="934" height="934" alt="CADÉ Publishing: Redefining Artistic Branding in Vietnam" title="CADÉ Publishing: Redefining Artistic Branding in Vietnam" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-13 "><span><div class="meta_tags">
+<h1>
+014. <a href="/void-lounge-chair-fusion-form-and-function-industrial-design" hreflang="en">Void Lounge Chair: A Fusion of Form and Function in Industrial Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/void-lounge-chair-fusion-form-and-function-industrial-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_void-chair.jpg.webp?itok=Qz3Pm3FK" width="1400" height="1400" alt="Void Lounge Chair: A Fusion of Form and Function in Industrial Design" title="Void Lounge Chair: A Fusion of Form and Function in Industrial Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-14 "><span><div class="meta_tags">
+<h1>
+015. <a href="/node/88192" hreflang="en">Vibrant 3D dystopian art: exploring Prateek Vatash&#039;s digital art</a></h1>
+</div>
+<div class="hero_image">
+<a href="/node/88192">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/a5dbbb185614173.6566efcb191c0%20%281%29.jpg.webp?itok=sDUk2QEf" width="1400" height="1620" alt="Vibrant 3D dystopian art: exploring Prateek Vatash&#039;s digital art" title="Vibrant 3D dystopian art: exploring Prateek Vatash&#039;s digital art" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-15 "><span><div class="meta_tags">
+<h1>
+016. <a href="/continuous-elegance-rafael-serra-inspiring-lettering-series-inspiration" hreflang="en">Continuous elegance: Rafael Serra&#039;s inspiring lettering series for our inspiration</a></h1>
+</div>
+<div class="hero_image">
+<a href="/continuous-elegance-rafael-serra-inspiring-lettering-series-inspiration">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/1e3068183220707.653b8d2673159_0.png.webp?itok=xdRl9lER" width="1240" height="1240" alt="Continuous elegance: Rafael Serra&#039;s inspiring lettering series for our inspiration" title="Continuous elegance: Rafael Serra&#039;s inspiring lettering series for our inspiration" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-16 "><span><div class="meta_tags">
+<h1>
+017. <a href="/trions-innovative-branding-study-minimalism" hreflang="en">Trion&#039;s Innovative Branding: A Study in Minimalism</a></h1>
+</div>
+<div class="hero_image">
+<a href="/trions-innovative-branding-study-minimalism">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_trion.jpg.webp?itok=aEnZD4_X" width="959" height="959" alt="Trion&#039;s Innovative Branding: A Study in Minimalism" title="Trion&#039;s Innovative Branding: A Study in Minimalism" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-17 "><span><div class="meta_tags">
+<h1>
+018. <a href="/solara-realtys-new-era-numinous-brand-identity-mastery" hreflang="en">Solara Realty&#039;s New Era: Numinous&#039; Brand Identity Mastery</a></h1>
+</div>
+<div class="hero_image">
+<a href="/solara-realtys-new-era-numinous-brand-identity-mastery">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_solara.jpg.webp?itok=fOrzCrr1" width="807" height="807" alt="Solara Realty&#039;s New Era: Numinous&#039; Brand Identity Mastery" title="Solara Realty&#039;s New Era: Numinous&#039; Brand Identity Mastery" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-18 "><span><div class="meta_tags">
+<h1>
+019. <a href="/ama-study-branding-and-visual-identity-design" hreflang="en">AMA: A Study in Branding and Visual Identity Design</a></h1>
+</div>
+<div class="hero_image">
+<a href="/ama-study-branding-and-visual-identity-design">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_ama.jpg.webp?itok=td0an_iI" width="596" height="596" alt="AMA: A Study in Branding and Visual Identity Design" title="AMA: A Study in Branding and Visual Identity Design" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    				        
+
+			
+							<article class="post-item post-item-19 "><span><div class="meta_tags">
+<h1>
+020. <a href="/innovative-editorial-design-placebo-studios-masterpiece" hreflang="en">Innovative Editorial Design: Placebo Studio&#039;s Masterpiece</a></h1>
+</div>
+<div class="hero_image">
+<a href="/innovative-editorial-design-placebo-studios-masterpiece">  <img loading="lazy" src="/sites/default/files/styles/max_2600x2600/public/originals/hero_cc.jpg.webp?itok=ys1tqob5" width="934" height="934" alt="Innovative Editorial Design: Placebo Studio&#039;s Masterpiece" title="Innovative Editorial Design: Placebo Studio&#039;s Masterpiece" typeof="Image" />
+
+
+</a>
+</div></span></article>	
+			 
+
+		
+
+        
+    </section>
+  
+    <nav class="pager" role="navigation" aria-labelledby="pagination-heading">
+        <ul class="pager__items js-pager__items">
+                    <li class="pager__item is-active">
+          01.        </li>
+                    <li class="pager__item pager__item--next">
+          <a href="/node?page=1" title="Go to next page" rel="next">
+            <span class="visually-hidden">Next page</span>
+            <span aria-hidden="true">Next</span>
+          </a>
+        </li>
+          </ul>
+  </nav>
+
+
+  
+  
+
+  
+  <a href="https://abduzeedo.com/rss.xml" class="feed-icon">
+  Subscribe to Featured Content
+</a>
+
+
+
+      <div id="block-googleadsensecode" class="block block-block-content block-block-content1e2ecfc3-9af2-428d-ae25-a80d7200378b">
+    
+        
+                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7715786646668436"
+     crossorigin="anonymous"></script>
+            
+      </div>
+  
+		
+</main>
+
+  </section>
+
+        
+        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"abdz15\/global-styling,ajax_loader\/ajax_loader.throbber,classy\/base,classy\/messages,core\/normalize,system\/base,views\/views.module","theme":"abdz15","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-flow\u0022\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-flow-dot\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":true,"throbberPosition":"body"},"user":{"uid":0,"permissionsHash":"2613d6623449dda5e4fc5cdcee5b4b446a635272ce8954ceb5765ebf4a94efbe"}}</script>
+<script src="/sites/default/files/js/js_R6_PMYyjlodJL8xaRhIOZ63hW3e06RVwAlx0o8prlxY.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.8.0/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
+
+    </body>
+</html>

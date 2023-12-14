@@ -1,0 +1,343 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="description" content="Welcome to our site, OurTripVideos. Privacy.">
+<meta name="keywords" content="OurTripVideos, page not found">
+<title>Page not found - OurTripVideos</title>
+<meta name="author" content="OurTripVideos">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<meta name="google-translate-customization" content="fcc5791281f11345-36140da4da663267-g6a8bb25740d4e9bd-15"></meta>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+<link href="/css/ourtripvideos.css" rel="stylesheet">
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TN3L65M');</script>
+
+<style>
+	.bgcolgrey {
+		background-color:#F8F8F8; /* E7E7E7*/
+	}
+	html, body {
+		/*font-family: Verdana,sans-serif;*/
+		font-family: 'Open Sans' , "Helvetica Neue" ,Helvetica,Arial,sans-serif;
+		/*font-size: 15px;
+		//line-height: 1.5;*/
+	}
+                 
+	</style>
+</head>
+<body class="bg-secondary">
+
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TN3L65M"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+
+<script>
+var days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sept','Oct','Nov','Dec'];
+var x = new Date();var day = days[ x.getDay() ];var month = months[ x.getMonth() ];
+var x1=  x.getDate() + "-" + month  + "-" + x.getFullYear(); 
+//x1 = x1 + " " +  x.getHours( )+ ":" +  x.getMinutes() + ":" +  x.getSeconds();
+x1 = x1 + " " +  x.getHours( )+ ":" +  x.getMinutes();
+document.getElementById('ct').innerHTML = day + " " + x1;   
+</script>
+<div class="container">
+<div class="row border-bottom shadow">
+<nav class="navbar sticky-top w-100 navbar-expand-lg navbar-light bg-white justify-content-between   border-secondary" id="topnavbar">
+<a class="navbar-brand" href="/default.php" title="Ourtripvideos Home"><img width="25" height="25" src="/favicon.png" alt="Ourtripvideos logo" title="Ourtripvideos logo" class="d-inline-block align-top">&nbsp;OurTripVideos</a>
+<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="navbar-nav mr-auto">
+<li class="nav-item"><a class="nav-link" href="/videoslatest.php" title="Latest Pictures/Videos  - Filter by City/ Catg/ Title/ State/ Country/ Year/ Type">Latest</a></li>
+<li class="nav-item"><a class="nav-link" href="/videomap.php" title="Find Pictures/Videos on Google Map">Map</a></li>
+<li class="nav-item"><a class="nav-link" href="/videobystates.php" title="Find Pictures/Videos by State/Country">State</a></li>
+<li class="nav-item"><a class="nav-link" href="/videobycity.php" title="Find Pictures/Videos by City/State">City</a></li>
+<li class="nav-item"><a class="nav-link" href="/videobyweek.php" title="Find Pictures/Videos by Current and Next Week from past years">Week</a></li>
+<li class="nav-item"><a class="nav-link" href="/videobycatg.php" title="Find Pictures/Videos by Category">Catg</a></li>
+
+<li class="nav-item"><a class="nav-link" href="/upcoming.php" title="Upcoming events/trips">Upcoming</a></li>
+<li class="nav-item dropdown   ">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" title="Top Views">Views</a>
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" class="nav-item" href="/websiteviews.php" title="Top views of the website - Filter by Year/ Month/ Type - Order Date / Views">Website</a>
+<a class="dropdown-item" class="nav-item" href="/youtubelist.php" title="Top views of YouTube / Latest YouTube Videos">Youtube</a>
+</div>
+</li>
+</ul>
+<form class="form-inline my-2 my-lg-0" method="GET" action="/searchg.php" role="search">
+<input type="search" class="form-control-sm mr-sm-2" placeholder="Search" aria-label="Search" id="txtsearch" name="txtsearch">
+<button type="submit" class="btn btn-outline-success btn-sm my-2 my-sm-0" title="Search website"><i class="fa fa-search"></i></button>
+</form>
+</div>
+</nav></div></div>
+<div class="container">
+
+<div class="row bg-white shadow">
+<div class="col-md-9">
+<h5 class="mt-2">Page not found</h5>
+<br>
+Thank you for visiting our Web site. You tried to reach the following page < > on our site. <br><br>
+<div class="alert alert-danger" role="alert">
+Sorry, the requested <strong>Page not found (404 error)</strong> on our site. Please verify the URL. The page may be removed or
+renamed or doesn't exist. Please use the above links or search option also to find your requested page. Sorry for the inconvenience.
+</div>
+<div class="alert alert-info" role="alert">
+If you think what you're looking for should be here, please inform us about this or any suggestions or ideas by using contact us
+option in the bottom links.
+Otherwise, please enjoy our site. Thanks.
+</div>
+<br>
+</div>
+<div class="col-md-3 "><br>
+<div class="bg-light1 pt-2 pb-2">
+
+<div class=" mb-1 small alert-info" style="text-align:center">Know USA cultural places/events</div><div class=" mb-1 small alert-info d-sm-block d-md-none1" style="text-align:center">Enjoy Attraction or Event before visit</div><div class=" mb-1 small alert-info mx-auto" style="text-align:center">No Ads or Spam, free Content</div><div title="American(Hollywood) videos with Indian(Bollywood) music" class=" mb-1 small alert-info mx-auto" style="text-align:center">HollyBollywood Videos <a href="purpose.php#highlights" title="More About Us">More</a></div>
+<div class="card mb-2" style="text-align:center">
+
+
+<a class="a2a_dd" href="https://www.addtoany.com/share"><img src="https://static.addtoany.com/buttons/share_save_106_16.png" width="106" height="16" border="0" alt="Share" /></a>
+<script>
+                                        var a2a_config = a2a_config || {};
+                                        a2a_config.onclick = 1;
+                                        </script>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
+
+</div>
+<div class="card mb-2" style="text-align:center">
+<div class="card-body p-0">
+<a target="_blank" href="https://www.facebook.com/OurTripVideos.US" rel="nofolllow" title="OurTripVideos on Facebook"><img border="0" src="/images/icons/facebook_share_icon.gif" alt="OurTripVideos on Facebook" title="OurTripVideos on Facebook"></a>
+<a target="_blank" href="https://twitter.com/OurTripVideos" rel="nofolllow" title="Post this Video information to Twitter"><img border="0" src="/images/icons/twiitericon.gif" alt="Post this Video information to Twitter" title="OurTripVideos on Twitter"></a>
+<a target="_blank" href="https://www.youtube.com/OurTripVideos" title="OurTripVideos on YouTube"><img title="OurTripVideos on YouTube" alt="OurTripVideos on YouTube" border="0" src="/images/icons/Youtube-icon.png" width="31" height="13"></a>
+<a target="_blank" href="https://www.instagram.com/ourtripvideos/" rel="nofolllow" title="OurTripVideos on Instagram"><img border="0" src="/images/icons/insta.jpg" alt="OurTripVideos on Instagram" title="OurTripVideos on Instagram"></a>
+
+<a href="https://www.pinterest.com/ourtripvideos/pins/" target="_blank" title="OurTripVideos on Pinterest"><img style src="/images/icons/Pinterest-16.png" alt="OurTripVideos on Pinterest" title="OurTripVideos on Pinterest" valign="top" border="0"></a>
+<a href="https://www.linkedin.com/in/ourtripvideos/" target="_blank" title="OurTripVideos on LinkedIn"><img style src="/images/icons/linkedin.gif" alt="OurTripVideos on LinkedIn" title="OurTripVideos on LinkedIn" valign="top" border="0"></a>
+
+<a href="https://www.flickr.com/photos/ourtripvideos/" target="_blank" title="OurTripVideos on Flickr"><img style src="/images/icons/flickr.gif" alt="OurTripVideos on Flickr" title="OurTripVideos on Flickr" valign="top" border="0" width="13" height="13"></a>
+
+
+<a href="https://foursquare.com/ourtripvideos" target="_blank" title="OurTripVideos on Foursquare"><img style src="/images/icons/foursquare_app_icon.jpg" alt="OurTripVideos on Foursquare" title="OurTripVideos on Foursquare" valign="top" border="0"></a>
+
+<a href="https://feeds2.feedburner.com/OurtripvideosRSS" target="_blank" title="Website Feed"><img style src="/images/icons/podcast_rss1010.gif" alt="Website Feed" title="Website Feed" valign="top" border="0" width="13" height="13"></a>
+<a href="https://feeds.feedburner.com/Ourtripvideos-UpcomingEvents" target="_blank" title="Website Upcoming videos Feed"><img style src="/images/icons/podcast_rss1010.gif" alt="Website Upcoming videos Feed" title="Website Upcoming videos Feed" valign="top" border="0" width="13" height="13"></a>
+<a href="https://blog.ourtripvideos.com/index.php/" target="_blank" title="Website Blog for our updates and your comments"><img style src="/images/icons/podcast_blog2020.gif" alt="Website Blog for  your comments" title="Website Blog for your comments" valign="top" border="0" width="13" height="13"></a>
+</div>
+</div>
+
+
+</div><br>
+</div> 
+</div>
+
+</div> 
+
+
+<div class="container">
+<div class="row bg-white shadow border-top">
+<div class=" w-100    text-center  border-secondary">&nbsp;
+<a href="/contactus.php" title="Contact Us">Contact</a> &nbsp;&nbsp;
+<a href="/donors.php" title="Support and Donors">Support</a> &nbsp;&nbsp; <a href="/purpose.php" title="Purpose of the website/About">About</a> &nbsp;&nbsp; <a href="/links.php" title="Links">Links</a> &nbsp;&nbsp; <a href="/tips.php" title="Tips">Tips</a> &nbsp;&nbsp;
+<a href="/faq.php" title="FAQ">FAQ</a> &nbsp;&nbsp;
+<a href="/disclaimer.php" title="Disclaimer">Disclaimer</a> &nbsp;&nbsp; <a href="/privacy.php" title="Privacy">Privacy</a> &nbsp;&nbsp; <a href="/sitemap.php" title="Sitemap">Sitemap</a> &nbsp;&nbsp;
+<a href="/admin/dashboard.php" title="Admin Tasks"><i class="fa fa-user icon"></i></a>
+</div>
+</div></div>
+<div class="container">
+<div class="row shadow">
+<footer class="footer mx-auto w-100" style="background-color:#141F4B;color:white;text-align:center">
+<div class="container">
+<style>
+		.footer_legal_block {
+		  text-align: center;
+		  font-size: 14px;
+		}
+		.privacy_links {
+		  margin: 0 auto;
+		  padding-top: 4px;padding-right: 4px;
+		  text-align: center;
+		}
+		.privacy_links li {
+		  display: inline-block;
+		}
+		li {
+		  display: list-item;
+		  text-align: -webkit-match-parent;
+		}
+		.anodec {
+			text-decoration: none;
+			color : white;
+		}
+		</style>
+<small>Share the Information with World<br/>
+&copy; 2018-2023 OurTripVideos, All rights reserved.<br class="d-block d-sm-block d-md-none"> Last Updated date : Wed, 13 Dec 2023.</small>
+</div>
+</footer>
+<div id="cookie_directive_container" class="w-100" style="display: none">
+<nav class="navbar    fixed-bottom w-100  bg-dark">
+<div class="bg-dark  text-center justify-content-center w-100  text-white" id="cookie_accept">
+<span class>
+By using this site, you agree to our Privacy Policy and our Terms of Use.
+
+<a href="privacy.php" title="Privacy Policy" class="btn btn-info btn-sm text-white">More</a>
+<a href="#" id="btnClose" title="Agreeing and Continuing to use the website" class="btn btn-primary btn-sm text-white">Ok</a>
+</span>
+</div>
+</nav>
+</div>
+</div></div>
+<style>
+#return-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    /*background: white;*/
+    background: grey;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 16px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: green;
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: 5px;
+}
+	</style>
+<a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
+
+<script>
+$( document ).ready(function() {
+	
+		// ===== Scroll to Top ==== 
+		$(window).scroll(function() {
+			if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+				$('#return-to-top').fadeIn(200);    // Fade in the arrow
+			} else {
+				$('#return-to-top').fadeOut(200);   // Else fade out the arrow
+			}
+		});
+		$('#return-to-top').click(function() {      // When arrow is clicked
+			$('body,html').animate({
+				scrollTop : 0                       // Scroll to top of body
+			}, 500);
+		});
+	
+});
+ 
+$(document).ready(function () {
+    //Disable cut copy paste
+    $('body').bind('cut copy', function (e) {
+        e.preventDefault();
+    });
+   
+    //Disable mouse right click
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+}); 
+ 
+</script>
+<script>
+    //--cookie script
+jQuery(function($) {
+    
+    var cookieconsentNm = "cookies_consent";
+    
+    //delete_cookie(cookieconsentNm);
+    
+    checkCookie_eu();
+
+    function checkCookie_eu()
+    {
+
+        var consent = getCookie_eu(cookieconsentNm);
+
+        if (consent == null || consent == "" || consent == undefined)
+        {
+            // show notification bar
+            $('#cookie_directive_container').show();
+        }
+
+    }
+    function delete_cookie(name) {
+        document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    };
+    function setCookie_eu(c_name,value,exdays)
+    {
+
+        var exdate = new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value = escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie = c_name + "=" + c_value+"; path=/";
+
+        $('#cookie_directive_container').hide('slow');
+    }
+
+
+    function getCookie_eu(c_name)
+    {
+        var i,x,y,ARRcookies=document.cookie.split(";");
+        for (i=0;i<ARRcookies.length;i++)
+        {
+            x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+            y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+            x=x.replace(/^\s+|\s+$/g,"");
+            if (x==c_name)
+            {
+                return unescape(y);
+            }
+        }
+    }
+
+    $("#btnClose").click(function(){
+        setCookie_eu(cookieconsentNm, 1, 30);
+    });
+
+});    
+</script> </body>
+</html>
