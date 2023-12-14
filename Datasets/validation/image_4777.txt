@@ -1,0 +1,1 @@
+Main Question Given an arithmetic formula Ф computing the zero polynomial, what is the minimal number of such elementary operations one needs to perform in order to reach 0 .

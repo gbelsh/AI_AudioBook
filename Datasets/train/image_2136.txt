@@ -1,0 +1,1 @@
+Load Control Load control is concerned with determining the number of processes that will be resident in main memory, which has been referred to as the multiprogramming level.The load control policy is critical in effective memory management.

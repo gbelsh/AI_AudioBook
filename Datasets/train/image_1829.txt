@@ -1,0 +1,1 @@
+Right Triangles Longest side is the hypotenuse, side c (opposite the 90o angle) The other two sides are the legs, sides a and b.

@@ -1,0 +1,1 @@
+51 Basis of functions for v We choose piecewise linear functions which are one at a particular grid-point and zero at all other grid-points (triangle or tent-function) Basic tent-function (blue) and superposition to piecewise linear function (red) We get function value and derivative by interpolation.
